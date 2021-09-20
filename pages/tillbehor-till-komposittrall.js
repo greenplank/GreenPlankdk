@@ -40,7 +40,7 @@ const tillbehortillkomposittrall = () => {
             <Layout pageTitle="tillbehor-till-komposittrall">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="tillbehor-till-komposittrall" crumbTitle="tillbehor-till-komposittrall" />
+                <PageHeader title="Tillbehor-Till-Komposittrall" crumbTitle="tillbehor-till-komposittrall" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>

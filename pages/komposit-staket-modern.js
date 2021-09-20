@@ -31,7 +31,7 @@ const kompositstaketmodern = () => {
     <Layout pageTitle="komposit-staket-modern">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Komposit-staket-modern" crumbTitle="komposit-staket-modern" />
+      <PageHeader title="Komposit Staket Modern" crumbTitle="komposit-staket-modern" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>

@@ -18,7 +18,7 @@ const BestallProv = () => {
       </Head>
       <Layout pageTitle="Bestall-prov">
         <HeaderTwo />
-        <PageHeader title="Prover beställning" crumbTitle="bestall-prov" />
+        <PageHeader title="Prover Beställning" crumbTitle="bestall-prov" />
         <StickyHeader />
         <ContactCard />
         <BrandCarousel />

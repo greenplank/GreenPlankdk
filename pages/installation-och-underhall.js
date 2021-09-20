@@ -28,7 +28,7 @@ const InstallationUnderhall = () => {
       </Head>
       <Layout pageTitle="installation-och-underhall">
         <HeaderTwo />
-        <PageHeader title="Installation-och-underhall" crumbTitle="installation-och-underhall" />
+        <PageHeader title="Installation och Underhall" crumbTitle="installation-och-underhall" />
         <StickyHeader />
         <section className="about-one pt-120 pb-40">
           <Container>

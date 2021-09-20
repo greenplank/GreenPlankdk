@@ -31,7 +31,7 @@ const evertilebalkongplattoret703t = () => {
             <Layout pageTitle="evertile-balkongplattor-et703t">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="evertile-balkongplattor-et703t" crumbTitle="evertile-balkongplattor-et703t" />
+                <PageHeader title="Evertile Balkongplattor-et-703t" crumbTitle="evertile-balkongplattor-et703t" />
                 <section className="blog-details pt-40 pb-40">
                     <Container>
                         <Row>

@@ -34,7 +34,7 @@ const fasadpanelgp801 = () => {
       <Layout pageTitle="primacap-fasadpanel-gp801">
         <HeaderTwo />
         <StickyHeader />
-        <PageHeader title="primacap-fasadpanel-gp801" crumbTitle="gp801" />
+        <PageHeader title="Primacap Fasadpanel-gp801" crumbTitle="gp801" />
         <section className="blog-details pt-120 pb-40">
           <Container>
             <Row>

@@ -18,7 +18,7 @@ const Entratrall = () => {
             </Head>
             <Layout pageTitle="Entra trall">
                 <HeaderTwo />
-                <PageHeader title="Entra trall" crumbTitle="Entratrall" />
+                <PageHeader title="Entra Trall" crumbTitle="Entratrall" />
                 <StickyHeader />
                 <EntraTrallSection />
                 <BrandCarousel />

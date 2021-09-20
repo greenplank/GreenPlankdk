@@ -19,7 +19,7 @@ const BliCertifieradHantverkare = () => {
       </Head>
       <Layout pageTitle="Bli en Green Plank certifierad">
         <HeaderTwo />
-        <PageHeader title="Bli-en-green-plank-certifierad-hantverkare" crumbTitle="bli-en-certifierad" />
+        <PageHeader title="Bli en GreenPlank Certifierad Hantverkare" crumbTitle="bli-en-certifierad" />
         <StickyHeader />
         <section className="about-one pt-120 pb-40">
           <Container>

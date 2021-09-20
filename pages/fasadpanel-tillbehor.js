@@ -23,10 +23,10 @@ const fasadpaneltillbehor = () => {
                 <meta name="title" content="Tillbehör för komposit fasadpanel - GreenPlank.se" />
                 <meta name="description" content="Green Plank fasadpanel tillbehör utvidgar din horisont ytterligare och låter dig bygga distinkta och förtjusande funktioner i din fasadbeklädnad." />
             </Head>
-            <Layout pageTitle="fasadpanel-tillbehor">
+            <Layout pageTitle="Fasadpanel-Tillbehor">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="fasadpanel-tillbehor" crumbTitle="fasadpanel-tillbehor" />
+                <PageHeader title="Fasadpanel-Tillbehor" crumbTitle="fasadpanel-tillbehor" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>

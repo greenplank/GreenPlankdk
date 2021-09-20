@@ -32,7 +32,7 @@ const instaclikbalkongplattor = () => {
             <Layout pageTitle="instaclik-balkongplattor-gp702t">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="instaclik-balkongplattor-gp702t" crumbTitle="instaclik-balkongplattor-gp702t" />
+                <PageHeader title="Instaclik Balkongplattor-gp-702t" crumbTitle="instaclik-balkongplattor-gp702t" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>

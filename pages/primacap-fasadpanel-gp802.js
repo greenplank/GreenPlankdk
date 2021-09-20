@@ -30,10 +30,10 @@ const fasadpanelgp802 = () => {
         <meta name="title" content="PRIMACAP™ Fasadpanel – GP802 - GreenPlank.se" />
         <meta name="description" content="Komposit fasadpanel GP802. Denna lätta, brandhämmande, supertåliga kompositpanel med låg underhåll, är belagd med en revolutionerande ASA-mantel." />
       </Head>
-      <Layout pageTitle="primacap-fasadpanel-gp802">
+      <Layout pageTitle="Primacap Fasadpanel-gp802">
         <HeaderTwo />
         <StickyHeader />
-        <PageHeader title="primacap-fasadpanel-gp802" crumbTitle="gp802" />
+        <PageHeader title="Primacap Fasadpanel-gp802" crumbTitle="gp802" />
         <section className="blog-details pt-120 pb-40">
           <Container>
             <Row>

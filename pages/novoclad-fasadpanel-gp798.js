@@ -32,10 +32,10 @@ const fasadpanelgp798 = () => {
                 <meta name="title" content="NOVOCLAD™ Fasadpanel – GP798 - GreenPlank.se" />
                 <meta name="description" content="Underhållsfri komposit fasadpanel GP798. Fasadbeklädnad av naturligt kompositmaterial." />
             </Head>
-            <Layout pageTitle="novoclad-fasadpanel-gp798">
+            <Layout pageTitle="Novoclad Fasadpanel-gp798">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="novoclad-fasadpanel-gp798" crumbTitle="novoclad-fasadpanel-gp798" />
+                <PageHeader title="Novoclad Fasadpanel-gp798" crumbTitle="novoclad-fasadpanel-gp798" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>

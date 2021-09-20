@@ -22,10 +22,10 @@ const everdeck = () => {
                 <meta name="title" content="EVERDECK™ - GreenPlank.se" />
                 <meta name="description" content="Komposittrall med träkänsla, kvalitet och skönhet i fokus. Prisvärda kompositdäck som passar stil och budget." />
             </Head>
-            <Layout pageTitle="everdeck-komposittrall">
+            <Layout pageTitle="Everdeck Komposittrall">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="everdeck-komposittrall" crumbTitle="everdeck-komposittrall" />
+                <PageHeader title="Everdeck Komposittrall" crumbTitle="everdeck-komposittrall" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>
