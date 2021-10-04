@@ -19,7 +19,8 @@ const HemGallery = () => {
                     <Col xl={12}>
                         {/* section title */}
                         <div className="text-center block-title ">
-                            <h3>Green Plank komposittrall produkter</h3>
+                            <h3>
+                                Green Plank dækprodukter</h3>
                         </div>
                     </Col>
                 </Row>
@@ -31,7 +32,7 @@ const HemGallery = () => {
                                     <div className="mt-20 mb-20">
                                         <img src={SmartTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
-                                            <h2 className="title" style={{ color: "white" }}><b>Smart Trall</b></h2>
+                                            <h2 className="title" style={{ color: "white" }}><b>Smart pyntede</b></h2>
                                         </div>
                                     </div>
                                 </a>
@@ -43,7 +44,7 @@ const HemGallery = () => {
                                     <div className="mt-10 mb-10 ">
                                         <img src={SmaertClassic} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
-                                            <h3 className="title text-center" style={{ color: "white" }}><b>Smart Classic</b></h3>
+                                            <h3 className="title text-center" style={{ color: "white" }}><b>Smart klassisk</b></h3>
                                         </div>
                                     </div>
                                 </a>
@@ -53,7 +54,7 @@ const HemGallery = () => {
                                     <div className="mt-10 mb-10">
                                         <img src={SmartCap} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
-                                            <h3 className="title" style={{ color: "white" }}><b>Smart Cap</b></h3>
+                                            <h3 className="title" style={{ color: "white" }}><b>Smart cap</b></h3>
                                         </div>
                                     </div>
                                 </a>
@@ -67,7 +68,7 @@ const HemGallery = () => {
                                     <div className="mb-20 mt-20">
                                         <img src={MarineTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
-                                            <h3 className="title" style={{ color: "white" }}><b>Marine Trall</b></h3>
+                                            <h3 className="title" style={{ color: "white" }}><b>havdæk</b></h3>
                                         </div>
                                     </div>
                                 </a>
@@ -77,7 +78,7 @@ const HemGallery = () => {
                                     <div className="mb-20 mt-20">
                                         <img src={EntraTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
-                                            <h3 className="title" style={{ color: "white" }}><b>Entra Trall</b></h3>
+                                            <h3 className="title" style={{ color: "white" }}><b>entra pyntede</b></h3>
                                         </div>
                                     </div>
                                 </a>
@@ -89,7 +90,7 @@ const HemGallery = () => {
                                     <div className="mt-10">
                                         <img src={ClassicTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
-                                            <h3 className="title" style={{ color: "white" }}><b>Classic Trall</b></h3>
+                                            <h3 className="title" style={{ color: "white" }}><b>klassisk pyntede</b></h3>
                                         </div>
                                     </div>
                                 </a>

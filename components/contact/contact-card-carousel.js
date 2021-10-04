@@ -35,9 +35,9 @@ const ContactCardCarousel = () => {
               style={{ backgroundImage: `url(${cardBg})` }}
             >
               <i aria-label="contact icon" className="azino-icon-family"></i>
-              <h3>Handla om</h3>
+              <h3>Om</h3>
               <p>
-              Green Plank-produkter används av många svenska <br />kommuner över hela Sverige
+              Green Plank -produkter bruges af mange svenskere <br />kommuner i hele Sverige
               </p>
             </div>
           </SwiperSlide>
@@ -47,7 +47,7 @@ const ContactCardCarousel = () => {
               style={{ backgroundImage: `url(${cardBg})` }}
             >
               <i aria-label="contact icon" className="azino-icon-address"></i>
-              <h3>Adress</h3>
+              <h3>Adresse</h3>
               <p>
               Sadelgatan 9, SE-213 77<br />  Malmö,{" "}
                 <br />  Sweden.
@@ -62,7 +62,7 @@ const ContactCardCarousel = () => {
               <i aria-label="contact icon" className="azino-icon-contact"></i>
               <h3>Kontakt</h3>
               <p>
-                <a href="mailto:info@greenplank.se">info@greenplank.se</a> <br />{" "}
+                <a href="mailto:info@greenplank.dk">info@greenplank.dk</a> <br />{" "}
                 <a href="tel:+46 40 450 560">+46 40 450 560</a>
               </p>
             </div>

@@ -12,13 +12,13 @@ const BestallProv = () => {
   return (
     <>
       <Head>
-        <title>Beställ prover </title>
+        <title>Prøverækkefølge</title>
         <meta name="title" content="Beställ prover | Golv | Komposittrall | Plankor | Plattor" />
         <meta name="description" content="När du bestämmer dig för en ny komposittrall kommer du säkert att ha några frågor på vägen. Produktprover är ett bra sätt att få en uppfattning!" />
       </Head>
-      <Layout pageTitle="Bestall-prov">
+      <Layout pageTitle="Prøverækkefølge">
         <HeaderTwo />
-        <PageHeader title="Prover Beställning" crumbTitle="bestall-prov" />
+        <PageHeader title="Prøverækkefølge" crumbTitle="Prøverækkefølge" />
         <StickyHeader />
         <ContactCard />
         <BrandCarousel />

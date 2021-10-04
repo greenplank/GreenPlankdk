@@ -11,13 +11,13 @@ const Aterfarsaljare = () => {
   return (
     <>
       <Head>
-        <title>Återförsäljare</title>
+        <title>Distributører</title>
         <meta name="title" content="Återförsäljare av hållbara byggprodukter- GreenPlank.se" />
         <meta name="description" content="Hitta din Green Plank-återförsäljare för våra många hållbara kompositprodukter nära dig." />
       </Head>
       <Layout pageTitle="Om oss - Hållbart byggande produkter - GreenPlank.se">
         <HeaderTwo />
-        <PageHeader title="Hitta Green Plank Återförsäljare" crumbTitle="Aterfarsaljare" />
+        <PageHeader title="Find Green Plank-forhandlere" crumbTitle="Distributører" />
         <StickyHeader />
         <AterfarsaljareTextSection />
         <Footer />

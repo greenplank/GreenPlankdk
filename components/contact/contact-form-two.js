@@ -386,22 +386,22 @@ export default function ContactFormTwo() {
               <div className="row row-10">
 
                 <div>
-                  <h3 className="mt-10">Företag och Byggare:
+                  <h3 className="mt-10">Udfyld formularen og få GRATIS prøve nu
                   </h3>
-                  <p className="mt-10 mb-40">Vänligen skicka oss ett Email på <a href="mailto:info@greenplank.se">info@greenplank.se</a> med er begäran på prover så löser vi det med er.
+                  <p className="mt-10 mb-40">Send os en e -mail på <a href="mailto:info@greenplank.dk">info@greenplank.dk</a> med din anmodning om prøver, løser vi det med dig.
                   </p>
                 </div>
                 <div className="mb-40">
                   <h3 className="mt-10">Privatpersoner:
                   </h3>
-                  <p className="mb-40">Skicka en betalning på 100 kr till följande Gankgiro – 5902-1543: För att beställa ett prov. (Priset på provbiten är gratis. detta är endast för att täcka fraktkostnaden.)
+                  <p className="mb-40">Send en betaling på 100 SEK til følgende Gankgiro - 5902-1543: For at bestille en prøve. (Prisen på prøven er gratis. Dette er kun for at dække forsendelsesomkostningerne.)
                   </p>
                 </div>
                 <div className=" col-12 mb-20">
 
                   <select id='product' name='product' value={selected} onChange={changeSelectOptionHandler}>
                     <option>
-                      välj produkter...................</option>
+                    udvalgte produkter...................</option>
                     <option>Green Plank SMART™ Decking System – Smart Classic™</option>
                     <option>Green Plank SMART™ Decking System – Smart Regular™</option>
                     <option>Green Plank SMART™ Decking System – Smart Marine™</option>
@@ -450,7 +450,7 @@ export default function ContactFormTwo() {
                     id="name"
                     fullWidth
                     name="name"
-                    label="FÖRNAMN"
+                    label="FORNAVN"
                     value={name} 
                     onChange={(event) => setName(event.target.value)}
                     variant="filled"
@@ -461,7 +461,7 @@ export default function ContactFormTwo() {
                     id="lastname"
                     fullWidth
                     name="lastname"
-                    label="EFTERNAMN"
+                    label="EFTERNAVN"
                     value={lastname}
                     onChange={(event) => setLastName(event.target.value)}
                     variant="filled"
@@ -472,7 +472,7 @@ export default function ContactFormTwo() {
                    id="email"
                     fullWidth
                     name="email"
-                    label="E-POSTADRESS"
+                    label="EMAIL ADRESSE "
                     helperText={emailHelper} 
                     error={emailHelper.length !== 0}
                     value={email}
@@ -549,7 +549,7 @@ export default function ContactFormTwo() {
                     fullWidth
                     name="subject"
                     controlId="formGridCity"
-                    label="Subject"
+                    label="Emne"
                     value={subject} 
                     onChange={(event) => setSubject(event.target.value)}
                     variant="filled"
@@ -561,7 +561,7 @@ export default function ContactFormTwo() {
                     fullWidth
                     name="message"
                     controlId="formGridCity"
-                    label="Meddelande "
+                    label="Besked "
                     InputProps={{ disableUnderline: true }}
                     multiline rows={10} 
                     value={message} 
@@ -582,7 +582,7 @@ export default function ContactFormTwo() {
                         }}
                       />
                     }
-                    label="Jag godkänner villkoren"
+                    label="Jeg accepterer vilkårene"
                   />
                 </div>
                 <div className="col-md-6 col-12 mb-20">

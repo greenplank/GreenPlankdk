@@ -85,7 +85,7 @@ const HeaderTwo = () => {
               <div className="header-info__box-content">
                 <h3>Email</h3>
                 <p>
-                  <a href="mailto:info@greenplank.se">info@greenplank.se</a>
+                  <a href="mailto:info@greenplank.dk">info@greenplank.dk</a>
                 </p>
               </div>
             </div>
@@ -112,7 +112,7 @@ const HeaderTwo = () => {
         <Container>
           <NavLinks />
           <Link href="/bestall-prov">
-            <a className="thm-btn rounded-pill">Beställ prov</a>
+            <a className="thm-btn rounded-pill">bestil prøve</a>
           </Link>
         </Container>
       </nav>

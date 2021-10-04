@@ -13,14 +13,9 @@ const HemLastSection = () => {
                 <div className="text-center block-title" >
                     <h3 className="block title" style={{ marginBottom: "1em" }}>
                         <img src={heart} width="15" alt="" />
-                        Green Plank komposittrall jämfört med trä
+                        Green Plank kompositplade sammenlignet med træ
                     </h3>
-                    <h4>
-                        När man jämför Komposit vs Trä är hållbarhet en av de största skillnaderna. Sedan 1980 har träplastkomposit, även känt som WPC, träalternativ eller naturfibrer komposit (NFC) snabbt blivit det snabbast växande terrassmaterialet för bostäder och kommersiellt bruk.
-                        Många husägare väljer trädäck eftersom det är bekant, lättillgängligt och prisvärt. Samtidigt orsakar trästycksproblem som splinter, röta och högt underhåll många huvudvärk.
-                    </h4>
-                    <h5>Även om träplattor i komposit är lättare att underhålla, oroar vissa husägare att kompositer inte ser lika bra ut som trä. Green Plank har dock utvecklat kompositer som efterliknar det rika, naturliga utseendet på trä utan besväret med att underhålla ett trädäck.
-                        Green Plank kompositplattor är ett miljövänligt träalternativ som kombinerar återvunnen plast och trä / ris skalfibrer. Green Plank komposittrall är lätt tillgänglig i de flesta stora byggvaruaffärer i hela Europa.</h5>
+                    <h5>Når man sammenligner Komposit Terrassebrædder vs Wooden Terrassebrædder, er holdbarhed en af ​​de største forskelle. Siden 1980 er træplastkomposit, også kendt som WPC, træalternativer eller naturlige fibre-komposit (NFC) hurtigt blevet det hurtigst voksende pyntemateriale til privat brug og kommerciel brug. Mange husejere vælger træplanker, fordi det er velkendt, let tilgængeligt og overkommeligt. På samme tid forårsager træplankeproblemer som splinter, råd og høj vedligeholdelse mange hovedpine. Selvom komposit træplader er lettere at vedligeholde, er nogle husejere bekymrede for, at kompositter ikke ser så pæne ud som træ. Green Plank har dog udviklet kompositter, der efterligner det rige, naturlige udseende af træ uden besværet med at vedligeholde et trædæk. Green Plank kompositplanker er et miljøvenligt træalternativ, der kombinerer genbrugsplast og træ / ris skalfibre. Green Plank Komposit terrassebrædder er let tilgængelige på de fleste store bygningsforsyningsbutikker i hele Europa.</h5>
                 </div>
             </Container>
         </section>

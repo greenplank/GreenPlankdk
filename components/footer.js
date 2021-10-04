@@ -14,16 +14,16 @@ const Footer = () => {
           <Row>
             <Col lg={2} md={6} sm={12}>
               <div className="footer-widget footer-widget__link mb-40">
-                <h3 className="footer-widget__title">KUNDTJÄNST</h3>
+                <h3 className="footer-widget__title">KUNDE SERVICE</h3>
                 <ul className="list-unstyled" >
                   <li>
                     <Link href="/aterfarsaljare" >
-                      <a style={{color:"white"}}>Återförsäljare</a>
+                      <a style={{color:"white"}}>Distributører</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/hitta-hantverkare">
-                      <a style={{color:"white"}}>Hitta Green Plank certifierade hantverkare</a>
+                      <a style={{color:"white"}}>Salgsbetingelser</a>
                     </Link>
                   </li>
                   <li>
@@ -33,12 +33,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/anvandarvillkor">
-                      <a style={{color:"white"}}>Användningsvillkor</a>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="/integritetspolicy">
-                      <a style={{color:"white"}}>Integritetspolicy</a>
+                      <a style={{color:"white"}}>Betingelser for brug                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </a>
                     </Link>
                   </li>
                   
@@ -47,7 +42,7 @@ const Footer = () => {
             </Col>
             <Col lg={2} md={6} sm={12}>
               <div className="footer-widget footer-widget__link mb-40">
-                <h3 className="footer-widget__title">Företagsinformation</h3>
+                <h3 className="footer-widget__title">CORPORATE INFO</h3>
                 <ul className="list-unstyled" >
                   <li>
                     <Link href="/om-oss" >
@@ -56,22 +51,22 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/karriar">
-                      <a style={{color:"white"}}>Karriär</a>
+                      <a style={{color:"white"}}>Karriar</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/bli-aterforsaljare">
-                      <a style={{color:"white"}}>Bli en Återförsäljare</a>
+                      <a style={{color:"white"}}>Bliv distributør</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/bli-en-green-plank-certifierad-hantverkare">
-                      <a style={{color:"white"}}>Bli en Green Plank certifierad hantverkare</a>
+                      <a style={{color:"white"}}>Bliv en grøn installatør</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/rengoring">
-                      <a style={{color:"white"}}>Rengöring</a>
+                      <a style={{color:"white"}}>Rengøring</a>
                     </Link>
                   </li>
                   
@@ -80,13 +75,8 @@ const Footer = () => {
             </Col>
             <Col lg={2} md={6} sm={12}>
               <div className="footer-widget footer-widget__link mb-40">
-                <h3 className="footer-widget__title">Resurser</h3>
+                <h3 className="footer-widget__title">RESSOURCER</h3>
                 <ul className="list-unstyled" >
-                  <li>
-                    <Link  href="/pdfs/Teknish-Brochyr/Teknisk-Brochyr-ver-1.3.pdf"  >
-                      <a target="_blank" style={{color:"white"}}>Teknisk Brochyr</a>
-                    </Link>
-                  </li>
                   <li>
                     <Link href="/installation-och-underhall">
                       <a style={{color:"white"}}>Installation och underhåll</a>
@@ -94,7 +84,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/faqs">
-                      <a style={{color:"white"}}>Faqs</a>
+                      <a style={{color:"white"}}>Ofte stillede spørgsmål</a>
                     </Link>
                   </li>
                   <li>
@@ -104,17 +94,12 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/artiklar">
-                      <a style={{color:"white"}}>Artiklar</a>
+                      <a style={{color:"white"}}>Artikler</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/resurser">
-                      <a style={{color:"white"}}> Alla resurser</a>
-                    </Link>
-                  </li>
-                  <li>
-                    <Link href="/bibliotek">
-                      <a style={{color:"white"}}> Bibliotek</a>
+                      <a style={{color:"white"}}>Alle ressourcer</a>
                     </Link>
                   </li>
                 </ul>
@@ -123,7 +108,7 @@ const Footer = () => {
    
             <Col lg={3} md={6} sm={12}>
               <div className="footer-widget mb-40 footer-widget__about">
-              <h3 className="footer-widget__title">Följ oss</h3>
+              <h3 className="footer-widget__title">Følg os</h3>
                 <ul className="list-unstyled footer-widget__contact">
                   <li>
                     <a href="tel:+46 40 450 560">
@@ -131,8 +116,8 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="mailto:info@greenplank.se">
-                      <i className="azino-icon-email"></i>info@greenplank.se
+                    <a href="mailto:info@greenplank.dk">
+                      <i className="azino-icon-email"></i>info@greenplank.dk
                     </a>
                   </li>
                   <li>

@@ -13,13 +13,13 @@ const Contact = () => {
   return (
     <>
       <Head>
-        <title>Kontakta oss </title>
-        <meta name="title" content="Kontakta oss | Kundtjänst - GreenPlank.se" />
+        <title>Kontakt os</title>
+        <meta name="title" content="Kontakt os | Kundtjänst - GreenPlank.se" />
         <meta name="description" content="GreennPlank laget är alla öron på alla dina frågor och problem. Kontakta oss och vårt kundtjänstteam hjälper dig med det du har problem med." />
       </Head>
-      <Layout pageTitle="Kontakta oss | Kundtjänst - GreenPlank.se">
+      <Layout pageTitle="Kontakt os | Kundtjänst - GreenPlank.se">
         <HeaderTwo />
-        <PageHeader title="Kontaktsida" crumbTitle="Kontakta oss" />
+        <PageHeader title="Kontakt os" crumbTitle="Kontakta oss" />
         <StickyHeader />
         <ContactFormOne />
         <ContactCardCarousel />

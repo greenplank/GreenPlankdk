@@ -11,13 +11,13 @@ const HittaHantverkare = () => {
   return (
     <>
       <Head>
-        <title>Hitta Hantverkare</title>
-        <meta name="title" content="Hitta hantverkare av hållbara byggprodukter - GreenPlank.se" />
+        <title>Find installatør</title>
+        <meta name="title" content="Find installatør av hållbara byggprodukter - GreenPlank.se" />
         <meta name="description" content="Hitta din Green Plank-återförsäljare för våra många hållbara kompositprodukter nära dig." />
       </Head>
-      <Layout pageTitle="Om oss - Hållbart byggande produkter - GreenPlank.se">
+      <Layout pageTitle="Find Green Plank Installer - GreenPlank.dk">
         <HeaderTwo />
-        <PageHeader title="Hitta Green Plank Hantverkare" crumbTitle="HittaHantverkare" />
+        <PageHeader title="Find Green Plank Installer" crumbTitle="Find Green Plank Installer" />
         <StickyHeader />
         <HittaTextSection />
         <Footer />

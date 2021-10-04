@@ -9,7 +9,7 @@ const HittaTextSection = () => {
 
             <Container>
                 <div className="text-center block-title" >
-                    <h5>Hitta den Hantverkare av Green Plank naturfiber komposit produkter som ligger närmast dig. Lär dig var du kan köpa Green Plank trall, staket, beklädnads material och de förnödenheter du behöver för att slutföra ditt nya projekt.</h5>
+                    <h5>Find en Green Plank-forhandler af naturlige fibre til sammensatte produkter, der er nærmest dig. Lær, hvor du kan købe Green Plank pyntede, hegn, beklædningsmaterialer og de forsyninger, du har brug for for at gennemføre dit nye projekt.</h5>
                 </div>
                 <div>
                 <iframe src="https://storage.googleapis.com/greenplankdata1/index.html" width="100%" height="600px" scrolling="no" frameborder="no" allowtransparency="true"></iframe>

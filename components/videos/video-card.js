@@ -24,15 +24,15 @@ const VideoCard = () => {
       <Container className=" text-center pt-60 pb-60">
         <h3>
           <img src={heart} width="15" alt="" />
-          Varför Green Plank?
+          Hvorfor Green Plank?
         </h3>
         <h4 style={{color:"white"}}>
-        Varumärket Green Plank är ett hållbart varumärke för byggprodukter som representerar kvalitet, expertis och innovation i mer än 15 år. Green Plank står för innovation, tillförlitlighet, kvalitet, förtroende och kompetens – det här är grunden för vår verksamhet. Vi drivs av en passion för hållbara byggprodukter och detta återspeglas i var och en av våra produkter.
+        Green Plank-mærket er et bæredygtigt byggeproduktmærke, der repræsenterer kvalitet, ekspertise og innovation i mere end 15 år. Green Plank står for innovation, pålidelighed, kvalitet, tillid og kompetence – det er grundlaget for vores forretning. Vi er drevet af en passion for bæredygtige byggeprodukter, og det afspejles i hvert af vores produkter. Som et paraplymærke inkluderer Green Plank en bred brandportefølje i de fire kategorier af terrasser, facadebeklædning, planker og hegn, herunder produktmærker som AVON Flooring. Vi er det ideelle valg til krævende applikationer såsom hotelplanker såvel som andre offentlige områder som parker, forfriskningsbarer, verandaer og klubhusplanker.
         </h4>
-        <h5 style={{color:"white",marginTop:"1em"}}>Som ett paraplymärke omfattar Green Plank en bred varumärkesportfölj i de fyra kategorierna terrasser, fasadbeklädnad, plankor och staket, inklusive produktmärke som AVON Flooring. Green Plank är det perfekta valet för krävande applikationer som hotellplattformar, liksom andra allmänna utrymmen som parker, förfriskningsbarer, verandor och klubbhusplattformar. Green Plank kompositplattor är hållbara, barfota vänliga och lätta att hålla i utmärkt skick år efter år.</h5>
+        <h5 style={{color:"white",marginTop:"1em"}}>Vores sammensatte planke er holdbar, barfodsvenlig og nem at vedligeholde i fremragende stand år efter år.</h5>
         <div className="video-card__btn-block">
           <Link href="/bestall-prov">
-            <a className="thm-btn dynamic-radius">Beställ prov</a>
+            <a className="thm-btn dynamic-radius">bestil prøve</a>
           </Link>
         </div>
       </Container>

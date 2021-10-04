@@ -12,7 +12,7 @@ const AboutOne = () => {
         <Row style={{ marginBottom: "4em" }}>
           <Col lg={12}>
             <h4 style={{ marginBottom: "2em" }}>
-              Hej, vi är Green Plank. Vi erbjuder oöverträffade miljövänliga byggprodukter tillverkade av återvunnen plast och naturavfall.
+            Hej, vi er Green Plank, vi tilbyder hidtil usete miljøvenlige byggeprodukter fremstillet af genbrugsplast og naturligt affald.
             </h4>
           </Col>
           <Col lg={12}>
@@ -35,16 +35,16 @@ const AboutOne = () => {
           <Row>
             <Col md={12} lg={12} style={{ marginBottom: "4em" }}>
               <div className="block-title">
-                <h3>Välkommen till GreenPlank</h3>
-                <h2>15 års erfarenhet inom industrin</h2>
+                <h3>Velkommen til GreenPlank</h3>
+                <h2>15 års erfaring i branchen</h2>
                 <h5>
-                  År 2001 deltog en ung Jamshaid Gill från Pakistan på en mässa i Wien, Österrike på ett seminarium om innovation inom teknik för kompositprodukter tillverkade med en mängd olika återvunna material och naturavfall.
+                I 2001 deltog en ung forretningsmand Jamshaid Gill fra Pakistan på en messe i Wien, Østrig på et seminar om innovation inden for teknologi til kompositprodukter fremstillet med en række genbrugsmaterialer og naturligt affald.
                 </h5>
                 <h5>
-                  Han inspirerades av talet som hölls av en amerikansk professor om hållbara byggprodukter med träliknande egenskaper och utseende av en blandning av återvunnen plast och naturligt avfall som risskal, vetestrå, sågspån, bambuflis, kokosnötskal, sojabönor, jordnötsskal, bomullsstrå etc.
+                Han blev inspireret af talen holdt af en amerikansk professor om bæredygtige byggeprodukter med trælignende egenskaber og udseende af en blanding af genbrugsplast og naturligt affald såsom risskaller, hvedestrå, savsmuld, bambuschips, kokosnøddeskaller, sojabønneskrog, jordnøddeskaller, bomuldsstrå osv.
                 </h5>
                 <h5>
-                  Green Plank-produkter används av många svenska kommuner över hela Sverige
+                Green Plank-produkter bruges af mange svenske kommuner i hele Sverige.
                 </h5>
               </div>
             </Col>
@@ -59,19 +59,19 @@ const AboutOne = () => {
           <Col lg={6}>
             <div className="block-title">
               <h3 style={{ marginBottom: ".5em" }}>
-                <span>15</span>År av erfarenhet
+                <span>15</span>Års erfaring
               </h3>
               <h5>
-                Risskal blandat med återvunnen plast för att producera träalternativ och dess positiva effekt på miljön, tanken på Green Plank blev tänkt.
+              Risskaller blandet med genanvendt plast for at producere træalternativ og dets positive indvirkning på miljøet blev ideen om Green Plank udtænkt.
               </h5>
               <h5>
-                Han återvände till sitt hemland, Pakistan och började sitt arbete med att utveckla en träalternativprodukt tillverkad av återvunnen plast och risskalfibrer.
+              Han vendte tilbage til sit hjemland, Pakistan og begyndte sit arbejde med at udvikle et træalternativt produkt fremstillet af genbrugsplast og risskrogfibre.
               </h5>
               <h5>
-              År 2004 emigrerade Gills yngre bror Nasir Gill till Sverige som företagare och grundade ett företag och började marknadsföra deras innovativa kompositplattor.
+              Siden starten i 2004 har Green Plank sat sig for at forstyrre den bæredygtige byggematerialebranche med innovative kompositprodukter fremstillet af genbrugsmateriale og naturligt affald.
               </h5>
               <h5>
-              2015 fick Green Plank utmärkelsen “Årets Nybyggare” från Hans Majestät kung Carl Gustav. Green Plank hyllades för att representera Sverige som en miljövänlig nation.
+              I 2015 modtog Green Plank en anerkendelsespris “Årets Nybyggare” fra Hans Majestæt Kong Carl Gustav. Green Plank blev rost for at repræsentere Sverige som en miljøvenlig nation.et med en række genbrugsmaterialer og naturligt affald.
               </h5>
             </div>
           </Col>
