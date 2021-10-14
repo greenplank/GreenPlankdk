@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const trallinstallationskostnader = () => {
   return (
-    <Layout pageTitle="trall-installationskostnader">
+    <Layout pageTitle="installationsomkostninger">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="trall-installationskostnader" crumbTitle="trall-installationskostnader" />
+      <PageHeader title="installationsomkostninger" crumbTitle="installationsomkostninger" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,10 +24,13 @@ const trallinstallationskostnader = () => {
                     <div className="blog-inner">
                       <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                       <div className="content">
-                        <h2 className="title">Trall installationskostnader</h2>
+                        <h2 className="title">Installationsomkostninger til trall
+</h2>
                         <div className="mb-30">
-                          <p>Trall installationskostnader beror på vilken typ av trallmaterial du använder och om du anlitar en entreprenör eller bygger däck själv. Kostnaden för konstruktionen ska vara densamma för både komposit- och träplattor. Den verkliga kostnadsskillnaden kommer när du jämför kostnaden för plankorna. Green Plank® kompositplattor med lågt underhåll är mycket enkla att installera. När allt är fallet kostar Green Plank®-kompositdäck cirka 25% mer att konstruera än trädäck.</p>
-                          <p className="mb-30 mt-30">Installationskostnader för alla däck anges för basmodeller innan några förbättringar eller förbättringar läggs till. En annan däckförbättring som kommer att höja däckinstallationskostnaderna är att ha elektrisk service som uttag eller belysning. Ännu en däckkostnadshöjare har en infällbar markis för att ge skugga installerad över däcket.</p>
+                          <p>Omkostninger til installation af vogn afhænger af hvilken type vognmateriale du bruger, og om du ansætter en entreprenør eller selv bygger dæk. Omkostningerne ved konstruktionen skal være de samme for både komposit- og træplader. Den reelle omkostningsforskel kommer, når du sammenligner omkostningerne ved plankerne. Green Plank® kompositfliser med lav vedligeholdelse er meget lette at installere. Trods alt koster Green Plank® -kompositdæk omkring 25% mere at designe end trædæk.
+</p>
+                          <p className="mb-30 mt-30">Installationsomkostninger for alle dæk angives for basismodeller, før der tilføjes forbedringer eller forbedringer. En anden dækforbedring, der vil øge dækinstallationsomkostningerne, er at have elektrisk service såsom afsætningsmuligheder eller belysning. En anden dækforhøjelse har en markise, der kan trækkes tilbage, så der er skygge installeret over dækket.
+</p>
                         </div>
                       </div>
                     </div>

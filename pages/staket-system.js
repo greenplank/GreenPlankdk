@@ -15,13 +15,13 @@ const staketsystem = () => {
     return (
         <>
             <Head>
-                <title>Exklusiv Staket</title>
-                <meta name="title" content="Exklusiv Staket | Moderna staket - GreenPlank.se" />
+                <title>Hegn system</title>
+                <meta name="title" content="Hegn system | Moderna staket - GreenPlank.dk" />
                 <meta name="description" content="Staket väggar är nu allmänt används som gränsen för att binda din trädgård, klimax ditt landskap struktur, eller vara i fokus för din exponering." />
             </Head>
-            <Layout pageTitle="Staket System">
+            <Layout pageTitle="Hegn system">
                 <HeaderTwo />
-                <PageHeader title="Staket System" crumbTitle="Staket-System" />
+                <PageHeader title="Hegn system" crumbTitle="Hegn system" />
                 <StickyHeader />
                 <StaketSection />
                 <section className="about-one pt-20 pb-40">
@@ -36,7 +36,7 @@ const staketsystem = () => {
                                                 <div className="col-lg-12">
                                                     {/* section title */}
                                                     <div className="section-title-area text-center mb-30">
-                                                        <h2><strong>Varför använda staket?</strong></h2>
+                                                        <h2><strong>Hvorfor bruge komposit terrassebrædder?</strong></h2>
                                                     </div>
                                                 </div>
                                                 <div className="about-section pt-60 pb-60">
@@ -49,9 +49,9 @@ const staketsystem = () => {
                                                             </div>
                                                             <div className="col-lg-6 col-12 mb-30 ml-60">
                                                                 <div>
-                                                                    <h3>PROBLEMFRITT KOMPOSIT STAKET</h3>
+                                                                    <h3>Virkeligheden</h3>
                                                                     <p>
-                                                                        Staket är inte nytt. Det har funnits sedan 70-talet. Green Plank-staket är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks staket kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella staket, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
+                                                                    Med hensyn til forudgående udgifter er Green Plank’s Classic og EverDeck kompositplank kun lidt dyrere end trykbehandlet træ. Og fordi trykbehandlet træ kræver regelmæssig vedligeholdelse som farvning, spildes besparelser fra hårdttræ på så lidt som tre år.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -64,9 +64,9 @@ const staketsystem = () => {
                                                         <div className="row row-25 align-items-center">
                                                             <div className="col-lg-6 col-12 mb-30">
                                                                 <div className="about-content-two">
-                                                                    <h3>Green Plank – ett låg underhålls kompositstaket som både är snyggt, hållbart och giftfritt !</h3>
+                                                                    <h3>Fordelingen</h3>
                                                                     <p>
-                                                                        Med Green Plank-staket kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
+                                                                    Green Plank’s indgangskollektion på klassisk niveau Classic og EverDeck giver en omkostningseffektiv og præstationsfremmende opgradering over trykbehandlede trædæk. Med hensyn til forhåndsomkostninger koster Classic og EverDeck kompositplader lidt mere end trykbehandlet træ, men du sparer penge på lang sigt, da det ikke kræver den dyre og besværlige årlige vedligeholdelse, der følger med træplanker.
                                                                     </p>
                                                                 </div>
                                                             </div>

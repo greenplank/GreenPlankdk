@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const petsafetradlost = () => {
   return (
-    <Layout pageTitle="petsafe-tradlost-staket">
+    <Layout pageTitle="petsafe-trådløst-hegn">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Petsafe-tradlost-staket" crumbTitle="petsafe-tradlost-staket" />
+      <PageHeader title="Petsafe-trådløst-hegn" crumbTitle="petsafe-trådløst-hegn" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,21 +24,33 @@ const petsafetradlost = () => {
                         <div className="blog-inner">
                             <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                             <div className="content">
-                                <h2 className="title">Petsafe trådlöst staket</h2>
+                                <h2 className="title">Petsafe trådløst hegn</h2>
                                 <div className="mb-30">
-                                    <p>Petsafe Wireless Fence har rankats som det bästa trådlösa djurhållningssystemet på marknaden. Det är så säkert, enkelt och enkelt att installera att det är det perfekta staketet för hundar och katter. Inget mer gräva hål och spruta bekämpningsmedel för att hålla ditt djur ute. Installera bara detta trådlösa staket inom några minuter så är ditt husdjur säkert från nästan vad som helst!</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Petsafe Wireless Fence, även kallat Petsafe Complete Safety System, är den säkraste, enklaste formen av inneslutning av husdjur inomhus som finns på marknaden idag. Detta trådlösa staket är helt bärbart, enkelt att installera och använder en konstant radiosignal för att dina husdjur ska hitta deras säkra zon. Det är ett toppmodernt husdjursskyddssystem och det uppfyller gällande kodkrav för städer och städer. Med det trådlösa Petsafe-staketet kommer dina husdjur att vara fria att vandra runt på gården och utanför huset.</p>
-                                    <h3 style={{marginBottom:30,marginTop:30}}>Installation</h3>
-                                    <p style={{marginBottom:30,marginTop:30}}>Strömkabeln som följer med det trådlösa staketet för husdjur erbjuder ett obegränsat antal fjärrkontrollstationer. Tråden fungerar med två AA-batterier som enkelt kan bytas ut och en säkerhetsbrytare ingår så att du snabbt kan inaktivera eller aktivera de elektriska hundstaket. De trådlösa enheterna är mycket enkla att installera och fungerar korrekt på alla nivåer, oavsett om det är ett bostadsområde eller en trafikerad väg. Dessa är trådlösa och kan vikas upp är ett annat plus som gör dessa staket populära hos många konsumenter.</p>
-                                    <h3 style={{marginBottom:30,marginTop:30}}>Fördelar</h3>
-                                    <p style={{marginBottom:30,marginTop:30}}>Fördelen med dessa trådlösa staket är möjligheten att skicka ut radiosignaler. Signalen går ut till en mottagarkrage som är fäst vid husdjuret. När mottagarkragan tar emot signalen från de trådlösa stängslen kommer den att bearbeta signalen och spela upp den till hundarna. Det ger hundarna en chans att veta var de ska vara hela tiden.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Dina husdjur får också en godbit när de passerar gränserna för sina pf & trådlösa staket. Det finns en bifogad klocka som låter ditt husdjurs satsning över ett definierat gränsområde varje gång. Denna funktion håller hunden kvar inom gränsen och hindrar dem från att vandra längre bort från dig. När de kommer utanför det definierade området får de en behandling och belönas med ett frikort för att komma tillbaka till din trädgård.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Dessa är bra för områden som inte har en radiosignal eller ens synliga gränslinjer. Du behöver inte oroa dig för att dina husdjur vandrar bort när de ser ett mörkt eller odefinierat område så länge du har sändarhalsbandet på sig. När de går utöver det definierade området och går in i din egendom, kommer husdjuret omedelbart att belönas med en behandling. Du behöver inte oroa dig för att sätta upp en krage på varje husdjur eller ha flera sändarhalsband på varje husdjur. Petsafe Wireless Fence System ger dig möjlighet att snabbt och enkelt installera enheterna utan professionell hjälp och bara ta några minuter.</p>
-                                    <h3 style={{marginBottom:30,marginTop:30}}>Säkerhet</h3>
-                                    <p style={{marginBottom:30,marginTop:30}}>Antag att du är orolig för ett potentiellt säkerhetsbrott eftersom ditt husdjur kan fly genom att springa utanför det trådlösa staketet. I så fall använder inte Petsafe Wireless Fence System GPS-teknik. Det är helt elektroniskt, vilket gör det enklast att installera och säkrast. Systemet består av en inomhus trådlös sändare med en inomhusmottagare. Du måste ha en inomhusmottagningsenhet för att kunna använda denna typ av trådlöst system. Ingen annan trådlös teknik är lika enkel att använda och bekväm som Petsafe trådlösa stängsel.</p>
-                                    <h3 style={{marginBottom:30,marginTop:30}}>Inomhus sändare</h3>
-                                    <p style={{marginBottom:30,marginTop:10}}>En inomhussändare håller sändaren inom ett definierat område och kräver att mottagarkrage placeras på varje husdjur. När mottagarkragan är installerad skickar sändaren en radiosignal till den centrala kontrollstationen, där den plockas upp och tolkas. Det finns inget behov av att installera ledningar i hela din trädgård, vilket gör installationen av det trådlösa staketet snabbt och enkelt.</p> 
-                                    <p style={{marginBottom:30,marginTop:10}}>Det främsta övervägandet är att placera mottagarkragan minst tre meter från närmaste träd, buske eller annat föremål som kan snubba sändaren, vilket innebär att ett Petsafe-staket-system kommer att försäkra dig om att dina familjemedlemmar och husdjur kommer att förbli inom gränser för din egendom. Ett trådlöst staketsystem från Petsafe är inte bara säkert utan det är också smart, så att du vet att dina husdjur förblir där de hör hemma, vilket ger dig sinnesfrid.</p> 
+                                    <p>Petsafe Wireless Hegn er blevet rangeret som det bedste trådløse husdyrhold på markedet. Det er så sikkert, enkelt og let at installere, at det er det perfekte hegn til hunde og katte. Ikke flere gravehuller og sprøjtning af pesticider for at holde dit kæledyr ude. Bare installer dette trådløse hegn inden for få minutter, og dit kæledyr er sikkert for næsten alt!
+</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>Petsafe Wireless Hegn, også kendt som Petsafe Complete Safety System, er den sikreste, enkleste form for indendørs kæledyrsindhegning, der findes på markedet i dag. Dette trådløse hegn er helt bærbart, let at installere og bruger et konstant radiosignal til dine kæledyr for at finde deres sikre zone. Det er et topmoderne kæledyrsbeskyttelsessystem, og det opfylder gældende kodekrav for byer. Med det trådløse Petsafe -hegn kan dine kæledyr vandre rundt i gården og uden for huset.
+</p>
+                                    <h3 style={{marginBottom:30,marginTop:30}}>Installation
+</h3>
+                                    <p style={{marginBottom:30,marginTop:30}}>Strømkablet, der følger med det trådløse hegn til kæledyr, tilbyder et ubegrænset antal fjernbetjeningsstationer. Ledningen fungerer med to AA -batterier, der let kan udskiftes, og en sikkerhedsafbryder er inkluderet, så du hurtigt kan deaktivere eller aktivere de elektriske hundehegn. De trådløse enheder er meget lette at installere og fungerer korrekt på alle niveauer, uanset om det er et boligområde eller en trafikeret vej. Disse er trådløse og kan foldes ud er et andet plus, der gør disse hegn populære hos mange forbrugere.
+</p>
+                                    <h3 style={{marginBottom:30,marginTop:30}}>Fordele</h3>
+                                    <p style={{marginBottom:30,marginTop:30}}>Fordelen ved disse trådløse hegn er muligheden for at sende radiosignaler ud. Signalet går ud til en modtagerhalsbånd, der er fastgjort til kæledyret. Når modtagerhalsbåndet modtager signalet fra de trådløse hegn, behandler det signalet og afspiller det til hundene. Det giver hundene en chance for at vide, hvor de skal være hele tiden.
+</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>Dine kæledyr får også en godbid, når de krydser grænserne for deres pf & trådløse hegn. Der er et vedhæftet ur, der lader dit kæledyr satse over et defineret grænseområde hver gang. Denne funktion holder hunden inden for rækkevidde og forhindrer dem i at gå længere væk fra dig. Når de ankommer uden for det definerede område, modtager de en behandling og belønnes med et gratis pas for at vende tilbage til din have.
+</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>Disse er gode til områder, der ikke har et radiosignal eller endda synlige grænser. Du behøver ikke bekymre dig om, at dine kæledyr vil vandre væk, når de ser et mørkt eller udefineret område, så længe du har på senderens krave. Når de går ud over det definerede område og kommer ind i din ejendom, bliver kæledyret straks belønnet med en behandling. Du behøver ikke bekymre dig om at lægge en krave på hvert kæledyr eller have flere senderbånd på hvert kæledyr. Petsafe Wireless Fence System giver dig mulighed for hurtigt og nemt at installere enhederne uden professionel hjælp og bare tage et par minutter.
+</p>
+                                    <h3 style={{marginBottom:30,marginTop:30}}>Sikkerhed
+</h3>
+                                    <p style={{marginBottom:30,marginTop:30}}>Antag, at du er bekymret for et potentielt sikkerhedsbrud, fordi dit kæledyr kan flygte ved at løbe uden for det trådløse hegn. I dette tilfælde bruger Petsafe Wireless Fence System ikke GPS -teknologi. Det er helt elektronisk, hvilket gør det nemmest at installere og mest sikkert. Systemet består af en indendørs trådløs sender med en indendørs modtager. Du skal have en indendørs modtagelsesenhed for at kunne bruge denne type trådløst system. Ingen anden trådløs teknologi er så let at bruge og bekvem som Petsafe trådløse hegn.
+</p>
+                                    <h3 style={{marginBottom:30,marginTop:30}}>Indendørs sender
+</h3>
+                                    <p style={{marginBottom:30,marginTop:10}}>En indendørs sender holder senderen inden for et defineret område og kræver, at modtagerhalsbåndet placeres på hvert kæledyr. Når modtagerhalsbåndet er installeret, sender senderen et radiosignal til den centrale kontrolstation, hvor det bliver taget op og fortolket. Det er ikke nødvendigt at installere ledninger i hele din have, hvilket gør installationen af ​​det trådløse hegn hurtigt og let.
+</p> 
+                                    <p style={{marginBottom:30,marginTop:10}}>Den vigtigste overvejelse er at placere modtagerhalsbåndet mindst tre meter fra det nærmeste træ, busk eller anden genstand, der kan snuble i senderen, hvilket betyder, at et Petsafe -hegnsystem sikrer, at dine familiemedlemmer og kæledyr forbliver inden for grænserne af din ejendom ... Et trådløst hegnsystem fra Petsafe er ikke kun sikkert, men også smart, så du ved, at dine kæledyr bliver, hvor de hører hjemme, hvilket giver dig ro i sindet.
+</p> 
                                     
                                 </div>
                             </div>

@@ -12,13 +12,13 @@ const Artiklar = () => {
   return (
     <>
       <Head>
-        <title>Artiklar</title>
-        <meta name="title" content="Artiklar - GreenPlank.se" />
+        <title>Artikler</title>
+        <meta name="title" content="Artikler - GreenPlank.se" />
         <meta name="description" content="Artiklar om komposittrall, staket, fasadbeklädnad, heminredning. Artiklar i grönt och hållbart byggande." />
       </Head>
-      <Layout pageTitle="Artiklar">
+      <Layout pageTitle="Artikler">
         <HeaderTwo />
-        <PageHeader title="Artiklar" crumbTitle="Artiklar" />
+        <PageHeader title="Artikler" crumbTitle="Artikler" />
         <StickyHeader />
         <Blog />
         <BrandCarousel />

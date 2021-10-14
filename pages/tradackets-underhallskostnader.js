@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const tradackets = () => {
   return (
-    <Layout pageTitle="tradackets-underhallskostnader">
+    <Layout pageTitle="vedligeholdelsesomkostninger for tradackets">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="tradackets-underhallskostnader" crumbTitle="tradackets-underhallskostnader" />
+      <PageHeader title="vedligeholdelsesomkostninger for tradackets" crumbTitle="vedligeholdelsesomkostninger for tradackets" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,12 +24,17 @@ const tradackets = () => {
                         <div className="blog-inner">
                             <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                             <div className="content">
-                                <h2 className="title">Trädäckets underhållskostnader</h2>
+                                <h2 className="title">Omkostninger til vedligeholdelse af trædæk
+</h2>
                                 <div className="mb-30">
-                                    <p>Hur ofta och hur dyrt är det att underhålla ditt däck?</p>
-                                    <p className="mb-30 mt-30">Medan traditionellt trädäck både möglar, förlorar färg, spricker och ger stickor och sen dessutom måste du slipa ner det, olja och måla för att hålla det snyggt och fräscht så slipper du detta med Green Plank® kompositdäck. Ett vanligt trädäck har en livslängd på cirka 10-15 år (om det underhålls rätt regelbundet). </p>
-                                    <p className="mb-30 mt-30">Föredrar du inte att ligga och ta det lugnt på ditt vackra kompositdäck än att sitta på knäna och måla? Du behöver aldrig måla eller försegla ditt lågunderhålls Green Plank® däck. Det kommer inte heller spricka eller ge stickor – tro mig, dina fötter kommer uppskatta det! Insekter har heller inget intresse utav att gnaga på plast och vattenskador behöver du inte ens tänka på! </p>
-                                    <p className="mb-30 mt-30">Green Plank® lågunderhålls kompositdäck produkter kräver enbart periodvis en liten tvätt och det håller sig vackert i flera år!</p>
+                                    <p>Hvor ofte og hvor dyrt er det at vedligeholde dit dæk?
+</p>
+                                    <p className="mb-30 mt-30">Mens traditionelle trædæk både støber, mister farve, revner og giver pinde, og så skal du også slibe det ned, olie og male for at holde det pænt og friskt, undgår du dette med Green Plank® -kompositdæk. Et almindeligt trædæk har en levetid på cirka 10-15 år (hvis det vedligeholdes regelmæssigt).
+ </p>
+                                    <p className="mb-30 mt-30">Foretrækker du ikke at ligge ned og tage det roligt på dit smukke kompositdæk end at sidde på knæ og male? Du behøver aldrig at male eller forsegle dine Green Plank®-dæk med lav vedligeholdelse. Det vil heller ikke revne eller give stokke - tro mig, dine fødder vil sætte pris på det! Insekter har heller ingen interesse i at gnave i plast- og vandskader, du behøver ikke engang tænke på!
+</p>
+                                    <p className="mb-30 mt-30">Green Plank® kompositdæk med lav vedligeholdelse kræver kun en lille vask med jævne mellemrum, og det forbliver smukt i flere år!
+</p>
                                 </div>
                             </div>
                         </div>

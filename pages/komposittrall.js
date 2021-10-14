@@ -15,13 +15,13 @@ const Komposittrall = () => {
     return (
         <>
             <Head>
-                <title>Komposittrall</title>
+                <title>Komposit terrassebrædder</title>
                 <meta name="title" content="Komposittrall | Trädäck | Trädgårdsdäck - GreenPlank.se" />
                 <meta name="description" content="Skapa ditt dröm däck med greenplank, det bästa varumärket för komposittrall för hög prestanda i världen. Vår inramning, räcke och belysning kompletterar." />
             </Head>
-            <Layout pageTitle="Komposittrall">
+            <Layout pageTitle="Komposit terrassebrædder">
                 <HeaderTwo />
-                <PageHeader title="Komposittrall" crumbTitle="komposittrall" />
+                <PageHeader title="Komposit terrassebrædder" crumbTitle="Komposit terrassebrædder" />
                 <StickyHeader />
                 <KomposittrallSection />
                 <section className="about-one pt-20 pb-40">
@@ -36,7 +36,7 @@ const Komposittrall = () => {
                                                 <div className="col-lg-12">
                                                     {/* section title */}
                                                     <div className="section-title-area text-center mb-30">
-                                                        <h2><strong>Varför använda komposittrall?</strong></h2>
+                                                        <h2><strong>Hvorfor bruge komposit terrassebrædder?</strong></h2>
                                                     </div>
                                                 </div>
                                                 <div className="about-section pt-60 pb-60">
@@ -49,9 +49,9 @@ const Komposittrall = () => {
                                                             </div>
                                                             <div className="col-lg-6 col-12 mb-30 ml-60" style={{ padding: "1em 1em 1em 2em" }} >
                                                                 <div>
-                                                                    <h3>PROBLEMFRITT KOMPOSITTRALL</h3>
+                                                                    <h3>Virkeligheden</h3>
                                                                     <p>
-                                                                        Komposittrall är inte nytt. Det har funnits sedan 70-talet. Green Plank-komposittrall är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks komposittrall kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella trädäck, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
+                                                                        Med hensyn til forudgående udgifter er Green Plank's Classic og EverDeck kompositplank kun lidt dyrere end trykbehandlet træ. Og fordi trykbehandlet træ kræver regelmæssig vedligeholdelse som farvning, spildes besparelser fra hårdttræ på så lidt som tre år.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -64,9 +64,9 @@ const Komposittrall = () => {
                                                         <div className="row row-25 align-items-center">
                                                             <div className="col-lg-6 col-12 mb-30">
                                                                 <div className="about-content-two">
-                                                                    <h3>Green Plank – ett låg underhålls komposittrall som både är snyggt, hållbart och giftfritt !</h3>
+                                                                    <h3>Fordelingen</h3>
                                                                     <p>
-                                                                        Med Green Plank-komposittrall kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
+                                                                        Green Plank's indgangskollektion på klassisk niveau Classic og EverDeck giver en omkostningseffektiv og præstationsfremmende opgradering over trykbehandlede trædæk. Med hensyn til forhåndsomkostninger koster Classic og EverDeck kompositplader lidt mere end trykbehandlet træ, men du sparer penge på lang sigt, da det ikke kræver den dyre og besværlige årlige vedligeholdelse, der følger med træplanker.
                                                                     </p>
                                                                 </div>
                                                             </div>

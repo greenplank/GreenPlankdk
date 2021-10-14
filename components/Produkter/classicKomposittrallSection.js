@@ -15,9 +15,9 @@ const DATA = [
       {
         link: "/classic-teak-komposittrall",
         image: proImage12,
-        title: "CLASSIC™ Teak Komposittrall",
+        title: "Green Plank CLASSIC ™ terrassebrædder",
         text:
-          "Inspirerad av den skandinaviska designtraditionen som .............."
+          "Inspireret af den skandinaviske designtradition som.............."
       }
 ];
 

@@ -15,13 +15,13 @@ const golvplattor = () => {
     return (
         <>
             <Head>
-                <title>Golvplattor</title>
-                <meta name="title" content="Golvplattor och komposit balkongplattor - GreenPlank.se" />
-                <meta name="description" content="Golvplattor och sammansatta balkonger är perfekta för att återskapa utomhusgolv som uteplatser, tak, balkonger och täcka tuffa inomhusgolv." />
+                <title>Daekfliser</title>
+                <meta name="title" content="Daekfliser och komposit balkongplattor - GreenPlank.se" />
+                <meta name="description" content="Daekfliser och sammansatta balkonger är perfekta för att återskapa utomhusgolv som uteplatser, tak, balkonger och täcka tuffa inomhusgolv." />
             </Head>
-            <Layout pageTitle="Golvplattor">
+            <Layout pageTitle="Daekfliser">
                 <HeaderTwo />
-                <PageHeader title="Golvplattor" crumbTitle="golvplattor" />
+                <PageHeader title="Daekfliser" crumbTitle="Daekfliser" />
                 <StickyHeader />
                 <GolvplattorSection />
                 <section className="about-one pt-20 pb-40">
@@ -36,7 +36,7 @@ const golvplattor = () => {
                                                 <div className="col-lg-12">
                                                     {/* section title */}
                                                     <div className="section-title-area text-center mb-30">
-                                                        <h2><strong>Varför använda golvplattor?</strong></h2>
+                                                        <h2><strong>Hvorfor bruge kompositfliser?</strong></h2>
                                                     </div>
                                                 </div>
                                                 <div className="about-section pt-60 pb-60">
@@ -49,9 +49,9 @@ const golvplattor = () => {
                                                             </div>
                                                             <div className="col-lg-6 col-12 mb-30 ml-60">
                                                                 <div>
-                                                                    <h3>PROBLEMFRITT GOLVPLATTOR</h3>
+                                                                    <h3>Vores dæk og altanfliser kan være flød over en stabil og flad overflade</h3>
                                                                     <p>
-                                                                        Golvplattor är inte nytt. Det har funnits sedan 70-talet. Green Plank-golvplattor är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks golvplattor kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella golvplattor, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
+                                                                    Ikke i modsætning til et indendørs gulv kan InstaClick & EverTile dæk og balkonfliser svæves over enhver eksisterende flad overflade. Dette åbner alle mulige muligheder for at skabe et udendørs rum uden at skulle lægge bjælker og ankre.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -64,9 +64,9 @@ const golvplattor = () => {
                                                         <div className="row row-25 align-items-center">
                                                             <div className="col-lg-6 col-12 mb-30">
                                                                 <div className="about-content-two">
-                                                                    <h3>Green Plank – ett låg underhålls golvplattor som både är snyggt, hållbart och giftfritt !</h3>
+                                                                    <h3>Vores dæk og altanfliser kan være installeret uden værktøj</h3>
                                                                     <p>
-                                                                        Med Green Plank-plattor kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
+                                                                    For de uerfarne er InstaClick & EverTile dæk og altanfliser et godt valg. De snappes let sammen uden rod, uden besvær og ja – uden værktøj.
                                                                     </p>
                                                                 </div>
                                                             </div>

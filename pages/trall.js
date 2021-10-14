@@ -26,19 +26,28 @@ const trall = () => {
                       <div className="content">
                         <h2 className="title">Trall</h2>
                         <div className="mb-30">
-                          <p>Komposittrall är det ultimata materialet för golv i en utomhusmiljö. Trall representerar en plan yta som tål vikt och lyfts ofta upp från marken. Träkomposittrall är ett snabbt växande byggmaterial. Trall finns i flera former beroende på dess funktion, som trallgolv, däck fasader, däck stake , trappor, till olika typer av trämöbler som kommer att komplettera det moderna utseendet på trädgården där de ligger.</p>
-                          <p>Här på greenplank kan du köpa det mest omfattande sortimentet och du får fasta längder och den kvalitet du behöver. Valet mellan en trall av massivt trä eller en WPC- komposittrall beror på syftet och ens önskemål.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Hur trall gjord av?
+                          <p>Kompositvogn er det ultimative materiale til gulve i et udendørs miljø. Trall repræsenterer en flad overflade, der kan modstå vægt og ofte løftes fra jorden. Trækompositvogn er et hurtigt voksende byggemateriale. Trapper fås i flere former afhængigt af dets funktion, såsom terrassegulve, dækfacader, dækpæle, trapper til forskellige typer træmøbler, der vil supplere det moderne udseende af haven, hvor de er placeret.
+                          </p>
+                          <p>Her på greenplank kan du købe det mest omfattende sortiment, og du får faste længder og den kvalitet, du har brug for. Valget mellem en massiv trævogn eller en WPC -kompositvogn afhænger af formålet og endda ønskerne.
+                          </p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Hvordan vogn lavet af
+                            ?
                           </h3>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>Det underhållsfria, hållbara trall materialet använder återvunnen plast med träfibrer och blandas med ett annat ämne. I och med att däcket är konstgjort är den mer hållbar. För att säkerställa dess livslängd och bibehålla dess skönhet över tid är regelbundet underhåll viktigt, det krävs beläggning med speciella beläggningar på våren och hösten.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Bygga ett trall
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Det vedligeholdelsesfrie, holdbare terrassemateriale bruger genbrugsplast med træfibre og blandes med et andet stof. Fordi dækket er kunstigt, er det mere holdbart. For at sikre dets levetid og bevare sin skønhed over tid er regelmæssig vedligeholdelse vigtig, belægning med specielle belægninger er påkrævet om foråret og efteråret.
+                          </p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Byg et dæk
                           </h3>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>Med trall kan du snabbt bygga en ny terrass och uteplats eller förnya den befintliga. Det är också mycket enklare än man tror att göra ett efterlängtat trål projekt verklighet på egen hand. Allt som krävs är rätt material och teknik. Om ditt däck ska vara utomhus året runt är det viktigt att du väljer ett behandlat trä som tål vårt väder – och regelbundet behandlar träet vid behov.</p>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>I Sverige är det framför allt de stora temperatur förskjutningarna som sliter trallen mest. Våra trall kan stå ute året runt. Ett exempel är vårt kompositdäck, som har genomgått tester för att säkerställa att det uppfyller det svenska klimatets höga krav.</p>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>På ebygghandel kan du köpa trall i långa längder. Med dessa kan du bygga ett härligt uteplats golv utan fogar. För en ännu mer exklusiv känsla har vi olika typer av lövträ.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Vilka tillbehör behövs för att lägga trall?
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Med pynt kan du hurtigt bygge en ny terrasse og terrasse eller forny den eksisterende. Det er også meget lettere end du tror at gøre et længe ventet trawlprojekt til virkelighed på egen hånd. Det eneste, der kræves, er de rigtige materialer og teknologi. Hvis dit dæk skal være udendørs hele året, er det vigtigt, at du vælger et behandlet træ, der kan tåle vores vejr - og regelmæssigt behandler træet, hvis det er nødvendigt.
+                          </p>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>I Sverige er det frem for alt de store temperaturskift, der slider vognen mest. Vores vogne kan stå udenfor hele året. Et eksempel er vores kompositdæk, som har gennemgået tests for at sikre, at det opfylder de høje krav i det svenske klima.
+                          </p>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Hos ebygghandel kan du købe terrasser i lange længder. Med disse kan du bygge et dejligt terrassegulv uden fuger. For en endnu mere eksklusiv følelse har vi forskellige typer hårdttræ.
+                          </p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Hvilket tilbehør er nødvendigt for at lægge terrasser?
+
                           </h3>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>Förutom skruvar och vinkeljärn beror det helt på projektets omfattning och design. En viktig aspekt är om din trall ska stå på socklar eller ligga direkt på marken, i vilket fall ska trallen ha ett trägolv eller ett nedsänkt golv. Vi har Sveriges mest omfattande sortiment av trall. Med det får du enkel hjälp att välja och jämföra fördelar mellan olika typer av trall. Däckväljaren hjälper dig också att beräkna materialförbrukning och tips om hur du bygger ditt däck. Vår trallväljare ger dig inblick i projektets omfattning och du får en bra bild av kostnaden för vagnen.</p>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Ud over skruer og vinkeljern afhænger det helt af projektets omfang og design. Et vigtigt aspekt er, om din vogn skal stå på sokler eller ligge direkte på jorden, i hvilket tilfælde vognen skal have et trægulv eller et nedsænket gulv. Vi har Sveriges mest omfattende sortiment af terrasser. Med det får du let hjælp til at vælge og sammenligne fordele mellem forskellige typer af terrasser. Dækvælgeren hjælper dig også med at beregne materialeforbrug og tips til, hvordan du bygger dit dæk. Vores vognvælger giver dig indsigt i projektets omfang, og du får en god idé om omkostningerne ved vognen.
+                          </p>
 
                         </div>
                       </div>

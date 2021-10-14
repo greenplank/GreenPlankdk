@@ -19,14 +19,14 @@ const fasadpaneltillbehor = () => {
     return (
         <>
             <Head>
-                <title>Tillbehör för komposit fasadpanel</title>
-                <meta name="title" content="Tillbehör för komposit fasadpanel - GreenPlank.se" />
+                <title>Komposit Terrassebrædder Tilbehør</title>
+                <meta name="title" content="Komposit Terrassebrædder Tilbehør - GreenPlank.dk" />
                 <meta name="description" content="Green Plank fasadpanel tillbehör utvidgar din horisont ytterligare och låter dig bygga distinkta och förtjusande funktioner i din fasadbeklädnad." />
             </Head>
-            <Layout pageTitle="Fasadpanel-Tillbehor">
+            <Layout pageTitle="Komposit Terrassebrædder Tilbehør">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="Fasadpanel-Tillbehor" crumbTitle="fasadpanel-tillbehor" />
+                <PageHeader title="Komposit Terrassebrædder Tilbehør" crumbTitle="Komposit Terrassebrædder" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>
@@ -40,19 +40,24 @@ const fasadpaneltillbehor = () => {
                                                 {/*====================  Star Fasadpanel Section-1 content ====================*/}
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
-                                                        <h2>Fasadpanel tillbehör</h2>
-                                                        <strong>efterbehandlingen med design och säkerhet som gör ditt hem exteriör komplett</strong>
+                                                        <h2>Green Plank Komposit Facadebeklædnings tilbehør
+                                                        </h2>
+                                                        <strong>sidste hånd med design og sikkerhed, der gør dit hjem udvendigt komplet
+                                                        </strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
-                                                                <strong>Det är allt i detaljerna! Din uppmärksamhet på kvalitet och detaljer har aldrig varit viktigare. Green Plank-fasadpanel tillbehör utvidgar dina horisonter ytterligare och låter dig bygga distinkta och förtjusande funktioner i din Green Plank- fasadbeklädnad som förbättrar både skönhet och funktionalitet – utan att ruttna, skala eller bleka.</strong>
-                                                                <p>Som en del av vårt omfattande sortiment av tillbehör har vi en mängd efterbehandlingsprofiler som passar alla våra komposit Fasadpanel skivor. Profilerna ger ett estetiskt slutresultat för alla byggtyper.</p>
-                                                                <p>
-                                                                    Efterbehandlingsprofilerna finns i matchande färger för ditt föredragna fasadskiva.
+                                                                <strong>Det hele er i detaljerne! Din opmærksomhed på kvalitet og detaljer har aldrig været vigtigere. Green Plank kompositbeklædningstilbehør udvider dine horisonter yderligere, så du kan opbygge karakteristiske og dejlige funktioner i din Green Plank udvendige facadebeklædning, der forbedrer både dets skønhed og funktionalitet – uden at rådne, skrælle eller falme.
+
+                                                                </strong>
+                                                                <p>Som en del af vores omfattende tilbehørssortiment har vi en række efterbehandlingsprofiler, der passer til alle vores sammensatte facadebeklædningsplader. Profilerne giver et æstetisk slutresultat på alle bygningstyper.
+
                                                                 </p>
+                                                                <p>
+                                                                    Efterbehandlingsprofilerne kommer i matchende farver til dit foretrukne facadebræt.</p>
 
                                                                 <div>
-                                                                    <h2 className="section-space--top--60">PRIMACAP™ Tillbehör</h2>
+                                                                    <h2 className="section-space--top--60">PRIMACAP ™ sammensat facadebeklædning – INGEN KLIP PÅKRÆVET</h2>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -77,19 +82,22 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            PRIMACAP™ Aluminium Väggmonterad Startlist
+                                                                            PRIMACAP ™ Ventileret beklædning i aluminium
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 32 * 45.2 mm
+                                                                            <strong>Størrelse:</strong>  ca. 32 * 45.2 mm
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Længde:</strong> ca. 1.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruv
+                                                                            <strong>Installation:</strong> Med skruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Vägg monterad ventilerad startlist
+                                                                            <strong>Brug:</strong> Vægmonteret ventileret start trim / J-trim
+
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -110,19 +118,21 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            PRIMACAP™ Aluminium J-trim
+                                                                            PRIMACAP ™ J-trim i aluminium
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 6 * 60 mm
+                                                                            <strong>Størrelse:</strong>  ca. 6 * 60 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Længde:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruv
+                                                                            <strong>Installation:</strong> Ansigtsskruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> 	Startlist för Primacap™
+                                                                            <strong>Brug:</strong> 	Som startbeklædning til sammensat facadeplade
+                                                                            30 stk / æske
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -155,19 +165,21 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            PRIMACAP™ Hörnlist / L-List
+                                                                            PRIMACAP ™ Hjørne- / L-trim
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  	ca. 50 * 50
+                                                                            <strong>Størrelse:</strong>  	ca. 50 * 50
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Længde:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Dolda Skruvar
+                                                                            <strong>Installation:</strong> Skjulte skruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> 	Sóm avslutande kant eller hörnlist. Finns i matchande färger
+                                                                            <strong>Brug:</strong> Som finishkant eller hjørnetrimning. Fås i matchende farver.
+                                                                            20 stk / æske
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -186,19 +198,22 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            PRIMACAP™ Expansionslist / T-List
+                                                                            PRIMACAP ™ Udvidelsestrimning / T-trim
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 11.5 * 60 mm
+                                                                            <strong>Størrelse:</strong>  ca. 11.5 * 60 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Længde:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruv
+                                                                            <strong>Installation:</strong> Med skruer
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> 	Expansionslist för att dölja ändarna. Finns i matchande färger.
+                                                                            <strong>Brug:</strong> 	Ekspansionstrim til at dække leddene. Fås i matchende farver.
+                                                                            20 stk / æske
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -232,22 +247,23 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NOVOCLAD™ Startlist i Komposit
+                                                                            NOVOCLAD ™ Composite Start-profil
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 21 * 63 mm
+                                                                            <strong>Størrelse:</strong>  ca. 21 * 63 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Længde:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong> ca. 1.42 kg / m
+                                                                            <strong>Vægt:</strong> ca. 1.42 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Dolda skruvar i börborrade hål
+                                                                            <strong>Installation:</strong> Skjulte skruer gennem præfabrikerede huller
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Startlist för Novoclad™ Profiler
+                                                                            <strong>Brug:</strong> Som startprofil for NOVOCLAD ™ sammensat facadeplade
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -266,22 +282,22 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit Hörnlist / L-List
+                                                                            NATURPLANK ™ komposit L-trim
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>   ca. 40 * 40 mm
+                                                                            <strong>Størrelse:</strong>   ca. 40 * 40 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.4 m
+                                                                            <strong>Længde:</strong> ca. 2.4 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong> ca. 0.65 kg / m
+                                                                            <strong>Vægt:</strong> ca. 0.65 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Skruv
+                                                                            <strong>Installation:</strong> Ansigtsskruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge hörnen ett snyggt avslut
+                                                                            <strong>Brug:</strong> For at afslutte hjørnerne af din Green Plank facadebeklædning.
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -315,19 +331,21 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            Aluminium Hörnlist / L-List
+                                                                            Hjørne af aluminium
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 40 * 40 mm
+                                                                            <strong>Størrelse:</strong>  ca. 40 * 40 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 3.6 m
+                                                                            <strong>Længde:</strong> ca. 3.6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Skruv
+                                                                            <strong>Installation:</strong> Ansigtsskruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong>För att ge hörnen ett snyggt avslut
+                                                                            <strong>Brug:</strong>For at afslutte hjørnerne af din Green Plank facadebeklædning.
+
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -347,19 +365,21 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            Aluminium Expansionslist / T-list
+                                                                            Aluminium T-trim / ekspansion trim
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 10 * 45 mm
+                                                                            <strong>Størrelse:</strong>  ca. 10 * 45 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
+                                                                            <strong>Længde:</strong>  ca. 3.6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Skruv
+                                                                            <strong>Installation:</strong> Ansigtsskruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Expansionslist för att dölja ändarna.
+                                                                            <strong>Brug:</strong> Ekspansionstrim til at dække leddene. Fås i matchende farver.
+
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -383,30 +403,37 @@ const fasadpaneltillbehor = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
-                                                                    <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                                                    <h3>Färgval</h3>
+                                                                    <h2 className="mb-40 mt-20"><strong>produkt information</strong></h2>
+                                                                    <h3>Farvevalg</h3>
                                                                     <p>
-                                                                        Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                                                        Studiefotografering og / eller din browserenhed giver muligvis ikke en nøjagtig gengivelse af farverne. For at se farverne personligt, bedes du anmode om gratis prøver.
                                                                     </p>
-                                                                    <h3>Naturlig skönhet</h3>
+                                                                    <h3>Naturlige skønhed</h3>
                                                                     <p>
-                                                                        Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                                                    <h3>Behåll skönheten</h3>
+                                                                        Vores produkter er designet til at ligne naturligt træ og kan have svag farve / struktur og skygge variationer fra plade til plade. Farvevariationen vil på ingen måde påvirke produktets ydeevne.</p>
+                                                                    <h3>Oprethold skønheden</h3>
                                                                     <p>
-                                                                        Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                                                        Alle udvendige overflader opsamler snavs, støv og forurenende stoffer og skal rengøres. Det er nødvendigt at rengøre dit kompositdæk med jævne mellemrum for at holde det så smukt som den dag, du installerede det.</p>
                                                                 </div>
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
-                                                                    <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
-
-                                                                    <strong>1. </strong>Ingen årlig färgning, tätning eller målning krävs<br />
-                                                                    <strong>2. </strong>Exceptionell motståndskraft mot UV-ljus och färgtoning<br />
-                                                                    <strong>3. </strong>Extremt låg vattenabsorption<br />
-                                                                    <strong>4. </strong>Fri från giftiga tillsatser<br />
-                                                                    <strong>5. </strong>Kommer inte spricka, ruttna, flisa sig eller vrida sig<br />
-                                                                    <strong>6. </strong>Lämplig för offentlig och privat sektor<br />
-
+                                                                    <h2 className="mb-40 mt-20"><strong>Pålidelig holdbarhed, overlegen kvalitet
+                                                                    </strong></h2>
+                                                                    <ul>
+                                                                        <li><strong>1. </strong>Der kræves ingen årlig farvning, forsegling eller maling
+                                                                        </li>
+                                                                        <li><strong>2. </strong>Ekstraordinær modstandsdygtighed over for UV-lys og farvetone
+                                                                        </li>
+                                                                        <li><strong>3. </strong>Ekstremt lav vandabsorption
+                                                                        </li>
+                                                                        <li><strong>4. </strong>Fri for giftige tilsætningsstoffer
+                                                                        </li>
+                                                                        <li><strong>5. </strong>Splinter ikke, splittes, rådner eller vrides
+                                                                        </li>
+                                                                        <li><strong>6. </strong>Suitable for public and private sector
+                                                                        </li>
+                                                                    </ul>
                                                                 </div>
                                                             </div>
                                                         </div>

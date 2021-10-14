@@ -27,107 +27,107 @@ const DATA = [
     {
         link: "/smart-komposittrall-smart-classic",
         image: proImage1,
-        title: "Smart Classic™ Komposittrall",
+        title: " SMART ™ Terrassebrædder System - Smart Classic ™",
         text:
-          "SMART ™ (komposittrall) komposit trall är ett utmärkt val för....."
+          "SMART ™ (kompositvogn) kompositvogn er et glimrende valg til ....."
       },
       {
         link: "/smart-komposittrall-smart-regular",
         image: proImage2,
-        title: "Smart Regular™ Komposittrall",
+        title: "SMART ™ Terrassebrædder System - Smart Regular ™",
         text:
-          "SMART ™ Komposit trall är ett utmärkt val för familjer på grund...."
+          "SMART ™ Composite pyntede gulve er et glimrende valg for familier...."
       },
       {
         link: "/smart-komposittrall-smart-marine",
         image: proImage3,
-        title: "Smart Marine™ Komposittrall",
+        title: "SMART ™ Terrassebrædder System - Smart Marine ™",
         text:
-          "SMART ™ Komposit trall är ett utmärkt val för familjer på.........."
+          "SMART ™ Composite -terrassedæk er et glimrende valg for familier.........."
       },
       {
         link: "/smart-komposittrall-smart-cap",
         image: proImage4,
-        title: "SMART CAP™ Komposittrall",
+        title: "SMART CAP ™ terrassebrædder system",
         text:
-          "SMART CAP™ är täckt med ett skyddande polymer skal och är vår......"
+          "SMART CAP ™ er dækket af en beskyttende polymerskal og er vores......"
       },
       {
         link: "/ultra-smart",
         image: proImage5,
         title: "Ultra™ SMART Komposittrall",
         text:
-          "Med vår nya Smart Ultra får du en terrass som är 50% lättare........"
+          "Med vores nye Smart Ultra får du en terrasse, der er 50% lettere........"
       },
       {
         link: "/marine-cap-komposittrall",
         image: proImage6,
-        title: "MARINE CAP™ Komposittrall",
+        title: "MARINE CAP ™ terrassebrædder",
         text:
-          "MARINE CAP™ inkapslade komposittrall står ovanför konkurrensen...."
+          "MARINE CAP ™ indkapslet kompositvogn er over konkurrencen...."
       },
       {
         link: "/marine-40-komposittrall",
         image: proImage7,
-        title: "MARINE 40™ Komposittrall",
+        title: "MARINE 40 ™ terrassebrædder",
         text:
-          "MARINE 40™ komposittrall gör skönheten praktiskt – PVC-fri......"
+          "MARINE 40 ™ kompositvogn gør skønhed praktisk - PVC -fri......"
       },
       {
         link: "/marine-60-komposittrall",
         image: proImage8,
-        title: "MARINE 60™ Komposittrall",
+        title: "MARINE 60 ™ terrassebrædder",
         text:
-          "Inspirerad av naturen och designad för friluftsliv hittar........"
+          "Inspireret af naturen og designet til fund af friluftsliv........"
       },
       {
         link: "/marine-jumbo-komposittrall",
         image: proImage9,
-        title: "MARINE JUMBO™ Komposittrall",
+        title: "MARINE JUMBO ™ kraftig terrassebrædder",
         text:
-          "Green Plank MARINE JUMBO ™ är inspirerad av naturens styrka........"
+          "Green Plank MARINE JUMBO ™ er inspireret af naturens styrke........"
       },
         {
           link: "/marine-art-komposittrall",
           image: proImage10,
-          title: "MARINE ART™ Komposittrall",
+          title: "MARINE ART ™ terrassebrædder",
           text:
-            "MARINE ART™ komposittrall av naturfiber erbjuder 3D-utseende........"
+            "MARINE ART natur naturlig fiber kompositvogn tilbyder et 3D -look........"
         },
       {
         link: "/entra-komposittrall",
         image: proImage11,
-        title: "Entra™ Komposittrall",
+        title: "ENTRA™ terrassebrædder",
         text:
-          "Inspirerad av naturen och designad med ett syfte … färg ............"
+          "Inspireret af naturen og designet med en formålsfarve............"
       },
       {
         link: "/classic-teak-komposittrall",
         image: proImage12,
-        title: "CLASSIC™ Teak Komposittrall",
+        title: "CLASSIC ™ terrassebrædder",
         text:
-          "Inspirerad av den skandinaviska designtraditionen som .............."
+          "Inspireret af den skandinaviske designtradition som.............."
       },
       {
         link: "/everdeck-komposittrall",
         image:proImage13,
-        title: "EVERDECK™ Komposittrall",
+        title: "EVERDECK™ terrassebrædder",
         text:
-          "Inspirerad av den skandinaviska designtraditionen som..............."
+          "Inspireret af den skandinaviske designtradition som..............."
       },
       {
         link: "/sapphire-komposittrall",
         image: proImage14,
-        title: "SAPPHIRE™ Komposittrall",
+        title: "SAPPHIRE ™ terrassebrædder",
         text:
-          "Inspirerad av det traditionella trädäcket som kännetecknas .........."
+          "Inspireret af det traditionelle trædæk, der er karakteriseret.........."
       },
       {
         link: "/tillbehor-till-komposittrall",
         image: proImage15,
-        title: "Tillbehör till Komposittrall",
+        title: "Komposit Terrassebrædder Tilbehør",
         text:
-          "sista handen med design och säkerhet som gör ditt trall.............."
+          "prikken over i’et med design og sikkerhed, der gør din vogn.............."
       }
 ];
 

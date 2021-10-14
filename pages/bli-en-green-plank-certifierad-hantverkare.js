@@ -13,35 +13,36 @@ const BliCertifieradHantverkare = () => {
   return (
     <>
       <Head>
-        <title>Bli en Green Plank certifierad</title>
-        <meta name="title" content="Bli en Green Plank certifierad hantverkare - GreenPlank.se" />
+        <title>Deltag i vores team af certificerede installatører</title>
+        <meta name="title" content="Deltag i vores team af certificerede installatører - GreenPlank.dk" />
         <meta name="description" content="Vårt professionella installationsprogram delar avancerad installationsteknik bland skickliga installatörer" />
       </Head>
-      <Layout pageTitle="Bli en Green Plank certifierad">
+      <Layout pageTitle="Bliv en grøn installatør">
         <HeaderTwo />
-        <PageHeader title="Bli en GreenPlank Certifierad Hantverkare" crumbTitle="bli-en-certifierad" />
+        <PageHeader title="Bliv en grøn installatør" crumbTitle="bli-en-certifierad" />
         <StickyHeader />
         <section className="about-one pt-120 pb-40">
           <Container>
             <Row style={{ marginBottom: "4em" }}>
               <Col lg={12}>
-                <h2>Gå med i vårt team av certifierade installatörer</h2>
+                <h2>Deltag i vores team af certificerede installatører</h2>
                 <div className="mb-30">
-                  <p>På Green Plank handlar det om partnerskap. Vår verksamhet bygger er!</p>
-                  <p className="mb-30 mt-30">Upptäck hur Green Plank kan stärka ert företag och er marknadsandel med våra banbrytande marknadsföringsverktyg, praktisk utbildning och support. Bli proffset på komposit i ert samhälle idag!</p>
-                  <h3 className="mb-30 mt-30">Ett lojalitetsprogram som faktiskt hjälper ert företag</h3>
-                  <p className="mb-30 mt-30">Green Plank är ett av världens främsta varumärken inom komposit och erbjuder belöningar för affärs byggande till sina välkvalificerade partners. Green PlankPro hittar en installatör nära er och gör det enkelt att öka ert företags exponering med ett anpassningsbart marknadsföringsprogram och vinna över kunder med våra miljövänliga, högkvalitativa, långvariga produkter med lågt underhåll.</p>
-                  <p className="mb-30 mt-30">Fem enkla steg för att bli certifierad Green Plank Installatör.</p>
+                <h3 className="mb-30 mt-30">Hos Green Plank handler det om partnerskaber, vores forretning bygger din!</h3>
+                  <p>Opdag hvordan Green Plank kan hjælpe med at styrke din forretning og markedsandel med vores banebrydende marketingværktøjer, leadgenerering, praktisk træning og support. Bliv go-to-professional i dit samfund i dag!</p>
+                  <h3 className="mb-30 mt-30">Et loyalitetsprogram, der faktisk bygger din virksomhed</h3>
+                  <p className="mb-30 mt-30">Som et af verdens største pyntemærker tilbyder Green Plank belønninger til forretningsopbygning til sine velkvalificerede partnere. Green PlankPro finder et installatør i nærheden af ​​dig, der gør det let at øge din virksomheds eksponering med et tilpasset marketingprogram og vinde kunder med vores miljøvenlige produkter, holdbare og vedligeholdelsesprodukter med høj kvalitet, der holder i høj kvalitet.</p>
+                  <h3 className="mb-30 mt-30">Fem enkle trin for at blive certificeret Green Installer</h3>
+                  
 
-                  <strong>1. </strong>Skicka dina kontaktuppgifter till oss via ansökningsformulär
+                  <strong>1. </strong>Send dine kontaktoplysninger til os via ansøgningsskema
                   <br />
-                  <strong>2. </strong>Gå med i ett träningspass om Green Plank Green installatörs Lojalitetsprogram
+                  <strong>2. </strong>Deltag i en træningssession om Green Plank Green Installer Loyalty Program
                   <br />
-                  <strong>3. </strong>installera tre Green Plank-däck inom 12 månader efter det att du lämnat in din ansökan och registrera dessa projekt på GreenPro.GreenPlank.eu
+                  <strong>3. </strong>Byg tre Green Plank-dæk inden for 12 måneder efter indgivelse af din ansøgning, og registrer disse projekter på GreenPro.GreenPlank.dk
                   <br />
-                  <strong>4. </strong>En Green Plank-representant kommer att inspektera ett av de tre senaste projekt för korrekt installation av Green Plank-produkter.
+                  <strong>4. </strong>En Green Plank-repræsentant vil inspicere et af dine tre seneste projekter for korrekt installation af Green Plank-produkter.
                   <br />
-                  <strong>5. </strong>Er företagskontaktinformation kommer att delas på vår webbsida “Hitta installatör”.
+                  <strong>5. </strong>pr. installation af Green Plank produkter.
                   <br />
 
 
@@ -49,89 +50,89 @@ const BliCertifieradHantverkare = () => {
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mb-30 mt-30">
                         <h3 className="mb-30 mt-30 text-center">Silver</h3>
-                        <p className="text-center">Build 3 Green Plank decks within 12 months of submitting your application and register those projects on GreenPro.GreenPlank.com</p>
+                        <p className="text-center">Byg 3 Green Plank dæk inden for 12 måneder efter indgivelse af din ansøgning og registrer disse projekter på GreenPro.GreenPlank.com</p>
                       </blockquote>
                     </Grid>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mb-30 mt-30">
                         <h3 className="mb-30 mt-30 text-center">Gold</h3>
-                        <p className="text-center">Bygg 6 Green Plank däck inom 12 månader efter det att du lämnat in din ansökan och registrera dessa projekt på GreenPro.GreenPlank.com
-                          Delta i ett gratis träningspass</p>
+                        <p className="text-center">Byg 3 Green Plank dæk inden for 12 måneder efter indgivelse af din ansøgning og registrer disse projekter på GreenPro.GreenPlank.com 
+                        Deltag i en gratis træningssession</p>
                       </blockquote>
                     </Grid>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mb-30 mt-30">
                         <h3 className="mb-30 mt-30 text-center">Platinum</h3>
-                        <p className="text-center">Bygg 12 Green Plank-däck inom 12 månader efter det att du lämnat in din ansökan och registrera dessa projekt på GreenPro.GreenPlank.com
-                          Delta i ett gratis träningspass</p>
+                        <p className="text-center">Byg 12 Green Plank dæk inden for 12 måneder efter indgivelse af din ansøgning og registrer disse projekter på GreenPro.GreenPlank.com
+                        Deltag i en gratis træningssession</p>
                       </blockquote>
                     </Grid>
                   </Grid>
 
 
-                  <p className="mb-30 mt-30">*Delta i en kostnadsfri produktutbildning vartannat år för att behålla medlemsnivån. För att bli Green Installer behöver du en ansvarsförsäkring och undertecknar Green Installer-avtalet.</p>
+                  <p className="mb-30 mt-30">*Deltag i et gratis produktuddannelseskursus hvert andet år for at bevare medlemsniveauet. For at blive Green Installer skal du have ansvarsforsikring og underskrive Green Installer-aftalen.</p>
 
                   <div >
                     <table class="table table-striped">
                       <thead>
                         <tr>
-                          <th>Green Plank lojalitetsprogramsfördelar*</th>
+                          <th>Green Plank loyalitetsprogram fordele *</th>
                           <th>Silver</th>
-                          <th>Guld</th>
+                          <th>Gold</th>
                           <th>Platinum</th>
                         </tr>
                       </thead>
                       <tbody>
                         <tr>
-                          <td>Prioriterat samtal från Green Plank kundsupport</td>
+                          <td>Prioriteret opkald fra Green Plank Customer Support</td>
                           <td>Next day</td>
                           <td>Next day</td>
                           <td>Same day</td>
                         </tr>
                         <tr>
-                          <td>Prioriterad teknisk support</td>
+                          <td>Prioriteret teknisk support</td>
                           <td>✔</td>
                           <td>✔</td>
                           <td>✔</td>
                         </tr>
                         <tr>
-                          <td>Enkel garantiregistrering</td>
+                          <td>Nem garantiregistrering</td>
                           <td>✔</td>
                           <td>✔</td>
                           <td>✔</td>
                         </tr>
                         <tr>
-                          <td>Hitta en installatörs hänvisning på Green Plank webbplatser **</td>
+                          <td>Find en installationsliste på Green Plank-websteder **</td>
                           <td>✔</td>
                           <td>✔</td>
                           <td>Premium plats</td>
                         </tr>
                         <tr>
-                          <td>Lojalitetspoäng för varje projekt du registrerar</td>
+                          <td>Loyalitetspoint for hvert projekt, du registrerer</td>
                           <td>✔</td>
                           <td>✔</td>
                           <td>✔</td>
                         </tr>
                         <tr>
-                          <td>Godkända arbetskläder för installatörer</td>
+                          <td>Godkendt arbejdstøj af installatørmærket</td>
                           <td></td>
                           <td>✔</td>
                           <td>✔</td>
                         </tr>
                         <tr>
-                          <td>Rabatt</td>
+                          <td>Kontantrabat</td>
                           <td>10%</td>
                           <td>15%</td>
                           <td>20%</td>
                         </tr>
                         <tr>
-                          <td>Gratis bilutsmycknad</td>
+                          <td>Gratis levering af varevogn</td>
                           <td>✔</td>
                           <td>✔</td>
                           <td>✔</td>
                         </tr>
                         <tr>
-                          <td>Månatligt nyhetsbrev och erbjudanden</td>
+                          <td>Månedligt nyhedsbrev og tilbud</td>
                           <td>✔</td>
                           <td>✔</td>
                           <td>✔</td>
@@ -140,14 +141,14 @@ const BliCertifieradHantverkare = () => {
                     </table>
                   </div>
 
-                  <strong>1.</strong>*Villkor gäller.
+                  <strong>1.</strong>* Vilkår og betingelser gælder.
                   <br />
-                  <strong>2.</strong>*Minst 3 projekt med Green Plank-produkter som ska göras per år och delta i en gratis produktutbildning vartannat år.
+                  <strong>2.</strong>* Minimum 3 projekter med Green Plank-produkter skal udføres om året og deltage i et gratis produktuddannelseskursus hvert andet år.
                   <br />
 
-                  <h3 className="mb-30 mt-30">Intresserad av att bli en Green Plank certifierad <strong>”Green Installatör”?</strong>
+                  <h3 className="mb-30 mt-30">Er du interesseret i at blive Green Plank Certified   <strong>”Green Installer”?</strong>
                   </h3>
-                  <p className="mb-30 mt-30">Vi skulle gärna ha dig med i vårt team! Klicka på knappen nedan och fyll i registreringsformuläret tillsammans med en kort sammanfattning av vem ni är och er erfarenhet av utomhusdäck, staket och fasadbyggnad.</p>
+                  <p className="mb-30 mt-30">Vi vil meget gerne have dig til vores team! Klik på knappen nedenfor og udfyld registreringsformularen sammen med en kort oversigt over din oplevelse relateret til udendørs dæk, hegn og facadebygning.</p>
 
                 </div>
               </Col>

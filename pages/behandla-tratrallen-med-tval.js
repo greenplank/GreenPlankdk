@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const BehandlaTratrallenMedTval = () => {
   return (
-    <Layout pageTitle="behandla-tratrallen-med-tval">
+    <Layout pageTitle="behandle-tratrallen-med-valg">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Behandla-tratrallen-med-tval" crumbTitle="behandla-tratrallen" />
+      <PageHeader title="Behandl-tratrallen-med-valg" crumbTitle="behandle vognen" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,28 +24,39 @@ const BehandlaTratrallenMedTval = () => {
                     <div className="blog-inner">
                       <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                       <div className="content">
-                        <h2 className="title">Behandla trätrallen med tvål</h2>
+                        <h2 className="title">Behandl trævognen med sæbe</h2>
                         <div className="desc section-space--bottom--30">
-                          <p>Ett komposittrall ger ett naturligt och varmt intryck av ditt hem och din trädgård. Men för att den ska behålla sin känsliga färg är det viktigt att du tar hand om den. Det är väldigt viktigt att tvätta och olja eller lasera trädäck med jämna mellanrum.Vanligtvis räcker det med vartannat år om man tänker på hållbarhet. Om du å andra sidan vill ge den en fin glöd bör du utföra behandlingen en gång om året.</p>
-                          <p className="mb-30 mt-30">I det klimat som råder i stora delar av Sverige tål uteplatsens trädäck och däck mycket. Genom att underhålla trädäcket förlänger du dess livslängd men håller det också estetiskt tilltalande. Här har du några tips på hur du underhåller, tvättar och ger din uteplats lite extra kärlek!</p>
-                          <h3 className="mb-30 mt-30">Hur rengör jag däcket med terrass såpa?</h3>
-                          <p className="mb-30 mt-30">Det första du gör är att skrubba trädäcket med såpa för att bli av med ingrain(use different word), för att göra detta behöver du en hink med vatten, miljövänlig såpa och en skrubb borste som passar både plånboken och miljön. Använd såpa när du rengör trall på våren. Såpa uteplatsen eller trädäcket istället för att använda olja.</p>
-                          <p className="mb-30 mt-30">Med såpa får träet en mjuk och varm känsla och det får ett fint grått finish. Samtidigt lockar inte såpad trall mindre pollen och föroreningar än en oljad trall. Skölj ytorna med en vattenslang och skrubba lätt med såpa och vatten. Se till att träet alltid är fuktigt.</p>
-                          <h3 className="mb-30 mt-30">Vad är nästa steg?</h3>
-                          <p className="mb-30 mt-30">När trallen har rengjorts, skölj den med vatten och låt trädäcket torka några dagar i fint väder innan du behandlar det.</p>
-                          <h3 className="mb-30 mt-30">Hur såpskurar jag trallen?</h3>
-                          <p className="mb-30 mt-30">Börja med att sopa rent på trätrallen och se till att den är fri från smuts. Om det är mycket smutsig, kan en runda skurning behövas innan tvålen.</p>
+                          <p>En kompositvogn giver et naturligt og varmt indtryk af dit hjem og din have. Men for at den kan bevare sin sarte farve, er det vigtigt, at du tager dig af den. Det er meget vigtigt at vaske og olie- eller laser trædæk med jævne mellemrum. Normalt hvert andet år er det nok, hvis du tænker på holdbarhed. Hvis du derimod vil give den en flot glød, bør du udføre behandlingen en gang om året.
+</p>
+                          <p className="mb-30 mt-30">I det klima, der hersker i store dele af Sverige, kan terrassens trædæk og dæk tåle meget. Ved at vedligeholde trædækket forlænger du dets levetid, men holder det også æstetisk tiltalende. Her er nogle tips til, hvordan du vedligeholder, vasker og giver din terrasse lidt ekstra kærlighed!
+</p>
+                          <h3 className="mb-30 mt-30">Hvordan rengør jeg dækket med terrassesæbe?
+</h3>
+                          <p className="mb-30 mt-30">Det første, du gør, er at skrubbe trædækket med sæbe for at slippe af med indbrud (brug et andet ord), for at gøre dette har du brug for en spand vand, miljøvenlig sæbe og en kratbørste, der passer både til din tegnebog og miljøet. Brug sæbe ved rengøring af terrasser om foråret. Sæbe terrassen eller trædækket i stedet for at bruge olie.
+</p>
+                          <p className="mb-30 mt-30">Med sæbe får træet en blød og varm følelse, og det får en flot grå finish. Samtidig tiltrækker sæbede terrasser ikke mindre pollen og forurening end et olieret terrassebord. Skyl overfladerne med en vandslange og skrub let med sæbe og vand. Sørg for, at træet altid er fugtigt.
+</p>
+                          <h3 className="mb-30 mt-30">Hvad er det næste trin?
+</h3>
+                          <p className="mb-30 mt-30">Når vognen er blevet rengjort, skal du skylle den med vand og lade trædækket tørre i et par dage i fint vejr, før du behandler det.
+</p>
+                          <h3 className="mb-30 mt-30">Hvordan skrubber jeg vognen med sæbe?
+</h3>
+                          <p className="mb-30 mt-30">Start med at feje rent på trævognen og sørg for, at den er fri for snavs. Hvis det er meget snavset, kan det være nødvendigt med en rund skrubbe før sæben.
+</p>
                          
-                            <strong>1. </strong>Blanda tvål i en hink med ljummet vatten. Tre dl tvål per 10 liter vatten.<br/>
-                            <strong>2. </strong>Börja sedan skrubba trallen med en grov skrubbborste. Var noga med
-                              att skrubba noggrant så att hela vagnen täcks av tvål. Om vissa ytor är
-                              extremt  nedsmutsade kan de behöva en extra tvätt runda innan du tvålar
-                              trallen.<br/>
-                            <strong>3. </strong>Låt sedan torka in, skölj inte av tvålen!<br/>
-                            <strong>4. </strong>Efter det kan du njuta av en trall med en mjuk och varm känsla. Om en större
-                              effekt önskas, upprepa processen tills önskat resultat uppnås.<br/>
-                            <strong>5. </strong>Undvik att använda högtryckstvätt för din träterrass eftersom trycket kan
-                              skada fibrerna i träet.<br/>
+                            <strong>1. </strong>Bland sæbe i en spand med lunkent vand. Tre dl sæbe pr. 10 liter vand.
+<br/>
+                            <strong>2. </strong>Start derefter med at skrubbe vognen med en grov skrubbebørste. Vær forsigtig
+                              at skrubbe grundigt, så hele vognen er dækket med sæbe. Hvis visse overflader er
+                              Ekstremt snavset, de kan have brug for en ekstra vaskerunde inden sæbning
+                              vogne.<br/>
+                            <strong>3. </strong>Lad det derefter tørre ind, skyl ikke sæben af!
+<br/>
+                            <strong>4. </strong>Derefter kan du nyde en vogn med en blød og varm følelse. Hvis en større
+                              effekt er ønsket, gentages processen, indtil det ønskede resultat er opnået.<br/>
+                            <strong>5. </strong>Undgå at bruge højtryksrenser til din træterrasse, da trykket kan
+                              beskadige fibrene i træet.<br/>
                           
                         </div>
                       </div>

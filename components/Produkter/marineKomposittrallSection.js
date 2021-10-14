@@ -19,37 +19,37 @@ const DATA = [
       {
         link: "/marine-cap-komposittrall",
         image: proImage6,
-        title: "MARINE CAP™ Komposittrall",
+        title: "Green Plank MARINE CAP ™ terrassebrædder",
         text:
-          "MARINE CAP™ inkapslade komposittrall står ovanför konkurrensen...."
+          "MARINE CAP ™ indkapslet kompositvogn er over konkurrencen...."
       },
       {
         link: "/marine-40-komposittrall",
         image: proImage7,
-        title: "MARINE 40™ Komposittrall",
+        title: "Green Plank MARINE 40 ™ terrassebrædder",
         text:
-          "MARINE 40™ komposittrall gör skönheten praktiskt – PVC-fri......"
+          "MARINE 40 ™ kompositvogn gør skønhed praktisk - PVC -fri......"
       },
       {
         link: "/marine-60-komposittrall",
         image: proImage8,
-        title: "MARINE 60™ Komposittrall",
+        title: "Green Plank MARINE 60 ™ terrassebrædder",
         text:
-          "Inspirerad av naturen och designad för friluftsliv hittar........"
+          "Inspireret af naturen og designet til fund af friluftsliv........"
       },
       {
         link: "/marine-jumbo-komposittrall",
         image: proImage9,
-        title: "MARINE JUMBO™ Komposittrall",
+        title: "Green Plank MARINE JUMBO ™ kraftig terrassebrædder",
         text:
-          "Green Plank MARINE JUMBO ™ är inspirerad av naturens styrka........"
+          "Green Plank MARINE JUMBO ™ er inspireret af naturens styrke........"
       },
         {
           link: "/marine-art-komposittrall",
           image: proImage10,
-          title: "MARINE ART™ Komposittrall",
+          title: "Green Plank MARINE ART ™ terrassebrædder",
           text:
-            "MARINE ART™ komposittrall av naturfiber erbjuder 3D-utseende........"
+            "MARINE ART natur naturlig fiber kompositvogn tilbyder et 3D -look........"
         }
 ];
 

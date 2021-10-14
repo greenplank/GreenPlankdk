@@ -12,8 +12,8 @@ const Karriar = () => {
   return (
     <>
       <Head>
-        <title>Karriär</title>
-        <meta name="title" content="Karriär - GreenPlank.se" />
+        <title>Karriar</title>
+        <meta name="title" content="Karriar - GreenPlank.dk" />
         <meta name="description" content="Green Plank är Sveriges ledande leverantör av miljövänliga byggmaterial. Sedan starten 2004 har företaget skapat ett rykte om att erbjuda högkvalitativa byggvaror till lägsta möjliga prissättning." />
       </Head>
       <Layout pageTitle="Karriar">
@@ -24,44 +24,45 @@ const Karriar = () => {
           <Container>
             <Row style={{ marginBottom: "4em" }}>
               <Col lg={12}>
-                <h2>Bygg din karriär med hållbara produkter</h2>
+                <h2>Setzen Sie bei Ihrer Karriere auf nachhaltigen Produkten</h2>
                 <div className="mb-30">
-                  <h3 className="mb-30 mt-30">Våra värderingar
+                  <h3 className="mb-30 mt-30">Unsere Werte
                   </h3>
-                  <p>Våra värderingar är grunden för vårt företag. Vi tror att de främjar och vårdar korrekt affärsuppförande och därför måste vara en integrerad del av alla som bildar företaget. Vi tror att våra värderingar är en väsentlig del av vår företags existens och därför måste följas under alla omständigheter. Vi tror att dessa kärnvärden: integritet, ärlighet, respekt för andra och önskan om ständig förbättring utgör grunden för både personlig och företagens framgång. Tillsammans utgör dessa värderingar den anställdes väsentliga karaktär och genomsyrar all verksamhet i vårt företag. I processen med att växa i dessa värden förbättrar de anställda inte bara företaget, de utvidgar sin egen lycka.</p>
-                  <h3 className="mb-30 mt-30">Vårt folk</h3>
-                  <p className="mb-30 mt-30">De människor som arbetar på Green Plank vill ha mer än bara ett jobb – de bygger karriärer. Våra medarbetare är en mångfaldig grupp som kommer från olika branscher, men de har flera gemensamma egenskaper: de är ljusa, energiska, motiverade individer som utmärker sig inom sina områden.</p>
-                  <h3 className="mb-30 mt-30">Vår kultur
+                  <p>Unsere Werte sind das Fundament unseres Unternehmens. Wir glauben, dass sie ein korrektes Geschäftsgebaren fördern und fördern und daher ein wesentlicher Bestandteil aller, die das Unternehmen bilden, sein müssen. Wir glauben, dass unsere Werte ein wesentlicher Bestandteil unseres Unternehmens sind und daher unter allen Umständen eingehalten werden müssen. Wir glauben, dass diese Grundwerte: Integrität, Ehrlichkeit, Respekt für andere und der Wunsch nach kontinuierlicher Verbesserung die Grundlage für den persönlichen und unternehmerischen Erfolg bilden. Zusammen bilden diese Werte den wesentlichen Charakter eines jeden Mitarbeiters und durchdringen alle Aktivitäten unseres Unternehmens. Während diese Werte wachsen, verbessern die Mitarbeiter nicht nur das Unternehmen, sondern steigern auch ihr eigenes Glück.</p>
+                  <h3 className="mb-30 mt-30">Unsere Mitarbeiter</h3>
+                  <p className="mb-30 mt-30">Die Menschen, die bei Green Plank arbeiten, wollen mehr als nur einen Job – sie machen Karriere. Unsere Mitarbeiter sind eine vielfältige Gruppe aus verschiedenen Branchen, haben jedoch einige Gemeinsamkeiten: Sie sind intelligente, tatkräftige und motivierte Mitarbeiter, die sich auf ihrem Gebiet auszeichnen.</p>
+                  <h3 className="mb-30 mt-30">Unsere Kultur
                   </h3>
-                  <p className="mb-30 mt-30">Samarbete och teamdeltagande kännetecknar andan i Green Plank. Vår kultur möjliggör beslut, förväntar verkställande och stöder anställda för att agera i våra intressenters bästa. Våra team trivs med öppen och ärlig kommunikation och flexibilitet.</p>
-                  <h3 className="mb-30 mt-30">Vår utmaning</h3>
-                  <p className="mb-30 mt-30">Att vara marknadsledande, möta kundernas efterfrågan på kostnadseffektiva hållbara produkter och hålla sig före våra konkurrenter är bara några av de utmaningar vi står inför på Green Plank.</p>
-                  <h2 className="mb-30 mt-30">Försäljningskonsult</h2>
-                  <p className="mb-30 mt-30">Green Plank är Europas ledande leverantör av miljövänliga byggnadsmaterial. Sedan starten 2004 har företaget etablerat sig ett rykte för att erbjuda byggnadsmaterial av högsta kvalitet till lägsta möjliga prissättning.
-                    Green Plank söker försäljningskonsult i alla europeiska länder.</p>
-                  <h3 className="mb-30 mt-30">Vad vinner du på det?</h3>
-                  <p className="mb-30 mt-30">Du kommer att ha möjlighet att representera Green Plank i branschen och sälja en mycket ansedd produkt samtidigt som du tjänar ett attraktivt lönepaket + Transportbidrag + Commission. Din intjäningspotential ökar från år till år när du etablerar dig på denna dynamiska marknadsplats.</p>
-                  <h3 className="mb-30 mt-30">Vad du kommer att göra</h3>
-                  <p className="mb-30 mt-30">När du arbetar som försäljningskonsult använder du dina kontakter inom byggnads-, konsult-, teknik- och arkitekturområden för att utnyttja försäljningen av miljövänliga grönplankdäck, räcke, stängsel, beklädnad, golv etc. Din tekniska bakgrund kombinerad med en stark kunskap om bygg- och anläggningsindustrin hjälper dig att utmärka dig i denna roll. Du kommer att ha förmågan att skapa långvariga affärsrelationer samt utveckla nya affärer med nya konton.</p>
-                  <h4 className="mb-30 mt-30">För att ansöka om denna roll måste du ha:</h4>
+                  <p className="mb-30 mt-30">Kooperation und Teambeteiligung prägen den Geist von Green Plank. Unsere Kultur ermöglicht Entscheidungen, erwartet die Ausführung und unterstützt die Mitarbeiter dabei, im besten Interesse unserer Stakeholder zu handeln. Unsere Teams leben von offener und ehrlicher Kommunikation und Flexibilität.</p>
+                  <h3 className="mb-30 mt-30">Unsere Aufgabe</h3>
+                  <p className="mb-30 mt-30">Als Marktführer aufzusteigen, die Kundennachfrage nach kostengünstigen, nachhaltigen Produkten zu befriedigen und unseren Wettbewerbern voraus zu sein, sind nur einige der Herausforderungen, denen wir uns bei Green Plank gegenübersehen.</p>
+                  <h2 className="mb-30 mt-30">Sales Consultant</h2>
+                  <p className="mb-30 mt-30">Green Plank ist Europas führender Anbieter von umweltfreundlichen Baustoffen. Seit seiner Gründung im Jahr 2004 hat sich das Unternehmen den Ruf erarbeitet, qualitativ hochwertige Baumaterialien zu möglichst niedrigen Preisen anzubieten.
+                  Green Plank hat seinen Sitz in Malmö, Schweden. Weitere Informationen zu Green Plank finden Sie auf der Website unter http://www.greenplank.dk.</p>
+                  <p className="mb-30 mt-30">Green Plank sucht Vertriebsberater in allen europäischen Ländern.</p>
+                  <h3 className="mb-30 mt-30">Was für Vorteile bieten wir Ihnen?</h3>
+                  <p className="mb-30 mt-30">Sie haben die Möglichkeit, Green Plank in der Branche zu vertreten, ein hoch angesehenes Produkt zu verkaufen und gleichzeitig ein attraktives Gehaltspaket + Autokostenzuschuss + Provision zu verdienen. Ihr Verdienstpotential steigt von Jahr zu Jahr, wenn Sie sich auf diesem dynamischen Markt etablieren.</p>
+                  <h3 className="mb-30 mt-30">Ihre Aufgaben:</h3>
+                  <p className="mb-30 mt-30">Als Verkaufsberater nutzen Sie Ihre Kontakte in den Bereichen Gebäude, Beratung, Ingenieurwesen und Architektur, um den Verkauf von umweltfreundlichen grünen Dielen, Geländern, Zäunen, Verkleidungen, Fußböden usw. zu fördern Die Bauindustrie wird Ihnen dabei helfen, in dieser Rolle herausragende Leistungen zu erbringen. Sie verfügen über die Fähigkeit, langjährige Geschäftsbeziehungen aufzubauen und neue Geschäftsbeziehungen mit neuen Konten aufzubauen.</p>
+                  <h4 className="mb-30 mt-30">Um sich für diese Stelle zu bewerben, sollten Sie folgende Kenntnisse mitbingen:</h4>
 
-                  <strong>1. </strong>Ett beprövat rekord i försäljningssucces inom bygg- och anläggningsindustrin<br />
-                  <strong>2. </strong>Mycket utvecklad förhållande och förmåga att utveckla relationer.<br />
-                  <strong>3. </strong>Förmåga att samverka med alla byggnadsnivåer.<br />
+                  <strong>1. </strong>Eine nachgewiesene Erfolgsbilanz in der Bauindustrie. <br />
+                  <strong>2. </strong>Hochentwickelte Fähigkeiten zum Aufbau von Beziehungen und zur Geschäftsentwicklung.<br />
+                  <strong>3. </strong>Fähigkeit zur Zusammenarbeit mit allen Ebenen der Bauindustrie.<br />
 
-                  <h4 className="mb-30 mt-30">Du kommer att bli högt ansedd om du också har:</h4>
+                  <h4 className="mb-30 mt-30">Sie werden besonders bevorzugt, wenn Sie zudem über Folgendes verfügen:</h4>
 
-                  <strong>1. </strong>Befintliga kontakter i byggnad / arkitekturutrymme.<br />
-                  <strong>2. </strong>Erfarenhet av inomhus / utedörrgolv, däck, stängsel speciellt WPC.
+                  <strong>1. </strong>Bestehende Kontakte im Gebäude- / Architekturrau<br />
+                  <strong>2. </strong>Erfahrung mit Innen- / Außenböden, Terrassendielen, Fechten speziell WPC.
                   <br />
 
-                  <p className="mb-30 mt-30">Allt du behöver göra för att ansöka om denna enastående roll är att skicka ditt CV till  . Skicka ditt CV ASAP eftersom vi kommer att se sökande från det ögonblick som denna annons visas. Om du vill veta mer om denna unika möjlighet eller liknande försäljningsroller, kan du ringa oss för en konfidentiell chatt på +46 (0) 761 734 777.</p>
+                  <p className="mb-30 mt-30">Alles, was Sie tun müssen, um sich für diese herausragende Position zu bewerben, ist Ihren Lebenslauf an Green Plank zu senden, indem Sie Ihren Lebenslauf an senden. Senden Sie Ihren Lebenslauf so schnell wie möglich, da wir die Bewerber ab dem Zeitpunkt, zu dem diese Anzeige geschaltet wird, überprüfen. Wenn Sie jedoch mehr über diese einmalige Gelegenheit oder ähnliche Vertriebsfunktionen erfahren möchten, können Sie uns unter +46 (0) 761 734 777 für einen vertraulichen Chat anrufen.</p>
                   <p>
-                    Skicka CV till:  info@GreenPlank.eu</p>
+                  Bitte senden Sie Ihren Lebenslauf an:</p>
                   <p>
-                    Green Plank kan avslöja information som du har gett oss om vi har en god tro på att sådant avslöjande är nödvändig för (1) att följa lagen eller den rättsliga process som serveras på Green Plank; eller (2) skydda och försvara Green Planks rättigheter eller egendom.</p>
+                  Wir bedanken uns bei allen Bewerbern für ihr Interesse an unserem Unternehmen. Es werden jedoch nur die in der engeren Auswahl stehenden Personen zu einem Vorstellungsgespräch kontaktiert. Wir werden erneut auf diese Datenbank verweisen, wenn sich innerhalb von Green Plank andere Beschäftigungsmöglichkeiten ergeben.</p>
                   <p>
-                    Vi tackar alla sökande för deras intresse för vårt företag. Men endast de kortlistade kommer att kontaktas för en intervju. Vi kommer att hänvisa till denna databas igen när andra anställningsmöjligheter uppstår inom Green Plank.</p>
+                  Wenn Sie die Gelegenheit in unserem Unternehmen interessiert, würden wir gerne von Ihnen hören.</p>
 
 
                 </div>

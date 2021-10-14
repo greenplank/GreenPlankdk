@@ -12,23 +12,23 @@ const DATA = [
       {
         link: "/naturplank-komposit-tackbrada-gp709-1080mm",
         image: proImage1,
-        title: "NATURPLANK™ Komposit täckbräda – GP709 (10*80mm)",
+        title: "NATURPLANK ™ sammensat planke - GP709 (10 * 80 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa ........"
+          "bæredygtigt træalternativ med endeløs kreativitet........"
       },
       {
         link: "/naturplank-komposit-tackbrada-gp733-10130mm",
         image: proImage2,
-        title: "NATURPLANK™ Komposit täckbräda – GP733 (10*130mm)",
+        title: "NATURPLANK ™ sammensat planke - GP733 (10 * 130 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa ........."
+          "bæredygtigt træalternativ med endeløs kreativitet........."
       },
       {
         link: "/naturplank-komposit-tackbrada-gp734-10230mm",
         image: proImage3,
-        title: "NATURPLANK™ Komposit täckbräda – GP734 (10*230mm)",
+        title: "NATURPLANK ™ sammensat planke - GP734 (10 * 230 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa .........."
+          "bæredygtigt træalternativ med endeløs kreativitet.........."
       }
 ];
 

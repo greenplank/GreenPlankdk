@@ -22,74 +22,74 @@ const InstallationUnderhall = () => {
   return (
     <>
       <Head>
-        <title>Installation och underhåll</title>
+        <title>Installationer og vedligeholdelse</title>
         <meta name="title" content="Installation och underhåll | Hjälp och guider - GreenPlank.se" />
         <meta name="description" content="Green Plank installationsguider och video kan hjälpa dig att korrekt installera kompositplattor, klädsel, stängsel och räcke med lätthet." />
       </Head>
-      <Layout pageTitle="installation-och-underhall">
+      <Layout pageTitle="Installationer og vedligeholdelse">
         <HeaderTwo />
-        <PageHeader title="Installation och Underhall" crumbTitle="installation-och-underhall" />
+        <PageHeader title="Installationer og vedligeholdelse" crumbTitle="Installationer og vedligeholdelse" />
         <StickyHeader />
         <section className="about-one pt-120 pb-40">
           <Container>
             <Row style={{ marginBottom: "4em" }}>
               <Col lg={12}>
-                <h2>HUR MAN INSTALLERAR KOMPOSITT DÄCK, FASADBEKLÄDNAD, STAKET OCH PLATTOR.
+                <h2>SÅDAN INSTALLERES KOMPOSITT DECKING, FACADE CLADDING, FENCING & PLANKS
                 </h2>
                 <div className="mb-30">
-                  <p>Säkerställ att ert kompositgolv, fasad eller staket ser ut och fungerar precis som det ska.</p>
-                  <p className="mb-30 mt-30">Korrekt installation och underhåll är avgörande för att få er vision att leva upp och säkerställa era produkters naturliga skönhet och livslängd. Följande installationsguider och underhållsinstruktioner hjälper er att komma igång medan våra instruktionsvideor ger en nära bild av grunderna. Oavsett om ni är en professionell installatör, anläggningschef eller privatperson så har Green Plank resurser för att hjälpa er under varje steg i installations- och underhållsprocessen.</p>
-                  <p className="mb-30 mt-30">Välj vilken typ av installations- och underhållsinstruktioner ni är intresserad av så att ni kan se dem på skärmen eller ladda ner dem till er dator. Om ni inte hittar den information som ni söker efter, besök vår FAQs-sida eller skicka ett e-postmeddelande till info@GreenPlank.se</p>
+                  <p>Sikrer ro i sindet, at dit sammensatte terrassegulv, facade eller hegn ser ud og fungerer, som det skal.</p>
+                  <p className="mb-30 mt-30">Korrekt installation og vedligeholdelse er afgørende for at bringe din vision til live og sikre dine sammensatte dækgulve, facadebeklædning og hegnprodukter ‘naturlige skønhed og levetid. Følgende installationsvejledninger og vedligeholdelsesinstruktioner hjælper dig med at komme i gang, mens vores vejledningsvideoer giver et nærbillede af det grundlæggende. Uanset om du er en professionel installatør eller en facilitetschef, har Green Plank ressourcerne til at støtte dig under hvert trin i installations- og vedligeholdelsesprocessen.</p>
+                  <p className="mb-30 mt-30">Vælg den type installations- og vedligeholdelsesinstruktioner, du er interesseret i, så du kan se dem på din skærm eller downloade dem til din computer. Hvis du ikke finder de oplysninger, du leder efter, kan du besøge vores FAQs-side eller sende os en e-mail på info@GreenPlank.dk.</p>
 
                   <div class="table-1">
                     <table class="table table-striped">
                       <thead>
                         <tr>
-                          <th style={{ textAlign: "left" }}>Produkt</th>
-                          <th style={{ textAlign: "left" }}>Enkel Installationsguide</th>
-                          <th style={{ textAlign: "left" }}>Detaljerad Installationsguide</th>
+                          <th style={{ textAlign: "left" }}>Products</th>
+                          <th style={{ textAlign: "left" }}>Simple Installation Guide	</th>
+                          <th style={{ textAlign: "left" }}>Detail Installation Guide</th>
                         </tr>
                       </thead>
                       <tbody>
                         <tr>
                           <td style={{ textAlign: "left" }}>Smart™ Marine</td>
-                          <td><a target="_blank" href="/pdfs/SmartMarine/smart-Marine-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image1} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/SmartMarine/smart-Marine-English.pdf"><img class="wp-image-10058 aligncenter" src={image1} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Green-Plank-Smart-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td style={{ textAlign: "left" }}>Smart™ Classic</td>
-                          <td><a target="_blank" href="/pdfs/smart-classic-deck-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image3} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/smart-classic-deck-english.pdf"><img class="wp-image-10058 aligncenter" src={image3} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Green-Plank-Smart-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Smart™ Regular</td>
-                          <td><a target="_blank" href="/pdfs/SmartRegular/smart-regular-Swedish.pdf"><img class="wp-image-10058 aligncenter" src={image4} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/SmartRegular/smart-regular-english.pdf"><img class="wp-image-10058 aligncenter" src={image4} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Green-Plank-Smart-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Smart™ Capped</td>
-                          <td><a target="_blank" href="/pdfs/SmartCapped/smart-Capped-swedish.pdf"><img class="wp-image-10058 aligncenter" src={image5} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/SmartCapped/smart-Capped-English.pdf"><img class="wp-image-10058 aligncenter" src={image5} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Green-Plank-Smart-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>DECK CARE AND CLEANING</td>
                           <td><img class="wp-image-10063 aligncenter" src={image6} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="/pdfs/GreenPlank-deck-care-and-cleaning-guide.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/English-language_compressed.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Marine 40™</td>
-                          <td><a target="_blank" href="/pdfs/Marine40™/marine-40-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Marine40™/marine-40.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
                           <td><a target="_blank" href="/pdfs/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Marine 60™</td>
-                          <td><a target="_blank" href="/pdfs/Marine60™/marine-60-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Marine60™/marine-60.pdf"><img class="wp-image-10063 aligncenter" src={image7} alt="" width="83" height="115" /></a></td>
                           <td><a target="_blank" href="/pdfs/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Classic™ Komposittrall</td>
-                          <td><a target="_blank" href="/pdfs/ClassicKomposittrall/classic-deck-swedish.pdf"><img class="wp-image-10063 aligncenter" src={image8} alt="" width="83" height="115" /></a></td>
-                          <td><a target="_blank" href="/pdfs/ClassicKomposittrall/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/ClassicKomposittrall/classic-deck-english.pdf"><img class="wp-image-10063 aligncenter" src={image8} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/ClassicKomposittrall/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019%20(1).pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>ENTRA™ Composite Decking</td>
@@ -99,38 +99,37 @@ const InstallationUnderhall = () => {
                         <tr>
                           <td>PRIMACAP™ Facade Cladding</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="/pdfs/Novoclad/Green-Plank-Primacap-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/Novoclad/green-plank-primacap-facade-cladding-installation-guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Novofence Private™</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="/pdfs/NovofencePrivate™/Green-Plank-Private-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/NovofencePrivate™/green-plank-privacy-fence-installation-guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Novofence Traditional™</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="/pdfs/NovofenceTraditional™/Green-Plank-Traditional-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/NovofenceTraditional™/green-plank-traditional-fence-installation-guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>Novofence Modern™</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="/pdfs/NovofenceModern™/Green-Plank-Modern-Installeringsanvisning.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/NovofenceModern™/green-plank-modern-fence-installation-guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                         <tr>
                           <td>InstaClick™/EverTile™ Deck Tiles</td>
                           <td><img class="wp-image-10063 aligncenter" src={image9} alt="" width="18" height="18" /></td>
-                          <td><a target="_blank" href="/pdfs/golvplattor/Green-Plank-kompositplattor-Monteringsguide.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
+                          <td><a target="_blank" href="/pdfs/golvplattor/green-plank-deck-tiles-installation-guide-2019.pdf"><img class="wp-image-10058 aligncenter" src={image2} alt="" width="83" height="115" /></a></td>
                         </tr>
                       </tbody>
                     </table>
                   </div>
 
-                  <p className="mb-30 mt-60">Green Plank SmartCap & Smart Wood Composite Decking with Tongue & Groove Installation Instructions – No clips required Green Plank (Rectangular) Wood Composite Decking Installation Instructions</p>
-                  <h3 className="mb-30 mt-30">DISCLAIMER:</h3>
-                  <p className="mb-30 mt-10">All contents, publications and literature on this page are for informational purposes only. These information should not be considered complete, up-to-date, and are not intended to be</p>
-                  <h3 className="mb-30 mt-30">FRISKRIVNING:</h3>
-                  <p className="mb-30 mt-10">Allt innehåll, publikationer och litteratur på denna sida är endast för informativt syfte. Denna information bör inte betraktas som fullständig, uppdaterad och är inte avsedd att användas i stället för ett besök, konsultation eller rådgivning från en licensierad professionell.</p>
-                  <p className="mb-30 mt-10">Dessa publikationer och all litteratur som finns på denna webbplats är skyddad av upphovsrätt och tillstånd bör erhållas från utgivaren före reproduktion, lagring i ett hämtningssystem eller överföring i någon form eller på något sätt, elektroniskt, mekaniskt, fotokopiering, inspelning, eller liknande. Genom att ladda ner innehåll, publikationer och / eller litteratur från denna webbplats godkänner du de metoder som anges i användarvillkoren.</p>
+                  <p className="mb-30 mt-60">Green Plank SmartCap & Smart Wood Komposit Terrassebrædder with Tongue & Groove Installationsvejledning – Ingen clips krævet Grøn planke (rektangulær) Installationsvejledning til trækompositplader</p>
+                  <h3 className="mb-30 mt-30">ANSVARSFRASKRIVELSE:</h3>
+                  <p className="mb-30 mt-10">Alt indhold, publikationer og litteratur på denne side er kun til orientering. Disse oplysninger bør ikke betragtes som komplette, ajourførte og er ikke beregnet til at blive brugt i stedet for et besøg, konsultation eller rådgivning fra en autoriseret professionel.</p>
+                  <p className="mb-30 mt-10">Disse publikationer og al litteratur, der findes på dette websted, er beskyttet af ophavsret, og tilladelse skal fås fra udgiveren inden reproduktion, opbevaring i et hentningssystem eller transmission i enhver form eller på nogen måde, elektronisk, mekanisk, fotokopiering, optagelse, eller det samme. Ved at downloade indhold, publikation og / eller litteratur fra dette websted accepterer du fremgangsmåden beskrevet i brugsbetingelserne.</p>
+                 
                 </div>
               </Col>
             </Row>

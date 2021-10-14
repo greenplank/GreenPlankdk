@@ -15,7 +15,7 @@ const PageHeader = ({ title, crumbTitle }) => {
         <ul className="thm-breadcrumb list-unstyled ">
           <li>
             <Link href="/">
-              <a>Hem</a>
+              <a>Hjem</a>
             </Link>
           </li>
           <li>-</li>

@@ -22,65 +22,65 @@ const DATA = [
       {
         link: "/naturplank-komposit-plank-gp7129-40140mm",
         image: proImage1,
-        title: "NATURPLANK™ Kompositplank – GP7129 (40*140mm)",
+        title: "NATURPLANK ™ sammensat planke - GP7129 (40 * 140 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa och......."
+          "bæredygtigt træalternativ med endeløs kreativ og......."
       },
       {
         link: "/naturplank-kompositplank-gp7121-24140mm",
         image: proImage2,
-        title: "NATURPLANK™ Kompositplank – GP7121 (24*140mm)",
+        title: "NATURPLANK ™ sammensat planke - GP7121 (24 * 140 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa och......."
+          "bæredygtigt træalternativ med endeløs kreativ og......."
       },
       {
         link: "/naturteak-kompositplank-gp7241-7236mm",
         image: proImage3,
-        title: "NATURTEAK™ Kompositplank – GP7241 (7*236mm)",
+        title: "NATURPLANK ™ - Gulvbelægning i komposit-teak - GP7241 (7 * 236mm)",
         text:
-          "det gröna alternativet för teakträ med oändliga ......."
+          "den grønne mulighed for teak med uendelig......."
       },
       {
         link: "/naturplank-bred-kompositplanka-gp729-20305mm",
         image: proImage4,
-        title: "NATURPLANK™ Kompositplank – GP729 (20*305mm)",
+        title: "NATURPLANK ™ Wide Board - GP729 (20 * 305mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa och......."
+          "bæredygtigt træalternativ med endeløs kreativ og......."
       },
       {
         link: "/naturplank-kompositplank-gp7117-1768mm",
         image: proImage5,
-        title: "NATURPLANK™ Kompositplank – GP7117 (17*68mm)",
+        title: "NATURPLANK ™ sammensat planke - GP7117 (17 * 68mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa och......."
+          "bæredygtigt træalternativ med endeløs kreativ og......."
       },
       {
         link: "/naturplank-kompositplank-gp7118-2749mm",
         image: proImage6,
-        title: "NATURPLANK™ Kompositplank – GP7118 (27*49mm)",
+        title: "NATURPLANK ™ sammensat planke - GP7118 (27 * 49 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa och......."
+          "bæredygtigt træalternativ med endeløs kreativ og......."
       },
       {
         link: "/naturplank-kompositplank-gp7119-4090mm",
         image: proImage7,
-        title: "NATURPLANK™ Kompositplank – GP7119 (40*90mm)",
+        title: "NATURPLANK ™ sammensat planke - GP7119 (40 * 90 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa och......."
+          "bæredygtigt træalternativ med endeløs kreativ og......."
       },
       {
         link: "/naturplank-kompositplank-gp7120-3472mm",
         image: proImage8,
-        title: "NATURPLANK™ Kompositplank – GP7120 (34*72mm)",
+        title: "NATURPLANK ™ sammensat planke - GP7120 (34 * 72 mm)",
         text:
-          "hållbart träalternativ med oändliga kreativa och......."
+          "bæredygtigt træalternativ med endeløs kreativ og......."
       },
       {
         link: "/naturplank-kompositplank-gp7165-4070mm",
         image: proImage9,
-        title: "NATURPLANK™ Kompositplank – GP7165 (40*70mm)",
+        title: "NATURPLANK ™ sammensat planke - GP7165 (40 * 70mm)  ",
         text:
-          "hållbart träalternativ med oändliga kreativa och......"
+          "bæredygtigt træalternativ med endeløs kreativ og......"
       }
 ];
 

@@ -20,15 +20,17 @@ import pdfimg2 from "../assets/images/projects/pic.png";
 import pdfimg3 from "../assets/images/projects/pic1.png";
 import pdfimg4 from "../assets/images/projects/swedish.png";
 import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
+import pdfimg6 from "../assets/images/projects/greenplank-composite-decking-installation-guide-1.jpg";
+
 import Head from "next/head";
 import Footer from "../components/footer";
 
 const smartcap = () => {
   return (
-    <Layout pageTitle="smart-komposittrall-smart-cap">
+    <Layout pageTitle="smart terrassebrædder-smart-cap">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="smart-komposittrall-smart-cap" crumbTitle="smart-komposittrall-smart-cap" />
+      <PageHeader title="Smart terrassebrædder-smart-cap" crumbTitle="smart-terrassebrædder-smart-cap" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -42,25 +44,24 @@ const smartcap = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>SMART™ Komposittrall – Smart Cap™</h2>
-                          <strong>Det är innovationen bakom skönheten</strong>
+                          <h2>SMART CAP ™ Co-ekstruderet dekksystem</h2>
+                          <strong>det er innovationen bag skønheden</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>SMART CAP™ är täckt med ett skyddande polymer skal och är vår fjärde generationens co-extraherade komposit trall som är motståndskraftiga mot de element som varje däck håller ut. SMART CAP™ komposit trall är ett utmärkt val för familjer med det unika förseglings systemet, det extremt låga underhållet, slät yta. Det är designat för maximal hållbarhet. Den motstår blekning, färgning, mögel och kommer inte att ruttna, spricka eller varpa. Den är också insekt säker och splint fri, vilket gör det säkrare och bekvämare för familjer med barn och husdjur.</strong>
+                              <strong>SMART CAP ™ er beskyttet af en beskyttende polymerskal og er vores 4. generation af ekstruderet kompositplade, der er modstandsdygtig over for de elementer, som hvert dæk tåler. Med det unikke sammenkoblingssystem, ultra-vedligeholdelsesfri, glatte overflade er SMART CAP ™ Decking System et godt valg for familier. Det er designet til maksimal holdbarhed. Det modstår falmning, pletter, skimmelsvamp og vil ikke rådne, knække eller vride sig. Det er også insektsikkert og splinterfrit, hvilket gør det sikrere og mere behageligt for familier med børn og kæledyr.</strong>
                               <p>
-                                När du väljer Green Planks SMART CAP™- komposit trall, visar du ett trall som överträffar och håller utan att förlora sitt vackra, naturliga utseende. SMART CAP™ -teknologin ger en oöverträffad barriär mot de hårda effekterna av ultraviolett ljus, drivande regn, hög luftfuktighet och extrema värmer och kyla. Det erbjuder också en extra bonus av dimensionell stabilitet och slag motstånd. Det håller färgerna ser djupa och rika, år efter år.
-                                SMART? komposit brädor installeras utan några klämmor och fästs på bjälkarna med skruvar genom de prefabricerade långa fixerings- och dränerings hålen.
-                                Genom att använda SMART ™ komposit trall kan du skapa en helt stängd terrass yta som inte tillåter smuts att falla ner eller ogräs att växa upp.</p>
+                              Når du vælger Green Planks SMART CAP ™ pyntede, viser du dine smarts i et dæk, der vil overgå og overleve uden at miste dets smukke, naturlige udseende. SMART CAP ™ -teknologi tilvejebringer en hidtil uset barriere mod de barske virkninger af ultraviolet lys, drivende regn, høj luftfugtighed og ekstreme varme og kulde. Det giver også en ekstra bonus for dimensionel stabilitet og slagfasthed. Det holder farverne dybe og rige ud, år efter år.</p>
+                              <p>SMART ™ -kompositplader installeres uden klips og fastgøres til bjælkerne ved hjælp af skruer gennem de præfabrikerede lange fastgørelses- og drænhuller.</p>
+                              <p>Ved at bruge SMART ™ Decking System kan du oprette en helt lukket terrasseoverflade, der ikke tillader snavs at falde ned eller ukrudt vokse op.</p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Ultra lågt underhåll</strong> – Bevisad prestanda med fläck- och bleknings beständighets garanti.</li>
-                                  <li><strong>Inga klips Clips</strong> – Du behöver inga klips ( clips )för att montera vår Smart™ Komposit med Not och Spont.</li>
-                                  <li><strong>Enhetlighet </strong>– Vår komposit Not och Spont trall ger mycket enhetliga och släta ytor.</li>
-                                  <li><strong>Enkel installation</strong> – Det är också enkelt att installera vår Komposit Not och Spont trall, plankan klickar enkelt på plats utan oro över jämnt avstånd mellan brädorna.</li>
-                                  <li><strong>Förfabrikerade hål </strong> ( för fabrikerade hål )– Våra Not och Spont trall kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra skivorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri ( skruv fri ) finish.</li>
-                                  <li><strong>Komplimerande</strong> ( kompletterande ) tillbehör – Komplettera dina dröm uteplatser med våra ventilerade klädsel och skydd – den perfekta matchen för din högpresterande SMART ™- komposit trall.</li>
+                                  <li><strong>Premium kvalitet</strong> – Bevist nordisk kvalitetsdæk til hårdt vejr og grønnere ophold.</li>
+                                  <li><strong>Ingen klip</strong> – Du har ikke brug for klips til fastgørelse af dæk til at montere vores sammensatte tunge og rilleplank.</li>
+                                  <li><strong>Ensartethed  </strong>– Vores sammensatte tunge- og notdæk giver meget ensartede og glatte overflader.</li>
+                                  <li><strong>Nem installation</strong> – Installation af vores kompositplanker er også let, brættet klikker let på plads uden bekymring for jævn afstand mellem brædderne.</li>
+                                  <li><strong>Præfabrikerede huller</strong> – Vores tunge- og rilleplanker kommer med præfabrikerede huller, så du nemt og let kan fastgøre pladerne på plads uden risiko for forskydning eller bevægelse.</li>
+                                  <li><strong>Gratis tilbehør</strong>  – Komplet dine drømme terrassedækdesign med vores ventilerede pynt og betræk – det perfekte match til din højtydende SMART ™ pyntede.</li>
                                 </ul>
                               </div>
                             </div>
@@ -76,38 +77,38 @@ const smartcap = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image11} className="img-fluid" alt="" />
+                                  <img src={Image11} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left">Skyddande hölje, Halkmotståndig. Trätextur</td>
+                                      <td align="left"><strong>Overflade:</strong></td>
+                                      <td align="left">Rige, træfarvede farver, skridsikker</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Størrelse:</strong></td>
                                       <td align="left">ca. 23 * 138 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 2.8 m | 3.8 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
+                                      <td align="left"><strong>Krav:</strong></td>
                                       <td align="left">ca. 6.94 meters for 1 m²</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 4.18 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">50 cm c/c för bostadsapplikationer</td>
+                                      <td align="left"><strong>Bjælkespændvidde:</strong></td>
+                                      <td align="left">50 cm c / c til boliger *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -125,13 +126,13 @@ const smartcap = () => {
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={4}>
-                                  <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Prøveordre</a>
                                   </Grid>
                                   <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="/pdfs/SmartCapped/smart-Capped-swedish.pdf" className="thm-btn"  >installationsguide</a>
+                                    <a target="_blank" href="/pdfs/smart-Capped-English.pdf" className="thm-btn"  >Installationsguide</a>
                                   </Grid>
                                   <Grid item xs={8} sm={6} lg={8}>
-                                    <a target="_blank" href="/pdfs/SmartCapped/smart-Capped-swedish%20(1).pdf" className="thm-btn" >installation av aluminium</a>
+                                    <a target="_blank" href="/pdfs/smart-Capped-English%20(1).pdf" className="thm-btn" >aluminium installation</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -145,7 +146,7 @@ const smartcap = () => {
                       {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>VIS FARVETENDENS – indgroet med naturlig og særpræg</h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
@@ -171,33 +172,33 @@ const smartcap = () => {
                           <div className="row">
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h2 className="mb-40 mt-20"><strong>produkt information</strong></h2>
+                                <h3>Farvevalg</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                  Studiefotografering og / eller din browserenhed giver muligvis ikke en nøjagtig gengivelse af farverne. For at se farverne personligt, bedes du anmode om gratis prøver.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Naturlige skønhed</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                  Vores produkter er designet til at ligne naturligt træ og kan have svag farve / struktur og skygge variationer fra plade til plade. Farvevariationen vil på ingen måde påvirke produktets ydeevne.</p>
+                                <h3>Oprethold skønheden</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alle udvendige overflader opsamler snavs, støv og forurenende stoffer og skal rengøres. Det er nødvendigt at rengøre dit kompositdæk med jævne mellemrum for at holde det så smukt som den dag, du installerede det.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Var smart – Köp SMART™</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>Vær smart – Køb SMART ™</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Tätt, enhetlig yta, vilket gör den säkrare och bekvämare för familjer med barn och husdjur.</li>
-                                  <li><strong>2. </strong>Flerfärgade strimmor i varje bräda skapar ett äkta korn mönster som inbjuder dig att koppla av och njuta av ditt personliga tropiska paradis.</li>
-                                  <li><strong>3. </strong>Utmärkande inslag av design, stil och färg alternativ</li>
-                                  <li>4.Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>4. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>5. </strong>Hög glid motstånd ger en säker yta, även i våta förhållanden</li>
-                                  <li><strong>6. </strong>Inga fixerings klipp krävs</li>
-                                  <li><strong>7. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>8. </strong>Lämplig för offentlig och privat sektor</li>
-                                  <li><strong>9. </strong>Upp till 60% snabbare installation</li>
+                                  <li><strong>1. </strong>Gapfri, ensartet overflade, der gør den sikrere og mere behagelig for familier med børn og kæledyr.</li>
+                                  <li><strong>2. </strong>Flerfarvede striber på hvert bræt skaber et autentisk kornmønster, der inviterer dig til at slappe af og nyde dit personlige tropiske paradis.</li>
+                                  <li><strong>3. </strong>Karakteristisk indlægsdesign, stil og farveindstillinger</li>
+                                  <li><strong>4. </strong>Der kræves ingen årlig farvning, forsegling eller maling</li>
+                                  <li><strong>5. </strong>Ekstraordinær modstandsdygtighed over for UV-lys og farvetone</li>
+                                  <li><strong>6. </strong>Høj skridsikkerhed giver en sikker overflade, selv i våd tilstand</li>
+                                  <li><strong>7. </strong>KIngen fastgørelsesklip kræves</li>
+                                  <li><strong>8. </strong>Fri for giftige tilsætningsstoffer</li>
+                                  <li><strong>9. </strong>Velegnet til offentlig og privat sektor</li>
+                                  <li><strong>10. </strong>Op til 60% hurtigere installation</li>
                                 </ul>
                               </div>
                             </div>
@@ -208,16 +209,16 @@ const smartcap = () => {
 
                       {/*====================  Star Smart Classic Section-5 content ====================*/}
                       <div className="col-12 mb-80">
-                        <h3>TILLBEHÖR</h3>
+                        <h3>TILBEHØR</h3>
                         <hr />
-                        <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
+                        <p className="mb-40">Green Plank SMART t dækningstilbehør udvider din horisont yderligere, så du kan udvide særprægede og dejlige funktioner til dit SMART træk, der forbedrer både dets skønhed og funktionalitet. Fra F-trim og L-trim til stigebevægelser, ventilerede aluminiumslister, vognpedaler, bjælker osv., Her er alle de vogndele, du har brug for for at fuldføre dit SMART-vognprojekt.</p>
 
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/hqPj65OSR0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/aCm2kWRYqvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/803lQ8m7aVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
                           </Grid>
@@ -226,34 +227,35 @@ const smartcap = () => {
                       {/*====================  End of Star Smart Classic Section-5 content  ===============*/}
 
                       {/*====================  Star Smart Classic Section-6 content  ====================*/}
-                      <div className="col-12 mb-30 mt-80" >
+                      <div className="col-12 mb-30 mt-20" >
                         <h3>
-                          Ladda ner Pdfs</h3>
+                          Download Pdfs
+                        </h3>
                         <hr />
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/greenplank-natural-fibers-compsoite-products-brochure-2020-english.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/SmartCapped/smart-Capped-swedish.pdf">
-                              <img src={pdfimg2} className="img-fluid" alt="" />
+                            <a target="_blank" href="/pdfs/smart-Capped-English.pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/Smart-Installation-SV-1.pdf">
-                              <img src={pdfimg3} className="img-fluid" alt="" />
+                            <a target="_blank" href="/pdfs/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019.pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/SmartCapped/smart-Capped-swedish%20(1).pdf">
-                              <img src={pdfimg4} className="img-fluid" alt="" />
+                            <a target="_blank" href="/pdfs/smart-Capped-English%20(1).pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/Datablad-Smart-Decking.pdf">
+                            <a target="_blank" href="/pdfs/greenplank-datasheet-smart-composite-decking-en.pdf">
                               <img src={pdfimg5} className="img-fluid" alt="" />
                             </a>
                           </Grid>

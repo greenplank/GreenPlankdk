@@ -14,46 +14,46 @@ const Rengoring = () => {
   return (
     <>
       <Head>
-        <title>Rengöring</title>
+        <title>Rengøring</title>
         <meta name="title" content="Trall rengöring - Hur man rengör ett trätrall ordentligt?" />
         <meta name="description" content="Låt ditt trall se ut som nytt med underhåll under hela året. Regelbunden underhåll säkerställer att den är beboelig och säker." />
       </Head>
-      <Layout pageTitle="Rengoring">
+      <Layout pageTitle="Rengøring">
         <HeaderTwo />
-        <PageHeader title="Rengoring" crumbTitle="Rengoring" />
+        <PageHeader title="Rengøring" crumbTitle="Rengøring" />
         <StickyHeader />
         <VideoCard2 />
-        <section className="about-one pt-40 pb-40">
+        <section className="about-one pt-20 pb-20">
           <Container>
             <Row style={{ marginBottom: "4em" }}>
               <Col lg={12}>
-                <h2 className="title mt-60">Naturlig vittring och färgförskjutning</h2>
+                <h2 className="title mt-60">Naturlig forvitring og farveskift</h2>
                 <div className="desc mb-30">
-                  <p>Under de första månaderna efter installationen kommer Green Plank®-kompositprodukter att naturligt skifta färg när det börjar vädras till en något ljusare nyans än den ursprungliga färgen som köpts. Liksom fint trägolv kommer de flesta färgförändringar att ske under de första tre till sex månaderna. Efter detta skede kommer Green Plank®-kompositprodukter att vittra naturligt och vackert. Inkonsekvent eller ojämn exponering för sol och element gör att däcket kan vittra ojämnt. Även om detta tillstånd är tillfälligt kan du förhindra ojämn exponering genom att inte täcka däcket med mattor eller möbler under de första veckorna.</p>
+                  <p>I de første par måneder efter installationen vil Green Plank® -kompositprodukter naturligvis ændre farve, når de begynder at lufte til en lidt lysere nuance end den originale maling, der blev købt. Ligesom fine trægulve sker de fleste farveændringer i løbet af de første tre til seks måneder. Efter denne fase vil Green Plank® -kompositprodukter forvitre naturligt og smukt. Inkonsekvent eller ujævn eksponering for sol og elementer gør det muligt for dækket at blive ujævnt vejret. Selvom denne tilstand er midlertidig, kan du forhindre ujævn eksponering ved ikke at dække dækket med tæpper eller møbler i de første uger.</p>
 
 
                   <Grid container spacing={3}>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mt-30 mb-30">
-                        <h3 className="mt-30 mb-30 text-center">Smuts eller skräp</h3>
-                        <p className="text-center">Rengör terrassen för att avlägsna smuts eller skräp med varmt tvålvatten och en mjuk borste. Använd vanlig flytande tvål / tvättmedel som används i alla hushåll</p>
+                        <h3 className="mt-30 mb-30 text-center">Snavs eller snavs</h3>
+                        <p className="text-center">Rengør terrassen for at fjerne snavs eller snavs med varmt sæbevand og en blød børste. Brug almindelig flydende sæbe / vaskemiddel, der bruges i alle husstande</p>
                       </blockquote>
                     </Grid>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mt-30 mb-30">
-                        <h3 className="mt-30 mb-30 text-center">Mögel</h3>
-                        <p className="text-center">Om skräp som pollen och smuts får stanna kvar på däcksytan kan mögel äta av biofilmen. Använd en slang och varmt tvålvatten med en mjuk borste för att ta bort mat källan och mögel.</p>
+                        <h3 className="mt-30 mb-30 text-center">Skimmelsvamp</h3>
+                        <p className="text-center">Hvis snavs som pollen og snavs får lov til at blive på dækoverfladen, kan skimmelsvamp æde biofilmen væk. Brug en slange og varmt sæbevand med en blød børste til at fjerne madkilden og skimmelsvampen.</p>
                       </blockquote>
                     </Grid>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mt-30 mb-30">
-                        <h3 className="mt-30 mb-30 text-center">Is och snö</h3>
-                        <p className="text-center">Kalciumklorid eller bergsalt, som finns i många hemcentra, smälter is vid trall. Skölj av när det är möjligt. Använd inte metallskyfflor och skarpa verktyg: de kan skada terrassytan.</p>
+                        <h3 className="mt-30 mb-30 text-center">Is og sne</h3>
+                        <p className="text-center">Calciumchlorid eller stensalt, der findes i mange hjemmecentre, smelter is ved pynt. Skyl, når det er muligt. Brug ikke metalskovle og skarpe værktøjer: de kan skade terrassens overflade.</p>
                       </blockquote>
                     </Grid>
                   </Grid>
 
-                  <h2 className="title mt-60">Vatten (garvsyra) Fläckar</h2>
+                  <h2 className="title mt-60">Vand (garvesyre) Pletter</h2>
 
                   <p>Garvsyrefläckar förekommer naturligt i alla träslag och migrerar ibland till ytan i kompositplattor där ytfibrer utsätts för sol och vatten. Garvsyrefläckar kan förekomma under eller strax efter installationen. Garvsyrefläckar försvinner med tiden. Beroende på säsong kan det ta flera veckor till flera månader. När Garvsyrefläckarna försvinner när väderprocessen är klar visas de inte igen. För att påskynda borttagningen av Garvsyra, använd varmt tvålvatten eller annat kommersiellt rengöringsmedel för komposittrall och en mjuk borste. Om du använder en kommersiell rengöring av komposittrall, följ tillverkarens anvisningar.</p>
 
@@ -61,31 +61,31 @@ const Rengoring = () => {
                   <Grid container spacing={3}>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mt-30 mb-30">
-                        <h3 className="mt-30 mb-30 text-center">Krita</h3>
-                        <p className="text-center">Alla färgade krita linjer kan bli permanenta. Att skrubba området med varmt tvålvatten och en mjuk borste kan lossna en del av kritan. Du behöver inga skadliga kemikalier.</p>
+                        <h3 className="mt-30 mb-30 text-center">Kridt</h3>
+                        <p className="text-center">Alle farvede kridtstreger kan blive permanente. Skrubning af området med varmt sæbevand og en blød børste kan løsne noget af kridtet. Du har ikke brug for skadelige kemikalier.</p>
                       </blockquote>
                     </Grid>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mt-30 mb-30">
-                        <h3 className="mt-30 mb-30 text-center">Olja / fett / matfläckar</h3>
-                        <p className="text-center">Allt matspill bör tas bort så snart som möjligt. För att ta bort, skölj med en slang och använd varmt tvålvatten och en mjuk borste för att ta bort spill från ytan. Skölj med varmt vatten.</p>
+                        <h3 className="mt-30 mb-30 text-center">Olie / fedt / madpletter</h3>
+                        <p className="text-center">Alt madaffald skal fjernes hurtigst muligt. For at fjerne, skyl med en slange og brug varmt sæbevand og en blød børste til at fjerne spild fra overfladen. Skyl med varmt vand.</p>
                       </blockquote>
                     </Grid>
                     <Grid item xs={12} sm={4}>
                       <blockquote className="blockquote mt-30 mb-30">
-                        <h3 className="mt-30 mb-30 text-center">Bläck</h3>
-                        <p className="text-center">Bläck kan vara permanent. Skurning med varmt tvålvatten kan emellertid lätta fläcken. Skölj noggrant. Använd ALDRIG klorbaserat rengöringsmedel.</p>
+                        <h3 className="mt-30 mb-30 text-center">Blæk</h3>
+                        <p className="text-center">Blæk kan være permanent. Skrubning med varmt sæbevand kan dog lette pletten. Skyl grundigt. Brug ALDRIG klorbaseret rengøringsmiddel.</p>
                       </blockquote>
                     </Grid>
                   </Grid>
 
 
-                  <h2 className="mt-30 mb-30">ALLMÄN
+                  <h2 className="mt-30 mb-30">GENEREL
                   </h2>
-                  <p className="mt-30 mb-30">Diagrammen och instruktionerna i denna installationsguide är endast avsedda att illustrera och är inte avsedda eller underförstådda att ersätta en licensierad professionell. All konstruktion eller användning av Green Plank®-produkter måste vara i enlighet med alla lokala zon- och / eller byggregler. Konsumenten tar på sig alla risker och ansvar som är förknippade med konstruktion, underhåll och användning av produkten.</p>
-                  <h2 className="mt-30 mb-30">Upphovsrätt
+                  <p className="mt-30 mb-30">Diagrammerne og instruktionerne i denne installationsvejledning er kun vejledende og er ikke beregnet eller underforstået til at erstatte en autoriseret professionel. Al design eller brug af Green Plank® -produkter skal overholde alle lokale zonerings- og / eller bygningsregler. Forbrugeren påtager sig alle risici og ansvar i forbindelse med design, vedligeholdelse og brug af produktet.</p>
+                  <h2 className="mt-30 mb-30">Ophavsret
                   </h2>
-                  <p className="mt-30 mb-30">Texten, bilderna och illustrationerna som används här är egenskaper för Green Plank AB. Reproduktion helt eller delvis i någon form eller medium utan uttryckligt skriftligt tillstånd är strängt förbjudet.</p>
+                  <p className="mt-30 mb-30">Den tekst, billeder og illustrationer, der bruges her, er egenskaber for Green Plank AB. Gengivelse helt eller delvist i enhver form eller medie uden udtrykkelig skriftlig tilladelse er strengt forbudt.</p>
 
                 </div>
               </Col>

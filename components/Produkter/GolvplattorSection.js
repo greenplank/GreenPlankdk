@@ -14,16 +14,16 @@ const DATA = [
       {
         link: "/instaclik-balkongplattor-gp702t",
         image: proImage1,
-        title: "INSTACLIK™ Balkongplattor-GP702T",
+        title: "INSTACLIK ™ Dækfliser - GP702T",
         text:
-          "gör-det-själv betyder verkligen att du kan göra det ......"
+          "gør-det-selv betyder virkelig, at du kan gøre det......"
       },
       {
         link: "/evertile-balkongplattor-et703t",
         image: proImage2,
-        title: "EVERTILE™ Balkongplattor-ET703T",
+        title: "EVERTILE ™ dækfliser - ET703T",
         text:
-          "Prisvärda kompositplattor som passar din stil och din ....."
+          "Prisbillige kompositfliser, der passer til din og din stil....."
       }
       
 ];

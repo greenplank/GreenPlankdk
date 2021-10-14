@@ -20,10 +20,10 @@ import Footer from "../components/footer";
 
 const sapphirekomposittrall = () => {
   return (
-    <Layout pageTitle="sapphire-komposittrall">
+    <Layout pageTitle="sapphire-terrassebrædder">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="sapphire-komposittrall" crumbTitle="sapphire-komposittrall" />
+      <PageHeader title="Sapphire-terrassebrædder" crumbTitle="sapphire-terrassebrædder" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -37,20 +37,23 @@ const sapphirekomposittrall = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-60 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>SAPPHIRE™ Komposittrall</h2>
-                          <strong>För hemmet är där du känner dig bekväm och avslappnad</strong>
+                          <h2>SAPPHIRE ™ Komposit Terrassebrædder</h2>
+                          <strong>hjemme er hvor du føler dig komfortabel og afslappet
+                          </strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Inspirerad av det traditionella trädäcket som kännetecknas av estetik, hållbarhet och funktionalitet.</strong>
-                              <p>Med ett traditionellt trädekorationsutseende och lång livslängd är vårt SAPPHIRE™ komposittrall ett attraktivt alternativ till träbeläggningsmaterial. Med ett så överraskande prisvärt alternativ finns det helt enkelt ingen anledning att nöja sig med färgning, tätning, splinter och konstant underhåll.</p>
-                              <p>Hög glidbeständiga eleganta, ribbade / räfflade borstade ytor möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på barfota.</p>
-                              <p>Med en estetisk skandinavisk designutseende har vårt Sapphire™ -komposittrall varit de bästsäljande däckbrädorna i mer än tio år och är fortfarande idag.</p>
+                              <strong>Inspireret af det traditionelle trædæk præget af æstetik, holdbarhed og funktionalitet.
+                              </strong>
+                              <p>Med et traditionelt trædækningsudseende og lang levetid er vores SAPPHIRE ™ kompositdæk et attraktivt alternativ til træplankematerialer. Med et så overraskende overkommeligt alternativ er der simpelthen ingen grund til at nøjes med farvning, forsegling, splinter og konstant vedligeholdelse. Høj skridsikker elegant, ribbet / rillet børstet overflade muliggør god trækkraft i våde områder som f.eks. Omkring bassiner, de er sikre at gå på med bare fødder.
+                              </p>
+                              <p>Med et æstetisk skandinavisk designudseende har vores Sapphire ™ kompositplanker været de mest solgte planker i mere end 10 år og er stadig i dag.
+                              </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Enhetlighet </strong>– HidLo™ dolda fästelement säkerställer en slät och enhetlig yta som är säker att gå på.</li>
-                                  <li><strong>Komplimerande tillbehör</strong> Komplettera dina drömuteplatser med våra täckbrädor – den perfekta matchen för ditt högpresterande SAPPHIRE ™ – Komposittrall.</li>
+                                  <li><strong>Premium kvalitet</strong> – Bevist nordisk kvalitetsdæk til hårdt vejr og grønnere ophold.</li>
+                                  <li><strong>Ensartethed </strong>– HidLo™ dolda fästelement säkerställer en slät och enhetlig yta som är säker att gå på.</li>
+                                  <li><strong>Gratis tilbehør</strong> Komplet dine drømmende terrassedækdesign med vores fascia-trim og betræk – det perfekte match til din højtydende SAPPHIRE™ pyntede.</li>
                                 </ul>
                               </div>
                             </div>
@@ -67,7 +70,7 @@ const sapphirekomposittrall = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image11} className="img-fluid" alt="" />
+                                  <img src={Image11} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -77,39 +80,46 @@ const sapphirekomposittrall = () => {
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left">Halkmotståndig, räfflade ytor, autentiska och naturliga träfärger; vändbara brädor</td>
+                                      <td align="left"><strong>Overflade:</strong></td>
+                                      <td align="left">Skridsikre rillede overflader, autentiske og naturlige træfarver; vendbare brædder
+                                      </td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Størrelse:</strong></td>
                                       <td align="left">ca. 25 * 150 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 4.8 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
-                                      <td align="left">ca. 6.4 meter för 1 m²</td>
+                                      <td align="left"><strong>Krav:</strong></td>
+                                      <td align="left">ca. 6.5 meter til 1 m²
+                                      </td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 2.82 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">50 cm c/c för bostadsapplikationer</td>
+                                      <td align="left"><strong>Bjælkespændvidde:</strong></td>
+                                      <td align="left">50 cm c / c til boliger *</td>
                                     </tr>
                                   </tbody>
                                 </table>
                               </div>
                               {/* </div> */}
                               <div className="row section-space--top--60">
-
                                 <Grid container spacing={3}>
-                                  <Grid item xs={6} sm={4} lg={6}>
-                                  <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                  <Grid item xs={6} sm={3} lg={4}>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Prøveordre</a>
                                   </Grid>
+                                  {/* <Grid item xs={6} sm={3} lg={6}>
+                                    <a target="_blank" href="/pdfs/classic-deck-english.pdf" className="thm-btn">Installationsguide</a>
+                                  </Grid>
+                                  <Grid item xs={8} sm={6} lg={8}>
+                                    <a target="_blank" href="/pdfs/classic-deck-english-aluminim-trim.pdf" className="thm-btn" >aluminium installation</a>
+                                  </Grid> */}
                                 </Grid>
                               </div>
                             </div>
@@ -121,37 +131,38 @@ const sapphirekomposittrall = () => {
 
 
                       {/*====================  Star Smart Classic Section-4 content ====================*/}
-                      <div className="col-lg-12 mb-60">
+                      <div className="col-lg-12 mb-80">
                         <div className="project-gallery-wrapper">
                           <div className="row">
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h2 className="mb-40 mt-20"><strong>produkt information</strong></h2>
+                                <h3>Farvevalg</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                  Studiefotografering og / eller din browserenhed giver muligvis ikke en nøjagtig gengivelse af farverne. For at se farverne personligt, bedes du anmode om gratis prøver.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Naturlige skønhed</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                  Vores produkter er designet til at ligne naturligt træ og kan have svag farve / struktur og skygge variationer fra plade til plade. Farvevariationen vil på ingen måde påvirke produktets ydeevne.</p>
+                                <h3>Oprethold skønheden</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alle udvendige overflader opsamler snavs, støv og forurenende stoffer og skal rengøres. Det er nødvendigt at rengøre dit kompositdæk med jævne mellemrum for at holde det så smukt som den dag, du installerede det.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>Pålidelig holdbarhed, overlegen kvalitet</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Installerad med HidLoc™ dolda fästelement för att skapa enhetlig yta, vilket gör det säkrare och mer bekvämt för familjer med barn och husdjur.</li>
-                                  <li><strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som inbjuder dig att koppla av och njuta av ditt personliga tropiska paradis.</li>
-                                  <li><strong>3. </strong>Utmärkande inlay design, stil och färgalternativ</li>
-                                  <li><strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>6. </strong>Hög glidmotstånd ger en säker yta, även i våta förhållanden</li>
-                                  <li><strong>7. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.</li>
-                                  <li><strong>8. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>9. </strong>Lämplig för privat sektor</li>
+                                  <li><strong>1. </strong>Installeret med HidLoc ™ skjulte fastgørelseselementer for at skabe ensartet overflade, hvilket gør det mere sikkert og behageligt for familier med børn og kæledyr.</li>
+                                  <li><strong>2. </strong>Flerfarvede striber på hvert bræt skaber et autentisk kornmønster, der inviterer dig til at slappe af og nyde dit personlige tropiske paradis.</li>
+                                  <li><strong>3. </strong>Karakteristisk indlægsdesign, stil og farveindstillinger</li>
+                                  <li><strong>4. </strong>Der kræves ingen årlig farvning, forsegling eller maling</li>
+                                  <li><strong>5. </strong>Ekstraordinær modstandsdygtighed over for UV-lys og farvetone</li>
+                                  <li><strong>6. </strong>Høj skridsikkerhed giver en sikker overflade, selv i våd tilstand</li>
+                                  <li><strong>7. </strong>Ekstremt lav vandabsorption</li>
+                                  <li><strong>8. </strong>Fri for giftige tilsætningsstoffer</li>
+                                  <li><strong>9. </strong>Velegnet til offentlig og privat sektor</li>
+                                  <li><strong>10. </strong>Splinter ikke, splittes, rådner eller kriger</li>
                                 </ul>
                               </div>
                             </div>
@@ -161,12 +172,12 @@ const sapphirekomposittrall = () => {
                       {/*====================  End of Smart Classic Section-4 content  ====================*/}
 
                       {/*====================  Star Smart Classic Section-5 content ====================*/}
-                      <div className="col-12 mb-20">
+                      {/* <div className="col-12 mb-20">
                         <h3>TILLBEHÖR</h3>
                         <hr />
                         <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
 
-                      </div>
+                      </div> */}
                       {/*====================  End of Star Smart Classic Section-5 content  ===============*/}
 
 

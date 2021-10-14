@@ -9,84 +9,110 @@ import Footer from "../components/footer";
 
 const vinylgolv = () => {
   return (
-    <Layout pageTitle="vinylgolv">
+    <Layout pageTitle="Vinylgulv">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Vinylgolv" crumbTitle="vinylgolv" />
+      <PageHeader title="Vinylgulv" crumbTitle="Vinylgulv" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>
-            <div>
+              <div>
                 <div className="row">
-                    <div className="blog-details col-12">
-                        <div className="blog-inner">
-                            <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
-                            <div className="content">
-                                <h2 className="title">Vinylgolv</h2>
-                                <div className="mb-30">
-                                    <p>Vinylgolv (polyvinylklorid (PVC). Är den moderna varianten av det klassiska PVC-golvet. Sedan 1960-talet användes PVC-golv i stor utsträckning i lägenheter, trapphus, kontor och i industriella och administrativa byggnader. De var billiga, lätta att ta hand om , och slitstarkt mot vatten och smuts och lätt att hålla rent genom att torka av med en fuktig trasa. PVC-golv kom i vanära på grund av den skadliga avdunstningen av mjukgörarna i mjuk PVC vid den tiden.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Branschen initierade en förbättring med initiativen ”Vinyl 2010” och ”Vinyl Plus” (fram till 2020). I synnerhet är frånvaron av skadliga ämnen och återvinning viktiga mål. Marknadsföring och användning av ftalat som mjukningsmedel har förbjudits i EU sedan 2015. Mesamoll används nu som mjukningsmedel för att ersätta ftalat.</p>
-                                    <h3 style={{marginBottom:30,marginTop:30}}>Egenskaper:</h3>
-                                    <p style={{marginBottom:30,marginTop:30}}>Vinylgolv är hygieniskt och lätt att sköta. Golvet är varmt för fötterna. Det är okänsligt för fukt. Som ett kostnadseffektivt alternativ till äkta trägolv eller naturstenplattor är det enkelt att lägga, robust och enkelt att ta hand om – oavsett om det finns i ditt hem eller i företagslokalerna. Det har dock en ganska negativ effekt på rumsklimatet, eftersom PVC varken absorberar eller släpper ut fukt och därför inte har någon fuktreglerande effekt. Massiv vinyl är också lämplig för fuktiga rum, för sjukhus och dagis. Okänslighet mot syror och alkalier gör full vinyl lämplig för industribyggnader och laboratorier.</p>
-                                    <p style={{marginBottom:30,marginTop:10}}>Vinyl finns i alla dekorer och färger. Genom att strukturera ytan uppnås ett speciellt “grepp” (haptics). Genom att kombinera optik och ytstruktur kan sten- eller trädekorer också reproduceras i naturen, varigenom bristen på en sval känsla för stenen är förvirrande när det gäller stenreproduktion.</p> 
-                                    <p style={{marginBottom:30,marginTop:10}}>Ljudutvecklingen i rummet (omgivande buller) och i angränsande rum (stötar) är lägre än vid laminatgolv. Den ljudabsorberande filmen som krävs för flytande installation förstärker denna fördel.</p> 
-                                    <p style={{marginBottom:30,marginTop:10}}>Känsligheten för repor är större än för laminat. Även små stenar under skor eller hårda hjul kan orsaka repor. Å andra sidan bryter rätter betydligt mindre än på laminat-, trä- eller stengolv.</p>
-                                    <h3 style={{marginBottom:30,marginTop:30}}>Typer av vinylgolv:</h3>
-                                    <p style={{marginBottom:30,marginTop:10}}>Vinylgolv blir mer och mer populära och utbudet har också ökat de senaste åren. Men inte alla vinylgolv är desamma.</p>
-                                    <p style={{marginBottom:30,marginTop:10}}>En allmän skillnad görs mellan:</p>
-                                    
-                                        <strong>1. </strong><strong>Vinyl på HDF</strong>-underlag: Detta ungefär 10 millimeter tjocka beläggning har en liknande struktur som laminat. Det läggs flytande.<br/>
-                                        <strong>2. </strong><strong>Massiv vinyl</strong>: Detta golv, som är upp till 5 millimeter tjockt, kallas också full vinyl. Den finns som klickvinyl för flytande installation, för limning och självhäftande.<br/>
-                                        <strong>3. </strong><strong>Hård vinyl</strong>: Detta golv har en substratplatta gjord av SPC och ett toppskikt av vinyl. SPC är ett<br/>
-                                    
-                                    <p style={{marginBottom:30,marginTop:10}}>Sten-plastblandning som gör golvet särskilt robust och ännu mer tåligt än fast vinyl.</p>
-                                    <h3 style={{marginBottom:10,marginTop:30}}>Fördelar med SPC-hårda vinylgolv:</h3>
-                                    
-                                        <strong>1. </strong>Den är dimensionellt stabil: mindre ojämnheter i ytan skjuter inte igenom, som med full vinyl. Detta gör förberedelserna för läggning särskilt enkla. Du behöver inte längre noggrant fylla och släta underlaget tills alla ojämnheter har tagits bort. Detta gör hård vinyl särskilt lämplig för renovering: lägg helt enkelt golvet på gamla golvbeläggningar som kakel. Det säger sig självt att underytan inte bör ha stora höjdskillnader och måste vara ren och torr. Dessutom, tack vare SPC-basplattan, är klickanslutningarna stabilare än med konventionella vinylgolv. Vilket förenklar läggningen.<br/>
-                                        <strong>2. </strong>Hårt vinylgolv fungerar bara minimalt. Högre temperaturer och temperaturvariationer påverkar inte golvet. Lägg hårda vinylgolv i rum med fönster från golv till tak, öppen spis eller i en vinterträdgård. Ditt nya golv expanderar inte eller deformeras inte tack vare SPC-kärnkortet, vilket kan vara fallet med klassiska vinylgolv. Du kan också lägga golvet över ett stort område och utan expansionsfogar. Du behöver bara planera expansionsfogar från en läggningsyta på 400 m².<br/>
-                                        <strong>3. </strong>Tack vare SPC-substratet är Rigid Vinyl extremt tuff och stötsäker. Tryckpunkter från tunga möbler är så bra som omöjliga. Ytan är också slitstark – precis som andra vinylgolv.<br/>
-                                        <strong>4. </strong>Fukt kan inte skada golvet. Precis som solid vinyl kan du lägga golvet i fuktiga rum utan att tveka. Vi rekommenderar dock att man limmar golvet över hela ytan så att ingen fukt kommer under golvet. Den låga installationshöjden gör det möjligt att lägga golvet i nästan alla rum. Du sparar själv behovet av att förkorta dörrarna.<br/>
-                                        <strong>5. </strong>Hård vinyl är varm för fötterna. Detta beror på vinylslitlagret. Det finns hårda vinylgolv med integrerad ljudisolering. Om du flyttar det kommer du knappast att märka något fotfallsljud. Om du vill lägga ditt nya golv på ett flytande sätt behöver du alltid ljudisolering. Om det redan är integrerat i golvet sparar du ett enda arbetssteg vid läggning.<br/>
-                                        <strong>6. </strong>Lätt skött, hårt vinylgolv eller SPC, du kan enkelt ta bort smuts: Sopa och torka golvet med en fuktig trasa.<br/>
-                                        <strong>7. </strong>Detta golv har en enorm inverkan på hur ett rum ser ut. Det är därför det finns hårda vinylgolv i många olika dekorer. Oavsett om det är i trä eller sten, är du säker på att du hittar ett golv som exakt uppfyller dina förväntningar.<br/>
-                                        <strong>8. </strong>Inga skadliga mjukgörare. Inga skadliga mjukgörare används vid tillverkning av hårda vinylgolv. Så du kan enkelt lägga den i alla rum.<br/>
-                                    
+                  <div className="blog-details col-12">
+                    <div className="blog-inner">
+                      <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
+                      <div className="content">
+                        <h2 className="title">Vinyl gulv</h2>
+                        <div className="mb-30">
+                          <p>Vinylgulv (polyvinylchlorid (PVC). Er den moderne variant af det klassiske PVC -gulv. Siden 1960'erne har PVC -gulve været brugt flittigt i lejligheder, trappeopgange, kontorer og i industrielle og administrative bygninger. De var billige, lette at passe . hvis, og holdbar mod vand og snavs og let at holde ren ved at tørre af med en fugtig klud.</p>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Branchen igangsatte en forbedring med initiativerne "Vinyl 2010" og "Vinyl Plus" (frem til 2020). Især fraværet af skadelige stoffer og genbrug er vigtige mål. Markedsføring og anvendelse af phthalat som blødgører er blevet forbudt i EU siden 2015. Mesamoll bruges nu som blødgøringsmiddel til erstatning af phthalat.</p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Egenskaber:</h3>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Vinylgulve er hygiejniske og lette at passe. Gulvet er varmt til fødderne. Det er ufølsomt over for fugt. Som et omkostningseffektivt alternativ til ægte trægulve eller naturstenfliser er det let at lægge, robust og let at passe - uanset om det er i dit hjem eller i forretningslokalerne. Det har dog en temmelig negativ effekt på rumklimaet, da PVC hverken absorberer eller frigiver fugt og derfor ikke har en fugtregulerende effekt. Massiv vinyl er også velegnet til fugtige lokaler, hospitaler og børnehaver. Ufølsomhed over for syrer og baser gør fuld vinyl velegnet til industrielle bygninger og laboratorier.</p>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Vinyl fås i alle dekorationer og farver. Ved at strukturere overfladen opnås et specielt "greb" (haptisk). Ved at kombinere optik og overfladestruktur kan sten- eller trædekorationer også gengives i naturen, hvorved manglen på en kølig fornemmelse for stenen er forvirrende, når det kommer til stengengivelse.</p>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Lydudviklingen i rummet (omgivende støj) og i tilstødende rum (stød) er lavere end med laminatgulve. Den lydabsorberende film, der kræves til væskeinstallation, øger denne fordel.</p>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Følsomheden over for ridser er større end for laminater. Selv små sten under sko eller hårde hjul kan forårsage ridser. På den anden side går retter meget mindre i stykker end på laminat-, træ- eller stengulve.</p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Typer af vinylgulve:</h3>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Vinylgulve bliver mere og mere populært, og sortimentet er også steget de seneste år. Men ikke alle vinylgulve er ens.</p>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Der foretages en generel forskel mellem:</p>
 
-                                    <h3 style={{marginBottom:10,marginTop:30}}>Nackdelar med SPC hårt vinylgolv:</h3>
-                                    
-                                        <strong>1. </strong>Mycket jämn underyta nödvändig för läggning<br/>
-                                        <strong>2. </strong>Kan inte läggas på alla gamla golv<br/>
-                                        <strong>3. </strong>Tunga föremål kan lämna märken<br/>
-                                        <strong>4. </strong>Limade vinylgolv är svåra att ta bort<br/>
-                                        <strong>5. </strong>Kan innehålla skadliga mjukgörare om det inte är certifierat eller tillverkat i EU<br/>
-                                    
-                                    <h3 style={{marginBottom:10,marginTop:30}}>Användningsområden för SPC-vinylgolv (Stone-Polymer-Composite):</h3>
-                                    
-                                        <strong>1. </strong>Fuktiga rum<br/>
-                                        <strong>2. </strong>kök<br/>
-                                        <li style={{marginBottom:10,marginTop:30}}><strong>Ej lämplig för:</strong></li>
-                                        <strong>1. </strong>Bastu eller<br/>
-                                        <strong>2. </strong>ett rum med spis<br/>
-                                        <strong>3. </strong>vinterträdgård eller vinterhus<br/>
-                                        <strong>4. </strong>Rum i söderläge med stora glasfronter<br/>
-                                    
-                                    <p style={{marginBottom:30,marginTop:30}}><strong>Anledning:</strong>Marken tål inte högre temperaturer.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Det hårda vinylgolvet kan inte läggas på något gammalt golvbeläggning:</p>
-                                    
-                                        <strong>1. </strong>Inte på parkett och massiva trägolv, flytande golv, mattor.<br/>
-                                        <strong>2. </strong>Med undantag för en plan yta är det möjligt att lägga golvet på kakel och gamla, helt limmade gamla PVC-golv.<br/>
-                                        <strong>3. </strong>Vinylgolv bör inte förväxlas med linoleum, som är tillverkat av linolja och naturhartser, liksom kork eller trämjöl, kalkstenpulver och andra komponenter och ett jutetyg som substratskikt.<br/>
-                                    
-                                </div>
-                            </div>
+                          <strong>1. </strong><strong>Vinyl på HDF</strong>-substrat: Denne ca. 10 millimeter tykke belægning har en struktur, der ligner laminat. Det tilsættes væske.<br />
+                          <strong>2. </strong><strong>Massiv vinyl</strong>: Dette gulv, der er op til 5 millimeter tykt, kaldes også fuld vinyl. Den fås som klikvinyl til flydende installation, til limning og selvklæbende.<br />
+                          <strong>3. </strong><strong>Hård vinyl</strong>: Dette gulv har en underlagsplade af SPC og et øverste lag vinyl. SPC er en<br />
+
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Sten-plastblanding, der gør gulvet særligt robust og endnu mere holdbart end massiv vinyl.</p>
+                          <h3 style={{ marginBottom: 10, marginTop: 30 }}>Fordele ved SPC-hårdt vinylgulv:
+                          </h3>
+
+                          <strong>1. </strong>Det er dimensionsstabilt: mindre uregelmæssigheder i overfladen stikker ikke ud, som med fuld vinyl. Dette gør forberedelsen til lægning særlig enkel. Du behøver ikke længere omhyggeligt at fylde og glatte overfladen, før alle uregelmæssigheder er fjernet. Dette gør hård vinyl særligt velegnet til renovering: Læg blot gulvet på gamle gulvbelægninger såsom fliser. Det siger sig selv, at den nedre overflade ikke skal have store højdeforskelle og skal være ren og tør. Takket være SPC bundpladen er klikforbindelserne desuden mere stabile end med konventionelle vinylgulve. Hvilket forenkler installationen.
+                          <br />
+                          <strong>2. </strong>Hårde vinylgulve fungerer kun minimalt. Højere temperaturer og temperaturvariationer påvirker ikke gulvet. Læg hårde vinylgulve i værelser med vinduer fra gulv til loft, pejse eller i en udestue. Dit nye gulv ekspanderer eller deformeres ikke på grund af SPC -kernekortet, hvilket kan være tilfældet med klassiske vinylgulve. Du kan også lægge gulvet over et stort område og uden ekspansionsfuger. Du behøver kun at planlægge ekspansionsfuger fra et lægningsareal på 400 m².
+                          <br />
+                          <strong>3. </strong>Takket være SPC -substratet er Rigid Vinyl ekstremt hård og stødsikker. Trykpunkter fra tunge møbler er så gode som umulige. Overfladen er også holdbar - ligesom andre vinylgulve.
+                          <br />
+                          <strong>4. </strong>Fugt kan ikke beskadige gulvet. Ligesom massiv vinyl kan du lægge gulvet i fugtige rum uden tøven. Vi anbefaler dog, at du limer gulvet over hele overfladen, så der ikke kommer fugt under gulvet. Den lave installationshøjde gør det muligt at lægge gulvet i næsten ethvert rum. Du sparer dig selv for at skulle afkorte dørene.
+                          <br />
+                          <strong>5. </strong>Hård vinyl er varm til fødderne. Dette skyldes vinylslidlaget. Der er hårde vinylgulve med integreret lydisolering. Hvis du flytter den, vil du næsten ikke bemærke nogen fodfaldslyd. Hvis du vil lægge dit nye gulv flydende, har du altid brug for lydisolering. Hvis det allerede er integreret i gulvet, gemmer du et enkelt arbejdstrin ved lægning.
+                          <br />
+                          <strong>6. </strong>Let pleje, hårdt vinylgulv eller SPC, du kan nemt fjerne snavs: Fej og tør gulvet med en fugtig klud.
+                          <br />
+                          <strong>7. </strong>Denne etage har en enorm indflydelse på, hvordan et værelse ser ud. Derfor er der hårde vinylgulve i mange forskellige dekorationer. Uanset om det er i træ eller sten, er du sikker på at finde et gulv, der præcist opfylder dine forventninger.
+                          <br />
+                          <strong>8. </strong>Ingen skadelige blødgørere. Der bruges ingen skadelige blødgørere til fremstilling af hårde vinylgulve. Så du kan nemt sætte det i ethvert rum.
+                          <br />
+
+
+                          <h3 style={{ marginBottom: 10, marginTop: 30 }}>Ulemper ved SPC hårdt vinylgulv:
+                          </h3>
+
+                          <strong>1. </strong>Meget jævn underflade nødvendig til lægning
+                          <br />
+                          <strong>2. </strong>Kan ikke lægges på alle gamle gulve
+                          <br />
+                          <strong>3. </strong>Tunge genstande kan efterlade mærker
+                          <br />
+                          <strong>4. </strong>Limede vinylgulve er svære at fjerne
+                          <br />
+                          <strong>5. </strong>Kan indeholde skadelige blødgørere, hvis de ikke er certificeret eller fremstillet i EU
+                          <br />
+
+                          <h3 style={{ marginBottom: 10, marginTop: 30 }}>Ansøgninger om SPC vinylgulve (sten-polymer-komposit):
+                          </h3>
+
+                          <strong>1. </strong>Fugtige lokaler
+                          <br />
+                          <strong>2. </strong>køkken
+                          <br />
+                          <li style={{ marginBottom: 10, marginTop: 30 }}><strong>Ikke egnet til:</strong></li>
+                          <strong>1. </strong>Sauna eller<br />
+                          <strong>2. </strong>et værelse med pejs
+                          <br />
+                          <strong>3. </strong>vinterhave eller vinterhus
+                          <br />
+                          <strong>4. </strong>Værelse mod syd med store glasfronter
+                          <br />
+
+                          <p style={{ marginBottom: 30, marginTop: 30 }}><strong>Grund
+                            :</strong>Jorden tåler ikke højere temperaturer.</p>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Det hårde vinylgulv kan ikke lægges på noget gammelt gulvbelægning:
+</p>
+
+                          <strong>1. </strong>Ikke på parket og massivt trægulve, flydende gulve, tæpper
+.<br />
+                          <strong>2. </strong>Med undtagelse af en flad overflade er det muligt at lægge gulvet på fliser og gamle, helt limede gamle PVC -gulve.
+<br />
+                          <strong>3. </strong>Vinylgulve må ikke forveksles med linoleum, der er fremstillet af linolie og naturlige harpikser, samt kork- eller træmel, kalkstenpulver og andre komponenter og et jutestof som substratlag.
+<br />
+
                         </div>
+                      </div>
                     </div>
-                    <div className="col-12 section-space--top--60">
-                        {/* <BlogComment/> */}
-                    </div>
+                  </div>
+                  <div className="col-12 section-space--top--60">
+                    {/* <BlogComment/> */}
+                  </div>
                 </div>
-            </div>
+              </div>
             </Col>
           </Row>
         </Container>

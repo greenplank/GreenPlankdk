@@ -15,13 +15,13 @@ const Plankor = () => {
     return (
         <>
             <Head>
-                <title>Plankor</title>
+                <title>Udendørs bænke</title>
                 <meta name="title" content="Hög kvalitet Plankor &amp; Komposittrall | - GreenPlank.se" />
                 <meta name="description" content="Plankor ger en slät konsistens som är lätt att rengöra och lätt att underhålla. Det är vattentätt och kan användas som en ekonomisk mimeografi av keramiska plattor." />
             </Head>
-            <Layout pageTitle="Plankor">
+            <Layout pageTitle="Udendørs bænke">
                 <HeaderTwo />
-                <PageHeader title="Plankor" crumbTitle="Plankor" />
+                <PageHeader title="Udendørs bænke" crumbTitle="Udendørs bænke" />
                 <StickyHeader />
                 <PlankorSection />
                 <section className="about-one pt-20 pb-40">
@@ -36,7 +36,7 @@ const Plankor = () => {
                                                 <div className="col-lg-12">
                                                     {/* section title */}
                                                     <div className="section-title-area text-center mb-30">
-                                                        <h2><strong>Varför använda plankor?</strong></h2>
+                                                        <h2><strong>Hvorfor bruge komposit terrassebrædder?</strong></h2>
                                                     </div>
                                                 </div>
                                                 <div className="about-section pt-60 pb-60">
@@ -49,9 +49,9 @@ const Plankor = () => {
                                                             </div>
                                                             <div className="col-lg-6 col-12 mb-30 ml-60" style={{ padding: "1em 1em 1em 2em" }}>
                                                                 <div>
-                                                                    <h3>PROBLEMFRITT KOMPOSIT PLANKOR</h3>
+                                                                    <h3>PROBLEMFRIE KOMPOSITPLANTER</h3>
                                                                     <p>
-                                                                        Plankor är inte nytt. Det har funnits sedan 70-talet. Green Plank-komposit plankor är väl testade av testlaboratorier med bra rykten såsom Tyska och Svenska tekniska forskningsinstitut. Green Planks komposit plankor kräver lite eller inget underhåll och stöds av upp till 25-års begränsad produktgaranti. Traditionella plankor, å andra sidan, måste underhållas minst vartannat år och bytas var 10-15 år.
+                                                                    Planker er ikke nye. Det har eksisteret siden 70'erne. Green Plank kompositplanker er godt testet af testlaboratorier med et godt omdømme som tyske og svenske tekniske forskningsinstitutter. Grønne plankekompositplanker kræver lidt eller ingen vedligeholdelse og dækkes af op til 25 års begrænset produktgaranti. Traditionelle planker skal derimod vedligeholdes mindst hvert andet år og udskiftes hvert 10-15 år.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -64,9 +64,9 @@ const Plankor = () => {
                                                         <div className="row row-25 align-items-center">
                                                             <div className="col-lg-6 col-12 mb-30">
                                                                 <div className="about-content-two">
-                                                                    <h3>Green Plank – ett låg underhålls komposit plankor som både är snyggt, hållbart och giftfritt !</h3>
+                                                                    <h3>Green Plank - kompositplanker med lav vedligeholdelse, der både er smukke, holdbare og giftfri!</h3>
                                                                     <p>
-                                                                        Med Green Plank-komposit plankor kan du förvänta dig en jämn, vacker färg på lång sikt. Omvänt kommer tryckbehandlat trä att visa inkonsekvent färgning och kvalitet över tid, även när det upprätthålls korrekt.
+                                                                    Med kompakte planker fra Green Plank kan du forvente en jævn, smuk farve i det lange løb. Omvendt vil trykbehandlet træ vise inkonsekvent farvning og kvalitet over tid, selv når det vedligeholdes korrekt.
                                                                     </p>
                                                                 </div>
                                                             </div>

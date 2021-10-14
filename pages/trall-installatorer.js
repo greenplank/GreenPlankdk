@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const trallinstallatorer = () => {
   return (
-    <Layout pageTitle="trall-installatorer">
+    <Layout pageTitle="vogninstallatører">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Trall-installatorer" crumbTitle="trall-installatorer" />
+      <PageHeader title="vogninstallatører" crumbTitle="vogninstallatører" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,11 +24,15 @@ const trallinstallatorer = () => {
                         <div className="blog-inner">
                             <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                             <div className="content">
-                                <h2 className="title">Green Plank Certifierade Trall Installatörer</h2>
+                                <h2 className="title">Green Plank certificerede Trall Installatører
+</h2>
                                 <div className="mb-30">
-                                    <p>Vi förstår vad det krävs att installera ett trall och hålla dina kunder nöjda. Vår roll är att göra det så enkelt som möjligt för dig att hålla dina kunders förväntningar, på så sätt blir de kunderna en bra referens till andra potentiella kunder.</p>
-                                    <p className="mb-30 mt-30">Den största oron bland slutkunder är; kvalitén av trall, underhållet, garantin och när projektet kommer bli klart. De kan berätta för dig vad de vill ha, men egentligen vet dem inte riktigt. Många gånger har slutkunder för lite kunskap av allt som är inkluderat för att slutföra ett komplett tralldäck – besluten som måste tas, detaljerna som måste göras.</p>
-                                    <p className="mb-30 mt-30">Använd denna hemsida som din primära källa för att få informationen du behöver angående komposit. På så sätt kan du skapa en bättre kvalité och längre hållbarhet vilket slutligen kommer gör att din kund kommer bli riktigt nöjd.</p>            
+                                    <p>Vi forstår, hvad det kræver at installere en vogn og holde dine kunder tilfredse. Vores rolle er at gøre det så let som muligt for dig at bevare dine kunders forventninger, så disse kunder bliver en god reference til andre potentielle kunder.
+</p>
+                                    <p className="mb-30 mt-30">Den største bekymring blandt slutkunder er; kvaliteten af ​​pynten, vedligeholdelsen, garantien og hvornår projektet afsluttes. De kan fortælle dig, hvad de vil, men kender dem ikke rigtigt. Mange gange har slutkunderne for lidt kendskab til alt, hvad der er inkluderet til at færdiggøre et komplet trolley -dæk - de beslutninger, der skal træffes, de detaljer, der skal træffes.
+</p>
+                                    <p className="mb-30 mt-30">Brug dette websted som din primære kilde til at få de oplysninger, du har brug for vedrørende komposit. På denne måde kan du skabe en bedre kvalitet og længere holdbarhed, hvilket i sidste ende vil betyde, at din kunde bliver rigtig tilfreds.
+</p>            
                                 </div>
                             </div>
                         </div>

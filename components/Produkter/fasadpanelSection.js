@@ -17,30 +17,30 @@ const DATA = [
       {
         link: "/novoclad-fasadpanel-gp798",
         image: proImage1,
-        title: "NOVOCLAD™ Fasadpanel GP798",
+        title: "Green Plank NOVOCLAD ™ Facadebeklædning - GP798",
         text:
-          "Innovativt fasadbeklädnadssystem för ditt hem – PVC-fri........"
+          "Innovativt facadebeklædningssystem til dit hjem - PVC -fri........"
       },
       {
         link: "/primacap-fasadpanel-gp801",
         image: proImage2,
-        title: "PRIMACAP™ Fasadpanel GP801",
+        title: "Green Plank PRIMACAP ™ facadebeklædning - GP801",
         text:
-          "Det är innovationen bakom skönheten med utmärkt .............."
+          "Det er innovationen bag skønheden med fremragende.............."
       },
       {
         link: "/primacap-fasadpanel-gp802",
         image:proImage3,
-        title: "PRIMACAP™ Fasadpanel GP802",
+        title: "Green Plank PRIMACAP ™ facadebeklædning - GP802",
         text:
-          "Det är innovationen bakom skönheten med utmärkt ............."
+          "Det er innovationen bag skønheden med fremragende............."
       },
       {
         link: "/fasadpanel-tillbehor",
         image: proImage4,
-        title: "Fasadpanel tillbehör",
+        title: "Tilbehør til facadebeklædning",
         text:
-          "Efterbehandlingen med design och säkerhet som gör ditt hem ......"
+          "Afslutning med design og sikkerhed, der gør dit hjem ......"
       }
 
 ];

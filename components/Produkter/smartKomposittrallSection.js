@@ -15,37 +15,37 @@ const DATA = [
     {
         link: "/smart-komposittrall-smart-classic",
         image: proImage1,
-        title: "Smart Classic™ Komposittrall",
+        title: "SMART ™ terrassebrædder system - Smart Classic ™",
         text:
-          "SMART ™ (komposittrall) komposit trall är ett utmärkt val för....."
+          "SMART ™ (kompositvogn) kompositvogn er et glimrende valg til....."
       },
       {
         link: "/smart-komposittrall-smart-regular",
         image: proImage2,
-        title: "Smart Regular™ Komposittrall",
+        title: "SMART ™ Terrassebrædder System - Smart Regular ™",
         text:
-          "SMART ™ Komposit trall är ett utmärkt val för familjer på grund...."
+          "SMART ™ Composite pyntede gulve er et glimrende valg for familier...."
       },
       {
         link: "/smart-komposittrall-smart-marine",
         image: proImage3,
-        title: "Smart Marine™ Komposittrall",
+        title: "SMART ™ Terrassebrædder System - Smart Marine ™",
         text:
-          "SMART ™ Komposit trall är ett utmärkt val för familjer på.........."
+          "SMART ™ Composite -terrassedæk er et glimrende valg for familier.........."
       },
       {
         link: "/smart-komposittrall-smart-cap",
         image: proImage4,
-        title: "SMART CAP™ Komposittrall",
+        title: "SMART CAP ™ terrassebrædder system",
         text:
-          "SMART CAP™ är täckt med ett skyddande polymer skal och är vår......"
+          "SMART CAP ™ er dækket af en beskyttende polymerskal og er vores......"
       },
       {
         link: "/ultra-smart",
         image: proImage5,
-        title: "Ultra™ SMART Komposittrall",
+        title: "Ultra™ SMART terrassebrædder",
         text:
-          "Med vår nya Smart Ultra får du en terrass som är 50% lättare........"
+          "Med vores nye Smart Ultra får du en terrasse, der er 50% lettere........"
       }
       
 ];

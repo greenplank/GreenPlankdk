@@ -37,10 +37,10 @@ const tillbehortillkomposittrall = () => {
                 <meta name="title" content="Tillbehör till Komposittrall - GreenPlank.se" />
                 <meta name="description" content="Green Plank-komposittrall tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga distinkta och underbara funktioner." />
             </Head>
-            <Layout pageTitle="tillbehor-till-komposittrall">
+            <Layout pageTitle="Tilbehør til kompositdæk">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="Tillbehor-Till-Komposittrall" crumbTitle="tillbehor-till-komposittrall" />
+                <PageHeader title="Tilbehør til kompositdæk" crumbTitle="Tilbehør til kompositdæk" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>
@@ -54,16 +54,21 @@ const tillbehortillkomposittrall = () => {
                                                 {/*====================  Star Smart Classic Section-1 content ====================*/}
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
-                                                        <h2>Komposit tillbehör</h2>
-                                                        <strong>sista handen med design och säkerhet som gör ditt trall komplett</strong>
+                                                        <h2>Green Plank Komposit Terrassebrædder Tilbehør</h2>
+                                                        <strong>den sidste hånd med designet og sikkerheden, der gør dit dæk komplet
+                                                        </strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
-                                                                <strong>Allt finns i detaljerna!   Din uppmärksamhet på kvalitet och detaljer har aldrig varit viktigare. Komposittrall tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga distinkta och underbara funktioner i ditt Green Plank- trall som förbättrar både dess skönhet och funktionalitet – utan att ruttna, flisa eller blekna.</strong>
-                                                                <p>Green Plank erbjuder en komplett sortiment av lister inklusive Täcklister, L & F- och L- Lister, Trappnoslister, ändlock, däckmonteringssatser, pidestaler och reglar, etc. Alla föremål som är nödvändiga komponenter i varje professionell trall installation. Green Plank komposittillbehör är färgmatchade efter våra komposittrall.</p>
+                                                                <strong>Det hele er i detaljerne! Din opmærksomhed på kvalitet og detaljer har aldrig været vigtigere. Green Plank komposit dæk tilbehør udvider dine horisonter yderligere, så du kan opbygge karakteristiske og dejlige funktioner i dit Green Plank dæk, der forbedrer både dets skønhed og funktionalitet – uden at rådne, skrælle eller falme.
+                                                                </strong>
+                                                                <p>Green Plank tilbyder et komplet sortiment af trimmer, herunder facadeplader, L & F-formede trims, T-trims, trappenæse, endestykker, bits, dækfastgørelser, skruer, beslag, dækmonteringssæt, dækpiedestaler og bjælkesko , understelbjælker osv. Alle de ting, der er nødvendige komponenter i enhver professionel dækinstallation. Green Plank kompositplanker er farvetilpasset til dit Green Plank kompositdæk.
+
+                                                                </p>
 
                                                                 <div>
-                                                                    <h2 className="mt-60">SMART ™ komposittrall – INGEN KLIPP KRÄVS</h2>
+                                                                    <h2 className="mt-60">SMART ™ terrassebræddersystem – INGEN KLIP PÅKRÆVET
+                                                                    </h2>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -88,16 +93,17 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            Komposit Ändlock för ihålig trall
+                                                                            Komposit endehætter til hule planker
+
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Förpackning:</strong> Låda
+                                                                            <strong>Emballage:</strong> Boks
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Täppa till hålen på våra ihåliga däck
+                                                                            <strong>Brug:</strong> At forsegle enderne af dine hule kompositplader for at give din pynt et professionelt færdigt look.
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Innehåll:</strong> 25 ändlock
+                                                                            <strong>Indhold:</strong> 25 endehætter
                                                                         </li>
 
                                                                     </ul>
@@ -119,20 +125,19 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            HIDLOC™ Dolda monteringsclips (Rostfritt stål)
+                                                                            HIDLOC ™ Hidden Deck Fasteners Kit – Rustfrit stål
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Förpackning:</strong> Låda
+                                                                            <strong>Emballage:</strong> Boks
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket däck)
+                                                                            <strong>Dækning:</strong> ca. 5 – 7 m² * (varierer efter terrassetype)
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Innehåll:</strong> 108 mellanclips, 18 start/slut clips,
-                                                                            120 skruvar, 1 borrspets, 1 torx bit T8
+                                                                            <strong>Brug:</strong> Til rillet kantdæk; Marine40 ™, Marine60 ™, Classic ™, Sapphire ™, EverDeck ™ osv.
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För vår komposit med håliga kanter.
+                                                                            <strong>Indhold:</strong> 108 midterste clips, 18 start / slut clips, 120 skruer, 1 bor, 1 torx bit T8
                                                                         </li>
 
                                                                     </ul>
@@ -166,20 +171,19 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            HIDLOC™ Dolda monteringsclips (Rostfritt stål)
+                                                                            HIDLOC ™ Hidden Deck Fasteners Kit – HDPE plast
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Förpackning:</strong> Låda
+                                                                            <strong>Emballage:</strong> Boks
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket däck)
+                                                                            <strong>Dækning:</strong> ca. 5 – 7 m² * (varierer efter terrassetype)
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Innehåll:</strong> 108 mellanclips, 18 start/slut clips,
-                                                                            120 skruvar, 1 borrspets, 1 torx bit T8
+                                                                            <strong>Brug:</strong>Til rillet kantdæk; Marine40 ™, Marine60 ™, Classic ™, Sapphire ™, EverDeck ™ osv.
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För vår komposit med håliga kanter.
+                                                                            <strong>Indhold:</strong> 108 midterste clips, 18 start / slut clips, 120 skruer, 1 bor, 1 torx bit T8
                                                                         </li>
 
                                                                     </ul>
@@ -199,20 +203,19 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            HIDLOC™ Dolda monteringsclips (Rostfritt stål)
+                                                                            HidLoc ™ til Komosit Trall – rustfrit metal
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Förpackning:</strong> Låda
+                                                                            <strong>Emballage:</strong> Boks
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Täckning:</strong> ca. 5 – 7 m²  *(varierar med vilket däck)
+                                                                            <strong>Dækning:</strong> ca. 5 – 7 m² * (varierer efter terrassetype)
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Innehåll:</strong> 108 mellanclips, 18 start/slut clips,
-                                                                            120 skruvar, 1 borrspets, 1 torx bit T8
+                                                                            <strong>Brug:</strong>Til rillet kantdæk; Marine40 ™, Marine60 ™, Classic ™, Sapphire ™, EverDeck ™ osv.
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För vår komposit med håliga kanter.
+                                                                            <strong>Indhold:</strong> 108 midterste clips, 18 start / slut clips, 120 skruer, 1 bor, 1 torx bit T8
                                                                         </li>
 
                                                                     </ul>
@@ -246,24 +249,23 @@ const tillbehortillkomposittrall = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit täcklist liten
+                                                                            NATURPLANK ™ sammensat Fascia Trim Board
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 10 * 80 mm
+                                                                            <strong>Størrelse:</strong>  ca. 10 * 80 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.4m, 2.2m, 1.9m
+                                                                            <strong>Længde:</strong> ca. 2.4m, 2.2m, 1.9m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.4 kg / m
+                                                                            <strong>Vægt:</strong>  ca. 1.4 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruvar (Förborrning krävs)
+                                                                            <strong>Installation:</strong> Ansigtsskruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
+                                                                            <strong>Brug:</strong>For at afslutte siderne af dit Green Plank-dæk, for at klæde siderne af dit hjem eller tilføje en pæn finish til dæktrapper og plantager
                                                                         </li>
-
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -278,27 +280,29 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit täcklist mellan
+                                                                            NATURPLANK ™ sammensat Fascia Trim Board
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 10 * 130 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong>  ca. 2.4 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.61 kg / m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Skruvar (Förborrning krävs)
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
-                                                                        </li>
+                                                                            <strong>Størrelse:</strong> ca. 10 * 130 mm
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 2.4m, 2.2m, 1.9m
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong>  ca. 1.61 kg / m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Ansigtsskruer
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>For at afslutte siderne af dit Green Plank-dæk, for at klæde siderne af dit hjem eller tilføje en pæn finish til dæktrapper og plantager
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -328,27 +332,30 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit täcklist stor
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>  ca. 10 * 230 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong>  ca. 2.4 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>  ca. 2.88 kg / m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Skruvar (Förborrning krävs)
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
-                                                                        </li>
+                                                                            NATURPLANK ™ sammensat Fascia Trim Board
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong>  ca. 10 * 230 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 2.4m, 2.2m, 1.9m
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong>  ca. 2.88 kg / m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Ansigtsskruer
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>For at afslutte siderne af dit Green Plank-dæk, for at klæde siderne af dit hjem eller tilføje en pæn finish til dæktrapper og plantager
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -364,27 +371,27 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit Hörnlist
+                                                                            NATURPLANK ™ komposit L-trim
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 40 * 40 mm
+                                                                            <strong>Størrelse:</strong>  ca. 40 * 40 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.4 m
+                                                                            <strong>Længde:</strong> ca. 2.4 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong>  ca. 0.65 kg / m
+                                                                            <strong>Vægt:</strong>  ca. 0.65 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller ett Vattenfast polyuretanlim för utomhusbruk
+                                                                            <strong>Installation:</strong> Ansigtsskruer
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att en snygg kant till ert däck
-                                                                        </li>
+                                                                            <strong>Brug:</strong>For at afslutte hjørnerne af dit Green Plank-dæk og facadebeklædning. Tilføjer en pæn finish til dæktrapper og planter
 
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -413,24 +420,27 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ Komposit L-list
+                                                                            SMART ™ komposit L-trim
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 32 * 45.2 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> List för våra Smart™ Produkter
-                                                                        </li>
+                                                                            <strong>Størrelse:</strong>  ca. 32 * 45.2 mm
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 1.9 m
+
+                                                                        </li>
+                                                                       
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Med skruer
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>	Hjørne trim
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -445,24 +455,27 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ komposit F-list
+                                                                            SMART ™ sammensat F-trim
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 32 * 45.2 mm
+                                                                            <strong>Størrelse:</strong> ca. 32 * 45.2 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> List för våra Smart™ Produkter
-                                                                        </li>
+                                                                            <strong>Længde:</strong> ca. 1.9 m
 
+                                                                        </li>
+                                                                       
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Med skruer
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Start trimning
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -492,24 +505,27 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ Aluminium väggmonteringslist
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>   ca. 32 * 45.2 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong>  Med skruvar
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> 	Väggmonteringslist
-                                                                        </li>
+                                                                            SMART ™ Aluminium vægbeslag
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong>  ca. 32 * 45.2 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 1.9 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Med skruer
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Vægbeslag
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -525,24 +541,27 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ Aluminium T-List
+                                                                            SMART ™ udvidelsesbeklædning i aluminium
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong> ca. 45 * 15.4 mm (3.5)
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> Skarvslist
-                                                                        </li>
+                                                                            <strong>Størrelse:</strong> ca. 45 * 15.4 (3.5)
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 1.9 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Tryk på design / ansigtsskruer
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Som en finish ekspansion trim sammen med L-trim
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -572,24 +591,31 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ Aluminium L-List
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>  ca. 45 * 45mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Vattenfast polyuretanlim för utomhusbruk eller skruvar
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> Med våra Smart produkter
-                                                                        </li>
+                                                                            SMART ™ aluminium F-trim
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong> Ca. 45 * 45 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 2.4m, 2.2m, 1.9m
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong>  ca. 1.9 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Tryk på design / ansigtsskruer
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Som start trim med vægbeslag
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -605,24 +631,27 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            SMART™ Aluminium F-List
+                                                                            SMART ™ aluminium L-trim
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 45 * 45 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong>Vattenfast polyuretanliv för utomhusbruk eller skruvar
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> Med våra Smart produkter
-                                                                        </li>
+                                                                            <strong>Størrelse:</strong> Ca. 45 * 45 mm
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 1.9 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Tryk på design / ansigtsskruer
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Som en finish kant trim og / eller sammen med ekspansion trim
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -652,28 +681,30 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit Trappnoslist liten
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>   ca. 10 * 25 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong> ca. 2.2 m ,2.4m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>  ca. 0.82 kg / m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller ett
-                                                                            Vattenfast polyuretanlim för utomhusbruk
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
-                                                                        </li>
+                                                                            NATURPLANK ™ sammensat T-trim
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong>  ca. 15 * 25 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 2.4 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong> ca. 0.36 kg / m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Ansigtsskruer / lim udvendigt
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>For at afslutte siderne af dit Green Plank-dæk
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -689,28 +720,31 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit Trappnoslist liten
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>   ca. 10 * 60 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong> ca. 2.2 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>  ca. 0.82 kg / m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller ett
-                                                                            Vattenfast polyuretanlim för utomhusbruk
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
-                                                                        </li>
+                                                                            NATURPLANK ™ sammensat Staire næsetrimm
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong> ca. 15 * 60 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 2.2 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong>  ca. 0.82 kg / m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Ansigtsskruer
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>For at afslutte siderne af dit Green Plank-dæk, for at klæde siderne af dit hjem eller tilføje en pæn finish til dæktrapper og plantager
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -740,28 +774,32 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit Trappnoslist Stor
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>  ca. 25 * 60 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong>  ca. 2.4 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.28 kg / m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Skruvar(Förborrning krävs) eller
-                                                                            ett Vattenfast polyuretanlim för utomhusbruk
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> För att ge ett avslut runt ert däck.
-                                                                        </li>
+                                                                            NATURPLANK ™ sammensat T-trim
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong>  ca. 25 * 60 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 2.4 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong>  ca. 1.28 kg / m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Ansigtsskruer / lim udvendigt
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>For at afslutte siderne af dit Green Plank-dæk.
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -776,27 +814,31 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Massiv Regel Liten
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>  ca. 24 * 40 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>  ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Med Skruvar. (Förborrnings krävs)
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> Regelverk under däck
-                                                                        </li>
+                                                                            NATURPLANK ™ sammensat bjælke solid
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong> ca. 24 * 40 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 3.6 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong> ca. 1.9 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Med skruer (forboring kræves)
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Understel til terrassegulv. Vores WPC bjælker er modstandsdygtige over for de almindelige problemer forbundet med træbjælker: rådnende, vridning og insektskader.
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -827,27 +869,30 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Ihålig Regel (med tillgängliga ändlock)
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>   ca. 40 * 70 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>  	ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Med Skruvar. (Förborrnings krävs)
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> Regelverk under däck
-                                                                        </li>
+                                                                            NATURPLANK ™ kompositbjælkehul (med valgfri endehætter)
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong>  ca. 40 * 70 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong>ca. 3.6 m
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong>  ca. 1.9 m
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Med skruer (forboring kræves)
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Understel til terrassegulv. Vores WPC bjælker er modstandsdygtige over for de almindelige problemer forbundet med træbjælker: rådnende, vridning og insektskader.
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -863,27 +908,32 @@ const tillbehortillkomposittrall = () => {
                                                         <div className="row">
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Massiv Regel stor
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Storlek:</strong>  ca. 40 * 70 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Vikt:</strong>   ca. 1.9 m
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Installation:</strong> Med Skruvar. (Förborrnings krävs)
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> Regelverk under däck
-                                                                        </li>
+                                                                            NATURPLANK ™ kompositbjælke solid (med valgfri endehætter)
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Størrelse:</strong>  ca. 40 * 70 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Længde:</strong> ca. 3.6 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Vægt:</strong>  ca. 1.9 m
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Installation:</strong> Med skruer (forboring kræves)
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>Understel til terrassegulv. Vores WPC bjælker er modstandsdygtige over for de almindelige problemer forbundet med træbjælker: rådnende, vridning og insektskader.
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -913,30 +963,32 @@ const tillbehortillkomposittrall = () => {
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-20">
                                                                 <div className="project-information mb-20">
-                                                                    <ul>
+                                                                <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            RHINOFEET™ Pidestaler med justerbar höjd
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Avstånd:</strong>   17 -30 mm, 30-45mm, 45-70mm, 70-120mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>basdiameter:</strong> ca. Ø 185 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Huvuddiameter:</strong> ca. Ø 100 mm
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Kompressionsmotstånd:  </strong>
-                                                                            <span style={{ marginLeft: "102px" }}>1000 kgs</span>
-                                                                        </li>
-                                                                        <li>
-                                                                            <strong>Användning:</strong> höjdjusterbara piedestaler för plattor,
-                                                                            beläggningssystem för keramik och regelsystem.
+                                                                            RHINOFEET ™ Højdejusterbare dækpiedestale
 
                                                                         </li>
+                                                                        <li>
+                                                                            <strong>Højdeområde:</strong>  17 -30 mm, 30-45mm, 45-70mm, 70-120mm
 
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Base diameter	:</strong> ca. Ø 185 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Hoveddiameter:</strong>  ca. Ø 100 mm
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Kompressionsmodstand:</strong> 1000 kgs
+
+                                                                        </li>
+                                                                        <li>
+                                                                            <strong>Brug:</strong>RHINOFEET ™ højdejusterbare piedestaler til fliser, plader, belægningssystemer til keramik og bjælkesystemer.
+
+                                                                        </li>
                                                                     </ul>
                                                                 </div>
                                                             </div>

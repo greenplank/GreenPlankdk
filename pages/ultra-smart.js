@@ -38,21 +38,25 @@ const ultrasmart = () => {
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>ULTRA™ Smart</h2>
-                          <strong>Med vår nya Smart Ultra får du en terrass som är 50% lättare och  25% starkare än tidigare modeller.</strong>
+                          <strong>Med vores nye Smart Ultra får du en terrasse, der er 50% lettere og 25% stærkere end tidligere modeller.</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Smart Ultra är en solid profil tillverkad av träfiber och skum-PVC för en lätt och stark terrass som finns i två färger: Coffee Brown och Nordic Sand.</strong>
+                              <strong>Smart Ultra er en solid profil lavet af træfiber og skum -PVC til en let og stærk terrasse, der fås i to farver: Coffee Brown og Nordic Sand.</strong>
                               <div>
                                 <ul>
-                                  <li>ASA-beläggning gör den reptålig och färgfast.</li>
-                                  <li>Inget underhåll brandmotstånd.</li>
-                                  <li>Hög halksäkerhet och vi erbjuder 30 års garanti för slitage.</li>
-                                  <li>Färgen bleknar inte med solljus och blir inte färgad av vin, olja, kaffe eller andra vätskor.</li>
+                                  <li>ASA-belægning gør den ridsefast og farvehurtig.</li>
+                                  <li>Ingen vedligeholdelsesbrandmodstand.
+                                  </li>
+                                  <li>Høj skridsikkerhed, og vi tilbyder 30 års garanti for slid.</li>
+                                  <li>Farven falmer ikke med sollys og farves ikke af vin, olie, kaffe eller andre væsker.
+                                  </li>
                                 </ul>
-                                <p>Eftersom detta är en Green Plank Smart-produkt erbjuder den ett sömlöst utseende med tunga och spår som gör installationer upp till 60% snabbare än normalt kompositdäck.
-                                  Den är installerad med 50 cm c/c och ger en mycket solid yta eftersom den låser ihop brädorna.</p>
-                                <p>Ultra erbjuder en mycket halksäker yta och är helt vattentät vilket gör den mycket lämplig för våta områden som runt pooler eller nära vattendrag.</p>
+                                <p>Da dette er et Green Plank Smart -produkt, tilbyder det et problemfrit look med not og not, der gør installationer op til 60% hurtigere end normale kompositdæk.<br />
+                                  Den er installeret med 50 cm c / c og giver en meget solid overflade, fordi den låser brædderne sammen.
+                                </p>
+                                <p>Ultra tilbyder en meget skridsikker overflade og er fuldstændig vandtæt, hvilket gør den meget velegnet til våde områder såsom omkring pools eller nær vandløb.
+                                </p>
                               </div>
                             </div>
                           </div>
@@ -67,35 +71,39 @@ const ultrasmart = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image11} className="img-fluid" alt="" />
+                                  <img src={Image11} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left">Skum PVC med träfiber.</td>
+                                      <td align="left"><strong>Overflade:</strong></td>
+                                      <td align="left">Skum -PVC med træfiber.
+                                      </td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 3 m | 6 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 10 kg.</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">Ingen färgförändring, ASA-kapslad <br/>(beläggning) 50 cc</td>
+                                      <td align="left"><strong>Regelafstand
+                                        :</strong></td>
+                                      <td align="left">Ingen farveændring, ASA-indkapslet
+                                        <br />(belægning) 50 cc
+                                      </td>
                                     </tr>
                                   </tbody>
                                 </table>
                               </div>
-                              
+
                             </div>
 
                           </div>
@@ -109,24 +117,30 @@ const ultrasmart = () => {
                           <div className="row">
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Nyckelfunktioner av kompositdäck Ultra Smart
+                                <h2 className="mb-40 mt-20"><strong>Nøglefunktioner i Ultra Smart -kompositdæk
                                 </strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>30 års garanti</li>
-                                  <li><strong>2. </strong>Lätt och solid bräda</li>
-                                  <li><strong>3. </strong> Fläckresistent, främst från vin och kaffe.</li>
-                                  <li><strong>4. </strong>Sömlös yta med vårt patenterade click-system.</li>
-                                  <li><strong>5. </strong>Ingen årlig målning, tätning eller oljning krävs.</li>
-                                  <li><strong>6. </strong>Motstånd mot UV-ljus och färgblekning.</li>
-                                  <li><strong>7. </strong>Fri från giftiga tillsatser.</li>
-                                  <li><strong>8. </strong>upp till 60% snabbare installation jämnfört med traditionellt däck</li>
-                                  <li><strong>9. </strong>WPC med träflisor</li>
-                                  <li><strong>10. </strong>Välj den perfekta produkten för er.Beställ idag!</li>
+                                  <li><strong>1. </strong>30 års garanti
+                                  </li>
+                                  <li><strong>2. </strong>Let og solidt bræt
+                                  </li>
+                                  <li><strong>3. </strong>Pletbestandig, hovedsageligt fra vin og kaffe.
+                                  </li>
+                                  <li><strong>4. </strong>Problemfri overflade med vores patenterede kliksystem.
+                                  </li>
+                                  <li><strong>5. </strong>Ingen årlig maling, forsegling eller oliering er påkrævet.</li>
+                                  <li><strong>6. </strong>Modstandsdygtighed over for UV -lys og farvedemping.</li>
+                                  <li><strong>7. </strong>Fri for giftige tilsætningsstoffer.</li>
+                                  <li><strong>8. </strong>op til 60% hurtigere installation sammenlignet med traditionelle dæk</li>
+                                  <li><strong>9. </strong>WPC med træflis
+                                  </li>
+                                  <li><strong>10. </strong>Vælg det perfekte produkt til dig. Bestil i dag!
+                                  </li>
                                 </ul>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
-                             
+
                             </div>
                           </div>
                         </div>

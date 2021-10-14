@@ -13,7 +13,7 @@ const BambooGolv = () => {
     <Layout pageTitle="BambooGolv">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="BambooGolv" crumbTitle="bamboo golv" />
+      <PageHeader title="Bambus gulv" crumbTitle="Bambus gulv" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,35 +24,46 @@ const BambooGolv = () => {
                     <div className="blog-inner">
                       <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                       <div className="content">
-                        <h2 className="title">Bamboo golv</h2>
+                        <h2 className="title">Bambus gulv</h2>
                         <div className="desc section-space--bottom--30">
-                          <p>Bambu är ett av gräset och växer extremt snabbt. De träiga stjälkarna används för golvbeläggningar av bambu; materialet finns i form av parkett, paneler, fanér, rullade varor, kakel eller golvbrädor. Förutom den snabba tillväxten har bambu en hög fuktbeständighet och är därför också lämplig för installation i badrum och andra fuktiga rum. Bambuparkett är cirka 30% hårdare än ekparkett och är mycket slitstark. Underhållet motsvarar träbeläggningen, läggning är möjlig som flytande eller lim.</p>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>Bambu tillhandahålls som golvbeläggning i olika varianter. Läggningen motsvarar de analoga golvmaterialen av trä, dvs. flytande, limmade eller också som en undergolvskonstruktion. Man skiljer:</p>
-                          
-                           <strong>1. </strong>Massiv parkett och remsaparkett gjord av limmade och pressade bambufibrer<br/>
-                           <strong>2. </strong>Industriparkett av bambu består till exempel av vertikala enskilda lameller som hålls samman av ett tejp. Efter limning avlägsnas tejpen och golvet slipas och får en slutlig behandling.<br/>
-                           <strong>3. </strong>Färdiggjord parkett eller klickparkett av bambufaner på en tunga och spårbasplatta med ett underlag<br/>
-                           <strong>4. </strong>Plankor och brädor som flerskiktsbrädor med runda fasningar eller tunga och spår<br/>
+                          <p></p>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Bambus leveres som gulvbelægning i forskellige varianter. Lægningen svarer til de analoge gulvmaterialer af træ, dvs. væske, limet eller også som undergulvskonstruktion. Man skelner:</p>
+                          Bambus er et af græsset og vokser ekstremt hurtigt. De træagtige stilke bruges til gulvbelægninger i bambus; materialet fås i form af parket, paneler, finer, rullevarer, fliser eller gulvbrædder. Ud over den hurtige vækst har bambus en høj fugtbestandighed og er derfor også velegnet til installation i badeværelser og andre fugtige rum. Bambusparket er omkring 30% hårdere end egetræsparket og er meget holdbart. Vedligeholdelsen svarer til træbelægningen, lægning er mulig som væske eller lim.
+                           <strong>1. </strong>Massiv parket- og båndsparket af limede og pressede bambusfibre<br/>
+                           <strong>2. </strong>Industriel bambusparket består f.eks. Af lodrette individuelle lameller, der holdes sammen af ​​et bånd. Efter limning fjernes tapen, og gulvet slibes og får en sidste behandling.<br/>
+                           <strong>3. </strong>Færdig parket eller klikparket af bambusfiner på en tunge- og sporbundplade med bund<br/>
+                           <strong>4. </strong>Planker og brædder som flerlagsbrædder med runde fasinger eller not og not<br/>
                         
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Ytbehandling av bambugolv:</h3>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>På samma sätt som trägolvet kan bambugolvet avslutas på olika sätt. Det är möjligt att täta den helt lagda ytan, med färdig parkett är de enskilda elementen ofta redan målade eller förseglade. Bambugolv kan också vaxas och oljas.</p>
-                          <p style={{ marginBottom: 30, marginTop: 10 }}>Den okomplicerade vården och beläggningens okänslighet för smuts talar för lacken. En matt yta rekommenderas så att ett lackerat golv också ser naturligt ut.</p>
-                          <p style={{ marginBottom: 30, marginTop: 10 }}>Oljade ytor ser väldigt naturliga ut, men efterbehandling krävs med jämna mellanrum. Beslutet om en oljad yta fattas redan vid inköp, plankorna eller parkettlistorna kan redan förbehandlas.</p>
-                          <p style={{ marginBottom: 30, marginTop: 10 }}>Hårdvaxolja ger fördelarna med lack och kombinerar dem med de på den oljade ytan. Vaxet tränger igenom ytan på bambu och bildar ett permanent lager som också delvis kan förnyas.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Underhåll av bambugolv:</h3>
-                          <p style={{ marginBottom: 30, marginTop: 10 }}>Bambugolv kan rengöras enkelt och regelbundet med en golvmjölk speciellt utformad för bambu eller andra rengöringsemulsioner. För underhåll är det tillräckligt att tillsätta ett lämpligt rengöringsmedel i vattnet och torka golvet med en fuktig trasa. Inga pooler eller pölar får finnas kvar på ytan. Aggressiva rengöringsmedel, medel och verktyg som skrubbar eller repar ytan får inte användas.</p>
-                          <h4 style={{ marginBottom: 30, marginTop: 10 }}>Fördelar med bambuparkett</h4>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Overfladebehandling af bambusgulv:</h3>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>På samme måde som trægulvet kan bambusgulvet efterbehandles på forskellige måder. Det er muligt at forsegle den helt lagt overflade, med færdig parket, de enkelte elementer er ofte allerede malet eller forseglet. Bambusgulve kan også vokses og olieres.</p>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Den ukomplicerede pleje og belægningens ufølsomhed over for snavs taler for malingen. En mat overflade anbefales, så et lakeret gulv også ser naturligt ud.</p>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Olierede overflader ser meget naturlige ud, men efterbehandling er påkrævet med jævne mellemrum. Beslutningen om en olieret overflade er allerede taget ved køb, plankerne eller parketstrimlerne kan allerede forbehandles.</p>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Hårdvoksolie giver fordelene ved lak og kombinerer dem med dem på den olierede overflade. Voksen trænger ind i overfladen af ​​bambus og danner et permanent lag, der også kan fornyes delvist.</p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Vedligeholdelse af bambusgulv:
+</h3>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Bambusgulve kan rengøres let og regelmæssigt med en gulvmælk specielt designet til bambus eller andre rengøringsemulsioner. For vedligeholdelse er det tilstrækkeligt at tilføje et passende rengøringsmiddel til vandet og tørre gulvet af med en fugtig klud. Ingen pools eller vandpytter må forblive på overfladen. Aggressive rengøringsmidler, midler og værktøjer, der skrubber eller ridser overfladen, må ikke bruges.
+</p>
+                          <h4 style={{ marginBottom: 30, marginTop: 10 }}>Fordele ved bambusparket
+</h4>
                           
-                           <strong>1. </strong>En av de viktigaste fördelarna med bambuparkett är att den är okänslig för fukt. Till skillnad från ek eller bokparkett skadar du inte träets struktur om du torkar av den med en fuktig trasa. Även ånga kan inte skada materialet. Av denna anledning är bambuparkett lämplig som golvbeläggning i badrum, kök och andra rum med hög luftfuktighet såsom bastur.<br/>
-                           <strong>2. </strong>Bambuparkett är också populärt på grund av dess höga motståndskraft. Brinells hårdhet, som uttrycker materialets tryckhållfasthet, är 40 N / mm2 och därmed inom trätyper som Merbau, ask och wenge, som är bland de hårdaste. Det betyder att den kan användas i kommersiella rum och med tunga möbler.<br/>
-                           <strong>3. </strong>En annan fördel med bambuparkett är dess unika utseende, som skapas av den speciella produktionsprocessen, där remsorna kokas från stjälkarna, torkas och limmas under högt tryck. En skillnad görs mellan horisontellt och vertikalt arrangemang, beroende på om de pressas ihop horisontellt eller upprätt. Medan den horisontella varianten har en heterogen struktur ser upprättstående lameller mer enhetliga ut.<br/>
-                           <strong>4. </strong>Hållbarhet är också en aspekt som talar för bambuparkett. Till skillnad från ek-, teak- eller valnötskogar, som hotas av rensning, växer bambuväxter tillbaka mycket snabbt och når sin slutliga storlek efter bara några månader. Eftersom endast de lignifierade stjälkarna fälls under skörden förstörs inte växten ändå. Därför äventyrar inte ens hög efterfrågan världens bambulager.<br/>
-                           <strong>5. </strong>Kostnaderna för bambugolv är måttliga mellan 30 och 70 euro per kvadratmeter. De olika priserna beror på de olika konstruktionsmetoderna och slitage- och stödlagrets höjd. Du bör se till att du väljer ett bambugolv med ett högkvalitativt underlag. Om den är för mjuk kan parketten gå sönder under tunga laster eller bildas fula bucklor.<br/>
+                           <strong>1. </strong>En af de vigtigste fordele ved bambusparket er, at det er ufølsomt over for fugt. I modsætning til eg eller bøget parket skader du ikke træets struktur, hvis du tørrer det af med en fugtig klud. Selv damp kan ikke beskadige materialet. Af denne grund er bambusparket velegnet som gulvbelægning i badeværelser, køkkener og andre rum med høj luftfugtighed, f.eks. Saunaer.
+<br/>
+                           <strong>2. </strong>Bambusparket er også populært på grund af dets høje modstandsdygtighed. Brinells hårdhed, der udtrykker materialets trykstyrke, er 40 N / mm2 og dermed i træsorter som Merbau, aske og wenge, som er blandt de hårdeste. Det betyder, at det kan bruges i kommercielle rum og med tunge møbler.
+<br/>
+                           <strong>3. </strong>En anden fordel ved bambusparket er dets unikke udseende, som er skabt af den særlige produktionsproces, hvor strimlerne koges af stilkene, tørres og limes under højt tryk. Der skelnes mellem vandrette og lodrette arrangementer, afhængigt af om de komprimeres vandret eller opretstående. Mens den vandrette variant har en heterogen struktur, ser opretstående lameller mere ensartede ud.
+<br/>
+                           <strong>4. </strong>Holdbarhed er også et aspekt, der taler for bambusparket. I modsætning til eg-, teak- eller valnøddeskove, der er truet af rydning, vokser bambusplanter meget hurtigt tilbage og når deres endelige størrelse efter få måneder. Da kun de lignificerede stilke fældes under høsten, ødelægges planten alligevel ikke. Derfor bringer selv den store efterspørgsel ikke verdens bambusbestande i fare.
+<br/>
+                           <strong>5. </strong>Omkostningerne ved bambusgulve er moderate mellem 30 og 70 euro pr. Kvadratmeter. De forskellige priser afhænger af de forskellige byggemetoder og højden på slid- og understøtningslaget. Du bør sikre dig, at du vælger et bambusgulv med et underlag af høj kvalitet. Hvis den er for blød, kan parketten gå i stykker under tunge belastninger, eller der kan dannes grimme buler.
+<br/>
                         
-                          <h4 style={{ marginBottom: 10, marginTop: 30 }}>Nackdelar med bambugolv:</h4>
+                          <h4 style={{ marginBottom: 10, marginTop: 30 }}>Ulemper ved bambusgulv
+:</h4>
                           
-                           <strong>1. </strong>Med golvvärme är det viktigt att se till att tillverkaren har godkänt bambugolvet för det. Endast dessa golv ska användas för golvvärme.<br/>
-                           <strong>2. </strong>En annan möjlig nackdel med bambuparkett är färgen, som till skillnad från andra träslag inte kan ändras. Konventionella parkettfärger fördelas endast oregelbundet på grund av bambuens struktur och resultatet är sällan optiskt tillfredsställande.<br/>
+                           <strong>1. </strong>Med gulvvarme er det vigtigt at sikre sig, at producenten har godkendt bambusgulvet til det. Kun disse gulve bør bruges til gulvvarme.
+<br/>
+                           <strong>2. </strong>En anden mulig ulempe ved bambusparket er farven, som i modsætning til andre træsorter ikke kan ændres. Konventionelle parketfarver distribueres kun uregelmæssigt på grund af bambusens struktur, og resultatet er sjældent optisk tilfredsstillende.
+<br/>
                         
 
                         </div>

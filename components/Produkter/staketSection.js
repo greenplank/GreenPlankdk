@@ -16,21 +16,21 @@ const DATA = [
         image: proImage1,
         title: "NOVOFENCE™ Private™",
         text:
-          "bra grannstaket med stil och styrka – PVC-fri!....."
+          "godt nabohegn med stil og styrke - PVC -fri!....."
       },
       {
         link: "/komposit-staket-traditional",
         image: proImage2,
         title: "NOVOFENCE™ Traditional™",
         text:
-          "bra grannstaket med stil och styrka – PVC-fri!...."
+          "godt nabohegn med stil og styrke - PVC -fri!...."
       },
       {
         link: "/komposit-staket-modern",
         image: proImage3,
         title: "NOVOFENCE™ Modern™",
         text:
-          "enkel design och estetisk look – använd.........."
+          "enkelt design og æstetisk look - brug.........."
       }
 ];
 

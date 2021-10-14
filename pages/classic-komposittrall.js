@@ -11,9 +11,9 @@ import Head from "next/head";
 
 const ClassicKomposittrall = () => {
     return (
-        <Layout pageTitle="Classic Komposittrall">
+        <Layout pageTitle="Klassisk terrassebrædder">
             <HeaderTwo />
-            <PageHeader title="Classic Komposittrall" crumbTitle="ClassicKomposittrall" />
+            <PageHeader title="Klassisk terrassebrædder" crumbTitle="Klassisk terrassebrædder" />
             <StickyHeader />
             <ClassicKomposittrallSection />
            

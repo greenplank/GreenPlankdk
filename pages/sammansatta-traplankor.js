@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const sammansatta = () => {
   return (
-    <Layout pageTitle="sammansatta-traplankor">
+    <Layout pageTitle="sammensatte trapperum">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="sammansatta-traplankor" crumbTitle="sammansatta-traplankor" />
+      <PageHeader title="sammensatte trapperum" crumbTitle="sammensatte trapperum" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,21 +24,32 @@ const sammansatta = () => {
                     <div className="blog-inner">
                       <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                       <div className="content">
-                        <h2 className="title">Sammansatta träplankor</h2>
+                        <h2 className="title">Sammensatte træplanker</h2>
                         <div className="mb-30">
-                          <p>Sammansatta träplankor är starka och hållbara jämfört med vanliga träplankor, och de håller också längre. Om du har ett kompositdäck betyder det att plankorna består av flera återvunna eller syntetiska material, vanligtvis plast (akryl) och polymerer. Dessa material kan kombineras för att skapa den design och det utseende du vill ha för ditt däck.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Metod för användning</h3>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>Det finns många sätt på vilket kompositplankor kan användas för att göra ditt däck. Ett sätt är att använda självblockerande klipp. Självblockerande klämmor är rostfria skruvar som kan hålla brädorna på plats, oavsett vilken typ av väder de stöter på. På grund av detta behöver du inte stå ut med ruttna eller lösa brädor som om du inte använde självblockerande klämmor.</p>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>En annan metod för att tillverka kompositplankor är genom användning av tryckbindning. Tryckbindning görs genom att värma plastmaterialet och sedan hamra det i en platta. Plasten smälter och smälter samman med träet och skapar ett starkt band mellan de två. Många tillverkare rekommenderar att man använder högtrycksluft som limningsmetod. Högtrycksluft hjälper till att binda samman brädorna mer effektivt, men nackdelen med denna metod är att mer värme genereras under processen.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Funktioner</h3>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>Många husägare föredrar kompositplankor eftersom de är starkare än vanliga lövträd. En anledning till att kompositplankor är mer hållbara än vanligt lövträ är att de har fler lager. Det ger tillverkare av kompositplankor större variation när det gäller att skapa olika densiteter. Det är fördelaktigt eftersom olika densiteter tål bättre olika klimat. Om du bor i ett område som genomgår extrema klimat, såsom kraftig nederbörd eller extremt heta temperaturer, bör din kompositplattor kunna klara dessa förhållanden.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Hur man installerar?</h3>
-                          <p style={{ marginBottom: 30, marginTop: 30 }}>Om du vill installera kompositplankor på egen hand behöver du rätt verktyg. Vissa människor väljer att anställa någon för att installera denna typ av golv, men du kan göra det om du är bekväm att göra det själv. Du bör ha skruvmejslar, ett måttband och någon typ av penna för att skriva på plankorna för att få exakta mått. Du kommer också att behöva några naglar, nipplar, en såg och andra verktyg, beroende på hur omfattande projektet kommer att bli. Se bara till att du får prisuppgifter från flera leverantörer innan du väljer den bästa leverantören för dig.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Jämförelse</h3>
-                          <p style={{ marginBottom: 30, marginTop: 10 }}>När du har fått prisuppgifter bör du jämföra dem mot trägolv. Du kommer att upptäcka att kompositplattor utomhus har ungefär en halv tum tjock produkt. Lövträd kan å andra sidan vara tre eller fyra tum tjocka. Dessutom är kompositplattor utomhus färdiga med kemikalier som förhindrar solljus från att sippra in i plankorna. Lövträd måste vara förseglade eller målade. Det kan vara lite dyrare än förfärdiga plankor.</p>
+                          <p>Sammensatte træplanker er stærke og holdbare i forhold til almindelige træplanker, og de holder også længere. Hvis du har et kompositdæk, betyder det, at plankerne består af flere genbrugte eller syntetiske materialer, normalt plastik (akryl) og polymerer. Disse materialer kan kombineres for at skabe det design og det look, du ønsker for dit dæk.</p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Metode til brug
+                          </h3>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Der er mange måder, hvorpå sammensatte planker kan bruges til at lave dit dæk. En måde er at bruge selvblokerende klip. Selvlåsende klemmer er skruer i rustfrit stål, der kan holde brædderne på plads, uanset hvilken slags vejr de møder. På grund af dette behøver du ikke at tåle rådne eller løse brædder, som om du ikke brugte selvblokerende klemmer.
+                          </p>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>En anden metode til fremstilling af sammensatte planker er ved hjælp af trykbinding. Trykbinding udføres ved at opvarme plastmaterialet og derefter hamre det i en plade. Plasten smelter og smelter sammen med træet og skaber et stærkt bånd mellem de to. Mange producenter anbefaler at bruge højtryksluft som limningsmetode. Højtryksluft hjælper med at binde brædderne mere effektivt sammen, men ulempen ved denne metode er, at der genereres mere varme under processen.
+                          </p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Funktioner
+                          </h3>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Mange husejere foretrækker sammensatte planker, fordi de er stærkere end almindelige løvtræer. En grund til, at sammensatte planker er mere holdbare end almindeligt hårdttræ, er, at de har flere lag. Det giver producenter af sammensatte planker større variation, når det kommer til at skabe forskellige tætheder. Dette er fordelagtigt, fordi forskellige tætheder bedre modstår forskellige klimaer. Hvis du bor i et område, der oplever ekstreme klimaer, såsom kraftig nedbør eller ekstremt varme temperaturer, bør dine sammensatte fliser kunne modstå disse forhold.
+                          </p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Hvordan installeres?
+                          </h3>
+                          <p style={{ marginBottom: 30, marginTop: 30 }}>Hvis du vil installere sammensatte planker på egen hånd, har du brug for de rigtige værktøjer. Nogle mennesker vælger at ansætte nogen til at installere denne type gulve, men du kan gøre det, hvis du er tryg ved at gøre det selv. Du skal have skruetrækkere, et målebånd og en slags pen til at skrive på plankerne for at få nøjagtige målinger. Du skal også bruge nogle søm, brystvorter, en sav og andre værktøjer, afhængigt af hvor omfattende projektet bliver. Bare sørg for at få prisoplysninger fra flere leverandører, før du vælger den bedste leverandør til dig.
+                          </p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Sammenligning
+                          </h3>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Når du har modtaget prisoplysninger, bør du sammenligne dem med trægulve. Du vil opdage, at udendørs kompositfliser har et produkt på omkring en halv tomme. Løvfældende træer kan på den anden side være tre eller fire centimeter tykke. Derudover er udendørs kompositfliser færdige med kemikalier, der forhindrer sollys i at trænge ind i plankerne. Løvtræer skal forsegles eller males. Det kan være lidt dyrere end færdige planker.
+                          </p>
                           <p style={{ marginBottom: 30, marginTop: 10 }}>När du har bestämt dig för din leverantör och pris måste du komma igång. Det första du ska göra är att välja färg och stil. Dessa är lätta att bestämma eftersom du går med något som du förhoppningsvis kommer att använda i flera år. Det finns många färger att välja mellan, och din leverantör ska hjälpa dig att göra dessa val. Om du inte vet vad du ska få, finns det kompositplankor i nästan vilken färg du än kan tänka dig, från rödved till svart.</p>
-                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Slutsats</h3>
-                          <p style={{ marginBottom: 30, marginTop: 10 }}>När du har valt din färg och stil bör du kontakta oss. Vi rekommenderar att du konsulterar lokala statliga eller stadstjänstemän. De har ofta regler och förordningar relaterade till installation av däck, gångvägar, verandor och andra platser med träytor. Ofta kräver dessa regler specifika tillstånd och inspektioner innan byggandet kan börja. Att konsultera dina lokala tjänstemän är inte bara säkert, men det kan också spara mycket pengar genom att få de däck du vill bli godkända.</p>
+                          <h3 style={{ marginBottom: 30, marginTop: 30 }}>Konklusion
+                          </h3>
+                          <p style={{ marginBottom: 30, marginTop: 10 }}>Når du har valgt din farve og stil, skal du kontakte os. Vi anbefaler, at du kontakter lokale myndigheder eller byens embedsmænd. De har ofte regler og forskrifter i forbindelse med installation af dæk, gangbroer, verandaer og andre steder med træoverflader. Ofte kræver disse regler særlige tilladelser og inspektioner, før byggeriet kan påbegyndes. Rådgivning med dine lokale embedsmænd er ikke kun sikkert, men det kan også spare mange penge ved at få de dæk, du ønsker godkendt.
+                          </p>
 
                         </div>
                       </div>

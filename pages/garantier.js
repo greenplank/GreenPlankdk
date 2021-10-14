@@ -14,7 +14,7 @@ const Garantier = () => {
     <>
       <Head>
         <title>Garantier</title>
-        <meta name="title" content="Garantier - GreenPlank.se" />
+        <meta name="title" content="Garantier - GreenPlank.dk" />
         <meta name="description" content="Alla komposit produkter från Green Plank har branschledande garantitäckning. Se nivåerna av stöd som varje produkt har här.." />
       </Head>
       <Layout pageTitle="Garantier">
@@ -25,47 +25,47 @@ const Garantier = () => {
           <Container>
             <Row style={{ marginBottom: "4em" }}>
               <Col lg={12}>
-                <h2 className="block_title">Prestanda du kan räkna med!</h2>
+                <h2 className="block_title">Leistung, auf die Sie zählen können!</h2>
                 <div className="mb-30">
-                  <p className="mt-30 mb-30">Med Green Planks branschledande garantier kan du vara säker på att din kunds vackra utomhusutrymme kommer att förbli så.
+                  <p className="mt-30 mb-30">Mit den branchenführenden Garantien von Green Plank können Sie sicher sein, dass der schöne Außenbereich Ihres Kunden auch so bleibt.
                   </p>
-                  <h3 className="mt-30 mb-30">Green Plank Residential begränsad garanti
+                  <h3 className="mt-30 mb-30">Green Plank Eingeschränkte Garantie für Wohnanlagen
                   </h3>
-                  <p className="mt-30 mb-30">Green Plank är stolt över våra naturfibrer kompositprodukter och vi är inte rädda för att visa det. Alla Green Plank produkter – trall, fasadbeklädnad och staket – täcks av en begränsad Residential garanti för att skydda mot termiter, delning, förfall, röta och splittring.</p>
+                  <p className="mt-30 mb-30">Green Plank ist stolz auf unsere Naturfaserverbundprodukte und wir haben keine Angst davor, dies zu zeigen. Alle Green Plank-Produkte – Terrassendielen, Fassadenverkleidungen und Zäune – unterliegen einer eingeschränkten Wohngarantie zum Schutz vor Termiten, Splittern, Fäulnis, Fäulnis und Splittern.</p>
                   <div className="row mt-30">
                     <Grid container spacing={3}>
                       <Grid item xs={12} sm={8}>
-                        <a href="/pdfs/grantier/GREEN-PLANK-WARRANTY-swedish-.pdf" target="_blank" className="thm-btn" >Ladda Ner Garanti för privatperson</a>
+                        <a href="/pdfs/grantier/greenplank-composite-products-residential-limited-warranty-2.pdf" target="_blank" className="thm-btn" > DOWNLOAD BOLIGGARANTI</a>
                       </Grid>
                     </Grid>
                   </div>
-                  <h3 className="mb-30 mt-30">Green Plank Fläck & Blekna Begränsad garanti
+                  <h3 className="mb-30 mt-30">Green Plank’s Eingeschränkte Garantie auf Flecken und Verblassen
                   </h3>
-                  <p className="mb-30 mt-30">Förutom den Residential garanti, Green Plank samsträngsprutad komposittrall och ASA belagda fasadbeklädnadsprodukter omfattas också av en 25 år Fläck & Blekna Prestanda garanti. Fläck & Blekna -garantin ger ytterligare försäkran om att de angivna produkterna är beständiga mot fläckar och blekning när de är korrekt installerade.</p>
+                  <p className="mb-30 mt-30">Neben der Wohngarantie gelten für coextrudierte Verbunddecks von Green Plank und mit ASA beschichtete Fassadenverkleidungsprodukte 25 Jahre Garantie auf die Leistung von Stain & Fade. Die Stain & Fade-Garantie bietet zusätzliche Sicherheit, dass die angegebenen Produkte bei ordnungsgemäßer Installation Flecken und Verblassen widerstehen.</p>
                   <div className="row mt-30">
                     <Grid container spacing={3}>
                       <Grid item xs={12} sm={8}>
-                        <a href="/pdfs/grantier/STAIN-AND-FADE-PERFORMANCE-LIMITED-WARRANTY-translated-and-corrected.pdf" target="_blank" className="thm-btn" >Ladde Ner FÄRG- OCH FADE</a>
+                        <a href="/pdfs/grantier/greenplank-composite-products-stain-and-fade-resistance-limited-warranty-2.pdf" target="_blank" className="thm-btn" >DOWNLOAD FLEK & FADE-GARANTI</a>
                       </Grid>
                     </Grid>
                   </div>
-                  <h3 className="mb-30 mt-30">Green Plank Commercial begränsad garanti
+                  <h3 className="mb-30 mt-30">Green Plank’s Eingeschränkte Garantie für gewerbliche Einrichtungen
                   </h3>
-                  <p className="mb-30 mt-30">Denna garanti gäller för Green Plank – trall och fasader som applicerad i en kommersiell applikation.</p>
+                  <p className="mb-30 mt-30">Diese Garantie gilt für Terrassendielen und Fassaden von Green Plank, die für gewerbliche Zwecke verwendet werden.</p>
                   <div className="row section-space--top--30">
                     <Grid container spacing={3}>
                       <Grid item xs={12} sm={8}>
-                        <a href="/pdfs/grantier/Green-Plank-kommersiell-begransad-garanti-Translated-and-Corrected.pdf" target="_blank" className="thm-btn" >Ladde Ner kommersiell begränsad garanti</a>
+                        <a href="/pdfs/grantier/greenplank-composite-products-commercial-limited-warranty-2.pdf" target="_blank" className="thm-btn" >DOWNLOAD KOMMERCIAL GARANTI</a>
                       </Grid>
                     </Grid>
                   </div>
-                  <p className="mb-30 mt-30">För teknisk support eller har frågor om garantin:</p>
-                  <p className="mb-30 mt-30">E-post: <a href="mailto:info@greenplank.se">info@greenplank.se</a></p>
+                  <p className="mb-30 mt-30">FÜR TECHNISCHE UNTERSTÜTZUNGS- ODER GARANTIEFRAGEN:</p>
+                  <p className="mb-30 mt-30">E-post: <a href="mailto:info@greenplank.dk">info@greenplank.dk</a></p>
                   <p>Tel:<a href="tel:+46 40 450 560"> +46 40 450 560</a></p>
-                  <p className="mb-30 mt-30">Kom ihåg, Vänligen behålla en kopia av ditt inköpsbevis vilket krävs för att lämna in en fordran.</p>
-                  <h3 className="mb-30 mt-30">GARANTI REGISTRERING
+                  <p className="mb-30 mt-30">Denken Sie bitte immer daran, dass Sie eine Kopie Ihres Kaufbelegs aufbewahren müssen, um einen Anspruch geltend machen zu können.</p>
+                  <h3 className="mb-30 mt-30">GARANTIEREGISTRIERUNG
                   </h3>
-                  <p className="mb-30 mt-30">För att validera din garanti måste du fylla i och posta (<a href="/pdfs/grantier/GREEN-PLANK-WARRANTY-REGISTRATION-CARD.pdf" target="_blank">DOWNLOAD registreringskortet</a>) inom 90 dagar efter installationen. En kopia av kvittot från en auktoriserad Green Plank AB, Green Plank® Trall -återförsäljare eller entreprenör samt ett foto av projektet krävs.</p>
+                  <p className="mb-30 mt-30">Um Ihre Garantie zu validieren, müssen Sie das Formular (<a href="/pdfs/grantier/GREEN-PLANK-WARRANTY-REGISTRATION-CARD.pdf" target="_blank">DOWNLOAD registreringskortet</a>) und per Post innerhalb von 90 Tagen nach der Installation versenden. Eine Kopie der Quittung von einem autorisierten Green Plank AB, Green Plank® Decking-Händler oder Auftragnehmer sowie ein Foto des Projekts sind erforderlich.</p>
                 </div>
               </Col>
             </Row>

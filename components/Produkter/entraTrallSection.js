@@ -12,9 +12,9 @@ const DATA = [
       {
         link: "/entra-komposittrall",
         image: proImage11,
-        title: "Entra™ Komposittrall",
+        title: "ENTRA ™ terrassebrædder",
         text:
-          "Inspirerad av naturen och designad med ett syfte … färg ............"
+          "Inspireret af naturen og designet med en formålsfarve............"
       }
 ];
 

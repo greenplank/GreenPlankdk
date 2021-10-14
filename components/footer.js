@@ -22,13 +22,18 @@ const Footer = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/hitta-hantverkare">
+                    <Link href="/hitta-hantverkare" >
+                      <a style={{color:"white"}}>Find installatør</a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/salgsbetingelser">
                       <a style={{color:"white"}}>Salgsbetingelser</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/forsaljningsvillkor">
-                      <a style={{color:"white"}}>Försäljningsvillkor</a>
+                      <a style={{color:"white"}}>Fortrolighedspolitik</a>
                     </Link>
                   </li>
                   <li>
@@ -79,7 +84,7 @@ const Footer = () => {
                 <ul className="list-unstyled" >
                   <li>
                     <Link href="/installation-och-underhall">
-                      <a style={{color:"white"}}>Installation och underhåll</a>
+                      <a style={{color:"white"}}>Installationer og vedligeholdelse</a>
                     </Link>
                   </li>
                   <li>

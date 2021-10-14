@@ -28,15 +28,17 @@ import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
 import pdfimg2 from "../assets/images/projects/pic.png";
 import pdfimg3 from "../assets/images/projects/pic1.png";
 import pdfimg4 from "../assets/images/projects/swedish.png";
+import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
+import pdfimg6 from "../assets/images/projects/greenplank-composite-decking-installation-guide-1.jpg";
 import Footer from "../components/footer";
 
 const kompositstaketprivate = () => {
   return (
-    <Layout pageTitle="komposit-staket-private">
+    <Layout pageTitle="NOVOFENCE™ – Private™ ">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Komposit Staket Private" crumbTitle="komposit-staket-private" />
-      <section className="blog-details pt-120 pb-40">
+      <PageHeader title="NOVOFENCE™ – Private™ " crumbTitle="NOVOFENCE™ – Private™" />
+      <section className="blog-details pt-40 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>
@@ -49,26 +51,33 @@ const kompositstaketprivate = () => {
                       {/*====================  Star Staket Private Section-1 content ================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>NOVOFENCE ™ Komposit staket – Private™</h2>
-                          <strong>bra grannstaket med stil och styrka – PVC-fri!</strong>
+                          <h2>NOVOFENCE™ Shadowbox Komposit Hegn- Private ™
+                          </h2>
+                          <strong>godt nabohegn med stil og styrke – PVC-fri!
+                          </strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Ett enkelt att bygga utan underhåll, högkvalitativt, anpassat modernt staket som dramatiskt kommer att förbättra skönheten i din egendom och vara avundsjuka för dina grannar.</strong>
+                              <strong>En let at bygge, ingen vedligeholdelse, brugerdefineret moderne hegn af høj kvalitet, der dramatisk forbedrer skønheden i din ejendom og misundes dine naboer.
+
+                              </strong>
                               <p>
-                                Om du letar efter ett högpresterande och vackert integritetsstaket kan den här naturliga designen för integritetsstaket vara för dig. Board-on-board med Not och Spont design och aluminiumstyrka garanterar massor av avskildhet och sinnesfrid för dig. Detta staket skulle se bra ut på nästan alla fastigheter, eftersom det är vackert och annorlunda.
+                                Hvis du leder efter et højtydende og smukt privatlivshegn, kan dette naturligt udseende privatlivsdesign være noget for dig. Board-on-board med tunge og rille design og styrke af aluminium sikrer masser af privatliv og ro i sindet for dig. Dette hegn ser godt ud på næsten enhver ejendom, da det er smukt og anderledes.
+
                               </p>
                               <p>
-                                Private™ ett horisontellt avskärmande staket runt din pool eller annan trädgård skapar en säkrare omkrets för att blockera vandrande ögon och hålla dina barn och husdjur trygga och säkra i på din egendom.
+                                Privat ™ vandret privatlivshegn omkring din pool eller anden baghave skaber en mere sikker omkreds for at blokere vandrende øjne og holde dine børn og lodne venner sikre inde i din ejendom.
+
                               </p>
                               <p>
-                                Private™ Komposit staket är ett toppval bland husägarföreningar i nyare stadsdelar. Det är ett kostnadseffektivt alternativ eftersom det är enkelt att underhålla – ingen målning, färgning eller tätning krävs.
+                                Privat ™ sammensat hegn er det bedste valg blandt boligejerforeninger i nyere kvarterer. Det er en omkostningseffektiv løsning, fordi den er let at vedligeholde – ingen maling, farvning eller forsegling kræves.
+
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Lågt underhåll</strong> –   Med tiden kräver Green Plank staket mindre underhåll och produktersättning än trä eller vinyl.</li>
-                                  <li><strong>Aluminiumstolpar och skenor </strong>–  Högkvalitativ, låg underhållsstark ram av pulverlackerade aluminiumstolpar och horisontella skenor.</li>
+                                  <li><strong>Premium kvalitet</strong> – Bevist nordisk kvalitetsdæk til hårdt vejr og grønnere ophold.</li>
+                                  <li><strong>Lav vedligeholdelse</strong> –   Over tid kræver Green Plank hegn mindre vedligeholdelse og produktudskiftning end træ eller vinyl.</li>
+                                  <li><strong>Aluminiumspæle og skinner  </strong>–   Robust ramme af pulverlakeret aluminiumstolpe og vandrette skinner i høj kvalitet.</li>
                                 </ul>
                               </div>
                             </div>
@@ -91,32 +100,35 @@ const kompositstaketprivate = () => {
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information" >
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> 	Slät borstad yta med trätonade och lyxiga brokiga färger</td>
+                                      <td align="left"><strong>Overflade:</strong></td>
+                                      <td align="left"> Glat børstet med træfarvede og luksuriøse brogede farver
+                                      </td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
-                                      <td align="left">ca. 19 * 158 mm</td>
+                                      <td align="left"><strong>Størrelse:</strong></td>
+                                      <td align="left">ca. 20 * 161.5 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 1.8 m,   3.6 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
-                                      <td align="left">12 brädor (1.8 m långa) används for 1.8 m²</td>
+                                      <td align="left"><strong>Krav:</strong></td>
+                                      <td align="left">12 brædder (1.8 m lange) brugt til 1.8 m²
+                                      </td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 2.66 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Stolpavstånd:</strong></td>
-                                      <td align="left">180 cm c/c för bostadsapplikationer</td>
+                                      <td align="left"><strong>Support span</strong></td>
+                                      <td align="left">180 cm c / c til boliger *
+                                      </td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -133,10 +145,15 @@ const kompositstaketprivate = () => {
                               <div className="row mt-60">
 
                                 <Grid container spacing={3}>
-                                  <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                  <Grid item xs={6} sm={3} lg={4}>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Prøveordre</a>
                                   </Grid>
-                             
+                                  {/* <Grid item xs={6} sm={3} lg={6}>
+                                    <a target="_blank" href="/pdfs/classic-deck-english.pdf" className="thm-btn">Installationsguide</a>
+                                  </Grid>
+                                  <Grid item xs={8} sm={6} lg={8}>
+                                    <a target="_blank" href="/pdfs/classic-deck-english-aluminim-trim.pdf" className="thm-btn" >aluminium installation</a>
+                                  </Grid> */}
                                 </Grid>
                               </div>
                             </div>
@@ -148,7 +165,8 @@ const kompositstaketprivate = () => {
 
                       {/*=============  Star Staket Private Section-3 content  ====================*/}
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>VIS FARVETENDENS – indgroet med naturlig og særpræg
+                        </h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
@@ -191,9 +209,9 @@ const kompositstaketprivate = () => {
 
                       {/*====================  Star Staket Private Section-4 content ==========*/}
                       <div className="col-12 mb-80">
-                        <h2>Staketdelar</h2>
+                        <h2>HÆRDEDELE</h2>
                         <hr />
-                        <p className="mb-40">Green Plank NOVOFENCE™ -Tillbehör för staket i komposit utvidgar dina horisonter ytterligare, så att du kan bygga distinkta och förtjusande funktioner i ditt NOVOFENCE ™ -komposit staket som förbättrar både skönheten och funktionaliteten. Från aluminiumstolpar, stolpehattar, skenor till stolparna, staketfästena etc., här är alla staketet delar du behöver för att slutföra dina NOVOFENCE™ Staket projekt.</p>
+                        <p className="mb-40">Green Plank NOVOFENCE ™ komposit hegn tilbehør udvider din horisont endnu mere, så du kan opbygge særprægede og dejlige funktioner i dit NOVOFENCE ™ komposit hegn, der forbedrer både dets skønhed og funktionalitet. Fra aluminiumspæle, stolpehatte, skinner til stolpe fødder, hegnbeslag osv. Her er alle de hegndele, du har brug for for at gennemføre dit NOVOFENCE ™ hegn-projekt.</p>
 
 
                       </div>
@@ -206,7 +224,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image1} className="img-fluid" alt="" />
+                                  <img src={Image1} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -215,28 +233,28 @@ const kompositstaketprivate = () => {
                                 <ul>
                                   <li>
                                     <strong>1.</strong>
-                                    Aluminium efterbehandlingsprofil
+                                    Efterbehandlingsprofil i aluminium
                                   </li>
                                   <li>
-                                    <strong>2.</strong>Aluminiumstolpe
+                                    <strong>2.</strong>Aluminium hegnsstolpe
                                   </li>
                                   <li>
-                                    <strong>3.</strong>Kompositbräda
+                                    <strong>3.</strong>Komposit privat hegn bord
                                   </li>
                                   <li>
-                                    <strong>4.</strong>Bottenskena i aluminium (T-trim)
+                                    <strong>4.</strong>Aluminium bundskinne (T-trim)
                                   </li>
                                   <li>
-                                    <strong>5.</strong>Toppskena i aluminium (U-trim)
+                                    <strong>5.</strong>Aluminium topskinne (U-trim)
                                   </li>
                                   <li>
-                                    <strong>6.</strong>Basplattor av rostfritt stål
+                                    <strong>6.</strong>Bundplader af metal
                                   </li>
                                   <li>
-                                    <strong>7.</strong>	L-konsoler för att fixa räls med stolpar
+                                    <strong>7.</strong>L-beslag til fastgørelse af skinner med stolper
                                   </li>
                                   <li>
-                                    <strong>8.</strong>Aluminium stolphatt
+                                    <strong>8.</strong>Aluminium stolpehætte
                                   </li>
                                 </ul>
                               </div>
@@ -255,23 +273,23 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Private™ staket stolpe har spår på alla fyra sidor och kan användas för en rak staket eller för hörn och en avtagbar aluminiumlist täcker de spår som du inte använder.
+                                    <strong>Brug:</strong>
+                                    Privat ™ hegnstolpe har åbninger på alle fire sider og kan bruges til en lige hegn eller til hjørner, og en aftagelig aluminiumsstrimmel dækker de slots, du ikke bruger.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 80 * 80 mm
+                                    <strong>Størrelse:</strong>ca. 80 * 80 mm
                                   </li>
                                   <li>
-                                    <strong>Längd:</strong>ca. 2.0 m
+                                    <strong>Længde:</strong>ca. 2.0 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Overflade:</strong> Grå mat finish
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 2.34 kg / m
+                                    <strong>Vægt:</strong>ca. 2.34 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Materiale:</strong>Slidstærkt pulverlakeret aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -279,7 +297,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image2} className="img-fluid" alt="" />
+                                  <img src={Image2} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -295,7 +313,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image3} className="img-fluid" alt="" />
+                                  <img src={Image3} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -303,23 +321,23 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Detta aluminium-staket T-list eller bottenskenan i det privata staketsortimentet är designat för användning med våra vackra komposit staketskivor eller lameller för att hålla dem på plats. Bottenskenan som ska placeras under det första stängslet.
+                                    <strong>Brug:</strong>
+                                    Denne aluminiumshegn T-trim eller bundskinne del af Private fencing ™ -serien er designet til brug med vores smukke sammensatte hegnbrædder eller lameller for at holde dem på plads. Nederste skinne skal placeres under det første hegnbræt.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 20.3 * 23.5
+                                    <strong>Størrelse:</strong>ca. 20.3 * 23.5
                                   </li>
                                   <li>
-                                    <strong>Längd:</strong>ca. 1.76 m
+                                    <strong>Længde:</strong>ca. 1.76 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Overflade:</strong> Grå mat finish
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.38 kg / m
+                                    <strong>Vægt:</strong>ca. 0.38 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Materiale:</strong>Slidstærkt pulverlakeret aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -337,27 +355,23 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Detta aluminium-staket U-List eller Top Rail-delen
-                                    av Novofence ™ private ,Staketsystem är designad för
-                                    användning med vår vackra komposit eller lameller
-                                    för att hålla dem på plats.Toppskenan är installerad
-                                    högst upp på staketet för att ge modern estetik och långvarig styrka.
+                                    <strong>Brug:</strong>
+                                    Dette aluminiums hegnet U-trim eller Top Rail del af Novofence ™ Private hegn serien er designet til brug med vores smukke komposit hegn brædder eller lameller til at holde dem på plads. Topskinnen er installeret øverst på hegnene for at give moderne æstetik og styrke på lang sigt.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 24 * 20.3 mm
+                                    <strong>Størrelse:</strong>ca. 24 * 20.3 mm
                                   </li>
                                   <li>
-                                    <strong>Längd:</strong>ca. 1.76 m
+                                    <strong>Længde:</strong>ca. 1.76 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Overflade:</strong> Grå mat finish
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.42 kg / m
+                                    <strong>Vægt:</strong>ca. 0.42 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Materiale:</strong>Slidstærkt pulverlakeret aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -366,7 +380,7 @@ const kompositstaketprivate = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image4} className="img-fluid" alt="" />
+                                  <img src={Image4} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -382,7 +396,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image5} className="img-fluid" alt="" />
+                                  <img src={Image5} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -390,21 +404,21 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Dekorativ stolphatt för aluminiumstaket
-                                    Press fit design Skyddar stolpen från att skräp tränger in.
+                                    <strong>Brug:</strong>
+                                    Dekorativ stolpehætte til aluminium hegnsstolpe Press fit design
+                                    Beskytter stolpen mod snavs, der kommer ind i den.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 84 * 84 * 10 mm
+                                    <strong>Størrelse:</strong>ca. 84 * 84 * 10 mm
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Overflade:</strong> Grå mat finish
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.38 kg / m
+                                    <strong>Vægt:</strong>ca. 0.38 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Materiale:</strong>Slidstærkt pulverlakeret aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -422,24 +436,23 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Den här efterbehandlingsprofilen passar in i de
-                                    oanvända spåren på staketstolpar för att ge en attraktiv finish.
+                                    <strong>Brug:</strong>
+                                    Denne profil efterbehandlingsprofil passer ind i de ubrugte slots på hegnspæle for at give en attraktiv finish.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 24 * 20.3 mm
+                                    <strong>Størrelse:</strong>ca. 24 * 20.3 mm
                                   </li>
                                   <li>
-                                    <strong>Längd:</strong>ca. 1.76 m
+                                    <strong>Længde:</strong>ca. 1.76 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Overflade:</strong> Grå mat finish
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.42 kg / m
+                                    <strong>Vægt:</strong>ca. 0.42 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Materiale:</strong>Slidstærkt pulverlakeret aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -448,7 +461,7 @@ const kompositstaketprivate = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image6} className="img-fluid" alt="" />
+                                  <img src={Image6} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -465,7 +478,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image7} className="img-fluid" alt="" />
+                                  <img src={Image7} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -473,20 +486,21 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Basplattor av metall finns i två typer, vilket ger säkrare monteringsalternativ för Novofence ™ Private-systemet.Förankringsplattan har ett betonguppsättningsben som ligger under flänsen för att sätta i betong, medan basplattan är fixerad genom fyra borrhål och kan monteras på betong- och träbänk, uteplatser etc.
+                                    <strong>Brug:</strong>
+                                    Metal Post-bundplader fås i to typer, hvilket giver sikre monteringsmuligheder for Novofence ™ private system.Ankerpladen har et betonsættet ben, der er under flangen for at sætte sig i beton, når man hælder fod, mens bundpladen er fastgjort gennem fire bolthuller og kan monteres på beton- og træborde, terrasser osv.
                                   </li>
                                   <li>
-                                    <strong>Storlek 1:</strong>ca. 86*86*400 mm
+                                    <strong>Størrelse 1:</strong>ca. 86*86*400 mm
                                   </li>
                                   <li>
-                                    <strong>Storlek 2:</strong>ca. 86*86*700 mm
+                                    <strong>Størrelse 2:</strong>ca. 86*86*700 mm
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 1.70 kg / st,   ca. 2.70 kg / st
+                                    <strong>Vægt:</strong>ca. 1.70 kg / st,   ca. 2.70 kg / st
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackat rostfritt stål
+                                    <strong>Materiale:</strong>Slidstærkt pulverlakeret rustfrit stål
+
                                   </li>
                                 </ul>
                               </div>
@@ -503,33 +517,33 @@ const kompositstaketprivate = () => {
                           <div className="row">
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h2 className="mb-40 mt-20"><strong>produkt information</strong></h2>
+                                <h3>Farvevalg</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                  Studiefotografering og / eller din browserenhed giver muligvis ikke en nøjagtig gengivelse af farverne. For at se farverne personligt, bedes du anmode om gratis prøver.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Naturlige skønhed</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                  Vores produkter er designet til at ligne naturligt træ og kan have svag farve / struktur og skygge variationer fra plade til plade. Farvevariationen vil på ingen måde påvirke produktets ydeevne.</p>
+                                <h3>Oprethold skønheden</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alle udvendige overflader opsamler snavs, støv og forurenende stoffer og skal rengøres. Det er nødvendigt at rengøre dit kompositdæk med jævne mellemrum for at holde det så smukt som den dag, du installerede det.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>PÅLIDET BÆREDYGTIGHED, OVERLIGE KVALITET</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Verkligt fullständigt integritetsstaket med rika naturliga färger</li>
-                                  <li><strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som gör att du känner dig stolt över att välja ett hållbart och hållbart material för ditt projekt.</li>
-                                  <li><strong>3. </strong>Board-on-board-stil ger estetisk appell</li>
-                                  <li><strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>6. </strong>Grannvänlig design populär för delade linjer</li>
-                                  <li><strong>7. </strong>Extremt låg vattenabsorption</li>
-                                  <li><strong>8. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>9. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.</li>
-                                  <li><strong>10. </strong>Lämplig för offentlig och privat sektor</li>
+                                  <li><strong>1. </strong>Karakteristisk indlægsdesign, stil og farveindstillinger</li>
+                                  <li><strong>2. </strong>Der kræves ingen årlig farvning, forsegling eller maling</li>
+                                  <li><strong>3. </strong>Beklædning til ventilerede facader</li>
+                                  <li><strong>4. </strong>Enestående modstandsdygtighed over for UV-lys</li>
+                                  <li><strong>5. </strong>Bruges til nye eller udskiftning af facadebeklædningsprojekter</li>
+                                  <li><strong>6. </strong>Ingen fastgørelsesklip kræves</li>
+                                  <li><strong>7. </strong>Fri for giftige tilsætningsstoffer</li>
+                                  <li><strong>8. </strong>Velegnet til offentlig og privat sektor</li>
+                                  <li><strong>9. </strong>Op til 60% hurtigere installation</li>
+                                  <li><strong>10. </strong>Kan installeres lodret eller vandret</li>
                                 </ul>
                               </div>
                             </div>
@@ -540,9 +554,10 @@ const kompositstaketprivate = () => {
 
                       {/*====================  Star Staket Private Section-6 content ================*/}
                       <div className="col-12 mb-80">
+
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/2IPWj7OjYCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/YswcUeBvhg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
                             <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -554,27 +569,41 @@ const kompositstaketprivate = () => {
                       {/*====================  End of Star Staket Private Section-6 content  ========*/}
 
                       {/*====================  Star Staket Private Section-7 content  ============*/}
-                      <div className="col-12 mb-30 section-space--top--40" >
+                      <div className="col-12 mb-30 mt-20" >
                         <h3>
-                          Ladda ner Pdfs</h3>
+                          Download Pdfs
+                        </h3>
                         <hr />
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/greenplank-natural-fibers-compsoite-products-brochure-2020-english.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                          
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/NovofencePrivate™/Green-Plank-Private-Installeringsanvisning.pdf">
-                              <img src={pdfimg3} className="img-fluid" alt="" />
+                            <a target="_blank" href="/pdfs/green-plank-privacy-fence-installation-guide-2019-1.pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                       
+                          {/* <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019%20(2).pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
+                            </a>
+                          </Grid>
+                          <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/classic-deck-english-aluminim-trim.pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
+                            </a>
+                          </Grid>
+                          <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/greenplank-datasheet-classic-composite-decking-en.pdf">
+                              <img src={pdfimg5} className="img-fluid" alt="" />
+                            </a>
+                          </Grid>
                           <Grid item xs={6} sm={2}>
 
-                          </Grid>
+                          </Grid> */}
 
                         </Grid>
                       </div>

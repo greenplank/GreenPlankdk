@@ -22,7 +22,7 @@ const BlogCard = ({ image, title, date, text, link }) => {
           <p>{text}</p>
           <Link href={link}>
             <a className="blog-card__more">
-              <i className="far fa-angle-right"></i>Läs mer
+              <i className="far fa-angle-right"></i>Læs mere
             </a>
           </Link>
         </div>

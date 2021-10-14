@@ -20,15 +20,16 @@ import pdfimg2 from "../assets/images/projects/pic.png";
 import pdfimg3 from "../assets/images/projects/pic1.png";
 import pdfimg4 from "../assets/images/projects/swedish.png";
 import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
+import pdfimg6 from "../assets/images/projects/greenplank-composite-decking-installation-guide-1.jpg";
 
 import Footer from "../components/footer";
 
 const marinecapkomposittrall = () => {
   return (
-    <Layout pageTitle="marine-cap-komposittrall">
+    <Layout pageTitle="marine-cap-terrassebrædder">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="marine-cap-komposittrall" crumbTitle="marine-cap-komposittrall" />
+      <PageHeader title="Marine Cap terrassebrædder" crumbTitle="marine-cap-terrassebrædder" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -42,21 +43,21 @@ const marinecapkomposittrall = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>MARINE CAP™ Komposittrall</h2>
-                          <strong>Okvalitet är vår högsta prioritet</strong>
+                          <h2>MARINE CAP™ terrassebrædder</h2>
+                          <strong>kvalitet er vores højeste prioritet</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>MARINE CAP™ inkapslade komposittrall står ovanför konkurrensen tack vare sin revolutionerande extruderingsprocess. Den samutpressade komposittekniken är inte bara fantastiskt realistisk utan håller också upp i några av de hårdaste klimat runt om i världen.</strong>
+                              <strong>MARINE CAP ™ naturlige fiberdækkede kompositplader ligger over konkurrencen takket være sin revolutionerende ekstruderingsproces. Den coekstruderede kompositteknologi er ikke kun forbløffende realistisk, men holder også op i nogle af de hårdeste klimaer rundt om i verden.</strong>
                               <p>
-                                Green Plank MARINE CAP™ -Komposittrall med skyddande polymerlager är ingen vanlig Komposittrall. Den revolutionerande 360-graders tekniken skyddar mot mögel, fukt och leriga skor. Dessa toppmoderna co-extruderade kompositskivor är rep-, fläck- och varpbeständiga, vilket innebär att det orörda tillståndet i ditt lilla paradis bevaras.
-                                Djup trägravprägling för förbättrade glidbeständiga ytor möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på barfota.
+                                Green Plank MARINE CAP ™ overdækket bord er ikke et almindeligt terrassebord. Den revolutionerende 360 ​​° capping-teknologi beskytter mod skimmelsvamp, fugt og mudrede vandrestøvler. Disse moderne co-ekstruderede kompositplader er ridsefaste, plette- og kædebestandige, hvilket betyder, at den uberørte tilstand af dit lille stykke paradis bevares.<br />
+                                Dyb trækornprægning til forbedrede skridsikre overflader muliggør god trækkraft i våde områder som f.eks. Omkring bassiner, de er sikre at gå på med bare fødder.
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Enhetlighet</strong> – HidLoc™ dolda fästelement säkerställer en slät och enhetlig yta som är säker att gå på.</li>
-                                  <li><strong>Komplimerande tillbehör </strong>– Slutför din design av drömdäck på uteplatsen med våra täckbrädor – den perfekta matchen för ditt högpresterande MARINE CAP ™- Komposittrall.</li>
+                                  <li><strong>Premium kvalitet</strong> – Bevist nordisk kvalitetsdæk til hårdt vejr og grønnere ophold.</li>
+                                  <li><strong>Ensartethed</strong> – HidLoc ™ skjulte dækfastgørelser sikrer en glat og ensartet overflade, der er sikker at gå på.</li>
+                                  <li><strong>Gratis tilbehør </strong>– Komplet dine drømmende terrassedækdesign med vores fascia-trim og betræk – det perfekte match til din højtydende MARINE CAP ™ pyntede.</li>
                                 </ul>
                               </div>
                             </div>
@@ -79,32 +80,32 @@ const marinecapkomposittrall = () => {
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left">Halkmotståndig, Träimpregnering, Inkapslad</td>
+                                      <td align="left"><strong>Overflade:</strong></td>
+                                      <td align="left">Skridsikker dyb trækorn med en plan finish på bagsiden, eksotiske tretoner; vendbare brædder</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Størrelse:</strong></td>
                                       <td align="left">ca. 19.5 * 140 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 4.8 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
-                                      <td align="left">ca. 7.00 meter för 1 m²</td>
+                                      <td align="left"><strong>Krav:</strong></td>
+                                      <td align="left">ca. 7.00 meter til 1 m²</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 3.50 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">40 cm c/c för bostadsapplikationer</td>
+                                      <td align="left"><strong>Bjælkespændvidde:</strong></td>
+                                      <td align="left">40 cm c / c til boliger *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -122,13 +123,13 @@ const marinecapkomposittrall = () => {
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={4}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Prøveordre</a>
                                   </Grid>
-                                  {/* <Grid item xs={6} sm={3}>
-                                                        <a target="_blank" href={`${process.env.PUBLIC_URL}/assets/pdfs/smart-classic-deck-swedish.pdf`} className="thm-btn"  >installationsguide</a>
-                                                        </Grid> */}
-                                  <Grid item xs={8} sm={6} lg={6}>
-                                    <a target="_blank" href="/pdfs/MarineCap/marine-capped-swedish-with-aluminum.pdf" className="thm-btn" >installation av aluminium</a>
+                                  {/* <Grid item xs={6} sm={3} lg={6}>
+                                    <a target="_blank" href="/pdfs/smart-Capped-English.pdf" className="thm-btn"  >Installationsguide</a>
+                                  </Grid> */}
+                                  <Grid item xs={8} sm={6} lg={8}>
+                                    <a target="_blank" href="/pdfs/marine-capped-english-with-aluminuum-trims.pdf" className="thm-btn" >aluminium installation</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -142,7 +143,7 @@ const marinecapkomposittrall = () => {
                       {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>VIS FARVETENDENS – indgroet med naturlig og særpræg</h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
@@ -163,37 +164,39 @@ const marinecapkomposittrall = () => {
                       {/*====================  End of Smart Classic Section-3 content  ====================*/}
 
                       {/*====================  Star Smart Classic Section-4 content ====================*/}
+                      {/*====================  Star Smart Classic Section-4 content ====================*/}
                       <div className="col-lg-12 mb-80">
                         <div className="project-gallery-wrapper">
                           <div className="row">
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h2 className="mb-40 mt-20"><strong>produkt information</strong></h2>
+                                <h3>Farvevalg</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                  Studiefotografering og / eller din browserenhed giver muligvis ikke en nøjagtig gengivelse af farverne. For at se farverne personligt, bedes du anmode om gratis prøver.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Naturlige skønhed</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                  Vores produkter er designet til at ligne naturligt træ og kan have svag farve / struktur og skygge variationer fra plade til plade. Farvevariationen vil på ingen måde påvirke produktets ydeevne.</p>
+                                <h3>Oprethold skønheden</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alle udvendige overflader opsamler snavs, støv og forurenende stoffer og skal rengøres. Det er nødvendigt at rengøre dit kompositdæk med jævne mellemrum for at holde det så smukt som den dag, du installerede det.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>Pålidelig holdbarhed, overlegen kvalitet</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Installerad med HidLoc™ dolda fästelement för att skapa enhetlig yta, vilket gör det säkrare och mer bekvämt för familjer med barn och husdjur.</li>
-                                  <li><strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som inbjuder dig att koppla av och njuta av ditt personliga tropiska paradis.</li>
-                                  <li><strong>3. </strong>Utmärkande inlay design, stil och färgalternativ</li>
-                                  <li><strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>6. </strong>Hög glidmotstånd ger en säker yta, även i våta förhållanden</li>
-                                  <li><strong>7. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.</li>
-                                  <li><strong>8. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>9. </strong>Lämplig för privat sektor</li>
+                                  <li><strong>1. </strong>Installeret med HidLoc ™ skjulte fastgørelseselementer for at skabe ensartet overflade, hvilket gør det mere sikkert og behageligt for familier med børn og kæledyr.</li>
+                                  <li><strong>2. </strong>Flerfarvede striber på hvert bræt skaber et autentisk kornmønster, der inviterer dig til at slappe af og nyde dit personlige tropiske paradis.</li>
+                                  <li><strong>3. </strong>Karakteristisk indlægsdesign, stil og farveindstillinger</li>
+                                  <li><strong>4. </strong>Der kræves ingen årlig farvning, forsegling eller maling</li>
+                                  <li><strong>5. </strong>Ekstraordinær modstandsdygtighed over for UV-lys og farvetone</li>
+                                  <li><strong>6. </strong>Høj skridsikkerhed giver en sikker overflade, selv i våd tilstand</li>
+                                  <li><strong>7. </strong>Ekstremt lav vandabsorption</li>
+                                  <li><strong>8. </strong>Fri for giftige tilsætningsstoffer</li>
+                                  <li><strong>9. </strong>Velegnet til offentlig og privat sektor</li>
+                                  <li><strong>10. </strong>Splinter ikke, splittes, rådner eller kriger</li>
                                 </ul>
                               </div>
                             </div>
@@ -204,47 +207,54 @@ const marinecapkomposittrall = () => {
 
                       {/*====================  Star Smart Classic Section-5 content ====================*/}
                       <div className="col-12 mb-80">
-                        <h3>TILLBEHÖR</h3>
-                        <hr />
-                        <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
-
+                        
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/SO9_1Pm42Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/sYQVb4_tHoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/oSyrH7w1qA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
+                          <iframe width="360" height="315" src="https://www.youtube.com/embed/64fzJKs0DSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                         </Grid>
                       </div>
                       {/*====================  End of Star Smart Classic Section-5 content  ===============*/}
 
-                      {/*====================  Star Smart Classic Section-6 content  ====================*/}
-                      <div className="col-12 mb-30 mt-80" >
+                     {/*====================  Star Smart Classic Section-6 content  ====================*/}
+                     <div className="col-12 mb-30 mt-20" >
                         <h3>
-                          Ladda ner Pdfs</h3>
+                          Download Pdfs
+                        </h3>
                         <hr />
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/greenplank-natural-fibers-compsoite-products-brochure-2020-english.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                         
+                          {/* <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/smart-Capped-English.pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
+                            </a>
+                          </Grid> */}
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf">
-                              <img src={pdfimg3} className="img-fluid" alt="" />
+                            <a target="_blank" href="/pdfs/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019%20(1).pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/MarineCap/marine-capped-swedish-with-aluminum.pdf">
-                              <img src={pdfimg4} className="img-fluid" alt="" />
+                            <a target="_blank" href="/pdfs/marine-capped-english-with-aluminuum-trims.pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                       
+                          <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/greenplank-datasheet-marinecap-composite-decking-en.pdf">
+                              <img src={pdfimg5} className="img-fluid" alt="" />
+                            </a>
+                          </Grid>
                           <Grid item xs={6} sm={2}>
 
                           </Grid>

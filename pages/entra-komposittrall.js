@@ -19,14 +19,17 @@ import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
 import pdfimg2 from "../assets/images/projects/pic.png";
 import pdfimg3 from "../assets/images/projects/pic1.png";
 import pdfimg4 from "../assets/images/projects/swedish.png";
+import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
+import pdfimg6 from "../assets/images/projects/greenplank-composite-decking-installation-guide-1.jpg";
 import Footer from "../components/footer";
+
 
 const entraKomposittrall = () => {
     return (
-        <Layout pageTitle="entra-komposittrall">
+        <Layout pageTitle="entra-terrassebrædder">
             <HeaderTwo />
             <StickyHeader />
-            <PageHeader title="Entra-komposittrall" crumbTitle="entra-komposittrall" />
+            <PageHeader title="Entra-terrassebrædder" crumbTitle="entra-terrassebrædder" />
             <section className="blog-details pt-120 pb-40">
                 <Container>
                     <Row>
@@ -40,21 +43,24 @@ const entraKomposittrall = () => {
                                             {/*====================  Star Smart Classic Section-1 content ====================*/}
                                             <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                 <div className="project-details">
-                                                    <h2>ENTRA™ Komposittrall</h2>
-                                                    <strong>exceptionellt hög prestanda och kvalitet – PVC-fri!</strong>
+                                                    <h2>ENTRA ™ Massiv kompositplade af høj kvalitet med tunge og rille</h2>
+                                                    <strong>usædvanlig høj ydeevne og kvalitet – PVC-fri!
+                                                    </strong>
                                                     <div class="et_pb_text_inner">
                                                         <div class="ce_text block">
 
-                                                            <strong>Inspirerad av naturen och designad med ett syfte … färg, struktur, beuaty & prestanda, hittar du ENTRA™ -däckgolv är vackert realistiska och mycket praktiska med en tidlös kvalitet.</strong>
-                                                            <p>Green Plank ENTRA™ Komposittrall av naturfiber är en av våra högkvalitativa komposittrall med Not och Spont system som är enkel att använda med fantastiska resultat. Det ger en visuellt stängd terrassyta som fortfarande inte tillåter ogräs att växa upp eller detaljer falla ner genom golvet. ENTRA™ -kompositbrädor fångar värmen och skönheten i naturliga och exotiska lövträ.</p>
-                                                            <p> Med Not och Spont teknologi och ett osynligt installationssystem ger våra ENTRA™ – trall en fästelös yta som möjliggör året runt komfort för dina bara fötter och dina husdjurs tassar. Den osynliga installationen säkerställer jämnt fogavstånd för att hjälpa dränering av ytvatten.</p>
-                                                            <p>Hög glidbeständig, fin, ribbad yta i europeisk stil bildar ett jämnt mönster och möjliggör bra dragkraft i våta områden som runt pooler, de är säkra att gå på med bara fötter.</p>
-                                                            <p>Precis som äkta träskivor, kan vårt ENTRA™ -kompositbrädor slipas eller sågas till vilken önskad form som helst utan att tappa täckbrädans äkta träeffekt.</p>
+                                                            <strong>Inspireret af naturen og designet med et formål … farve, konsistens, beuaty og ydeevne, finder du ENTRA ™ -plankegulve er smukt realistiske og yderst praktiske med en tidløs kvalitet.</strong>
+                                                            <p>Green Plank ENTRA ™ kompositplanker af naturlige fibre er en af ​​vores kompositplader af høj kvalitet med tunge og rille-system, som er nem at bruge med gode resultater. Det giver en visuelt lukket terrasseoverflade, der stadig ikke tillader, at ukrudt vokser op, eller at detaljer falder ned gennem gulvet. ENTRA ™ kompositplade fanger varmen og skønheden i naturlige og eksotiske hårdttræer.
+                                                            </p>
+                                                            <p>Med tunge og rille-teknologi og et usynligt installationsklemme giver vores ENTRA ™ -kort en fastgørelsesfri overflade, der giver komfort året rundt for dine bare fødder og dit kæledyrs poter. Usynligt klips sikrer jævn afstand mellem fugerne for at rumme dræning af overfladevand. Høj skridsikker europæisk, fin ribbet overflade danner et jævnt mønster og giver god trækkraft i våde områder som fx omkring bassiner, de er sikre at gå på med bare fødder.
+                                                            </p>
+                                                            <p>Ligesom ægte træplader kan vores ENTRA ™ kompositplanker slibes eller saves til en hvilken som helst ønsket form uden at miste pyntebrættets ægte træeffekt.
+                                                            </p>
                                                             <div>
 
-                                                                <strong>Premiumkvalitet</strong> –  Beprövad nordisk kvalitet för hårt väder och grönare levande.<br />
-                                                                <strong>Enhetlighet </strong>– Vår komposit Not och Spont trall ger mycket enhetliga och släta ytor.<br />
-                                                                <strong>Komplimerande tillbehör</strong> – Komplett ditt dröm patio-trall design med våra Komposittäckbrädor – den perfekta matchen för din högpresterande ENTRA™ komposittrall.<br />
+                                                                <strong>Premium kvalitet </strong> –  Bevist nordisk kvalitetsdæk til hårdt vejr og grønnere ophold.<br />
+                                                                <strong>Ensartethed </strong>– HidLoc ™ skjulte dækfastgørelser sikrer en glat og ensartet overflade, der er sikker at gå på.<br />
+                                                                <strong>Gratis tilbehør</strong> – Komplet dine drømmende terrassedækdesign med vores fascia-trim og betræk – det perfekte match til din højtydende ENTRA ™ sammensat terrassebord.<br />
 
 
                                                             </div>
@@ -77,33 +83,34 @@ const entraKomposittrall = () => {
                                                         </div>
                                                         <div className="col-md-6 col-mobile-6 mb-20">
                                                             <div className="project-information">
-                                                                <h3>Produktinformation</h3>
+                                                                <h3>Produkt information</h3>
                                                                 <table width="100%">
                                                                     <tbody>
                                                                         <tr>
-                                                                            <td align="left"><strong>Yta:</strong></td>
-                                                                            <td align="left">Glidmotståndig räfflad yta på ena sidan och en
-                                                                                plan yta på den andra. Med en exotisk färgnyans.</td>
+                                                                            <td align="left"><strong>Overflade:</strong></td>
+                                                                            <td align="left">Skridsikker dyb ribbet med en plan finish på bagsiden, eksotiske tretoner; vendbare brædder
+                                                                            </td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Storlek:</strong></td>
+                                                                            <td align="left"><strong>Størrelse:</strong></td>
                                                                             <td align="left">ca. 23 * 150 mm</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Längd:</strong></td>
+                                                                            <td align="left"><strong>Længde:</strong></td>
                                                                             <td align="left">ca. 3 m,  4 m,  5 m</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Åtgång:</strong></td>
-                                                                            <td align="left">ca. 6.50 meter för 1 m²</td>
+                                                                            <td align="left"><strong>Krav:</strong></td>
+                                                                            <td align="left">ca. 6.40 meter til 1 m²</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Vikt:</strong></td>
+                                                                            <td align="left"><strong>Vægt:</strong></td>
                                                                             <td align="left">ca. 4.00 kg / m</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Regelavstånd:</strong></td>
-                                                                            <td align="left">50 cm c/c för bostadsapplikationer</td>
+                                                                            <td align="left"><strong>Bjælkespændvidde:</strong></td>
+                                                                            <td align="left">50 cm c / c til boliger *
+                                                                            </td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>
@@ -120,15 +127,15 @@ const entraKomposittrall = () => {
                                                             <div className="row mt-60">
 
                                                                 <Grid container spacing={3}>
-                                                                    <Grid item xs={6} sm={3} lg={6}>
-                                                                        <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                                                    <Grid item xs={6} sm={3} lg={4}>
+                                                                        <a target="_blank" href="/bestall-prov" className="thm-btn" >Prøveordre</a>
                                                                     </Grid>
-                                                                    {/* <Grid item xs={6} sm={3}>
-                                                        <a href={`${process.env.PUBLIC_URL}/assets/pdfs/smart-classic-deck-swedish.pdf`} className="ht-btn ht-btn--round"  >installationsguide</a>
-                                                        </Grid>
-                                                        <Grid item xs={8} sm={6}>
-                                                        <a href={`${process.env.PUBLIC_URL}/assets/pdfs/smart-classic-deck-swedish (1).pdf`} className="ht-btn ht-btn--round" >installation av aluminium</a>
-                                                        </Grid> */}
+                                                                    <Grid item xs={6} sm={3} lg={6}>
+                                                                        <a target="_blank" href="/pdfs/greenplank-entra-composite-decking-brochure-en.pdf" className="thm-btn">Installationsguide</a>
+                                                                    </Grid>
+                                                                    {/* <Grid item xs={8} sm={6} lg={8}>
+                                                                        <a target="_blank" href="/pdfs/marine-jumbo-english-with-aluminum-trims.pdf" className="thm-btn" >aluminium installation</a>
+                                                                    </Grid> */}
                                                                 </Grid>
                                                             </div>
                                                         </div>
@@ -141,7 +148,8 @@ const entraKomposittrall = () => {
                                             {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                                             <div className="col-12 mb-80">
-                                                <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                                                <h3>VIS FARVETENDENS – indgroet med naturlig og særpræg
+                                                </h3>
                                                 <hr />
                                                 <Grid container spacing={3}>
                                                     <Grid item xs={6} sm={2}>
@@ -181,33 +189,34 @@ const entraKomposittrall = () => {
                                                     <div className="row">
                                                         <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                             <div className="project-details">
-                                                                <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                                                <h3>Färgval</h3>
+                                                                <h2 className="mb-40 mt-20"><strong>produkt information</strong></h2>
+                                                                <h3>Farvevalg</h3>
                                                                 <p>
-                                                                    Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                                                    Studiefotografering og / eller din browserenhed giver muligvis ikke en nøjagtig gengivelse af farverne. For at se farverne personligt, bedes du anmode om gratis prøver.
                                                                 </p>
-                                                                <h3>Naturlig skönhet</h3>
+                                                                <h3>Naturlige skønhed</h3>
                                                                 <p>
-                                                                    Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                                                <h3>Behåll skönheten</h3>
+                                                                    Vores produkter er designet til at ligne naturligt træ og kan have svag farve / struktur og skygge variationer fra plade til plade. Farvevariationen vil på ingen måde påvirke produktets ydeevne.</p>
+                                                                <h3>Oprethold skønheden</h3>
                                                                 <p>
-                                                                    Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                                                    Alle udvendige overflader opsamler snavs, støv og forurenende stoffer og skal rengøres. Det er nødvendigt at rengøre dit kompositdæk med jævne mellemrum for at holde det så smukt som den dag, du installerede det.</p>
                                                             </div>
                                                         </div>
                                                         <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                             <div className="project-details">
-                                                                <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
-                                                                
-                                                                    <strong>1. </strong>Installerad med HidLoc™ dolda fästelement för att skapa enhetlig yta, vilket gör det säkrare och mer bekvämt för familjer med barn och husdjur.<br/>
-                                                                    <strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som inbjuder dig att koppla av och njuta av ditt personliga tropiska paradis.<br/>
-                                                                    <strong>3. </strong>Utmärkande inlay design, stil och färgalternativ<br/>
-                                                                    <strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs<br/>
-                                                                    <strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger<br/>
-                                                                    <strong>6. </strong>Hög glidmotstånd ger en säker yta, även i våta förhållanden<br/>
-                                                                    <strong>7. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.<br/>
-                                                                    <strong>8. </strong>Fri från giftiga tillsatser<br/>
-                                                                    <strong>9. </strong>Lämplig för privat sektor<br/>
-                                                                
+                                                                <h2 className="mb-40 mt-20"><strong>Pålidelig holdbarhed, overlegen kvalitet</strong></h2>
+                                                                <ul>
+                                                                    <li><strong>1. </strong>Installeret med HidLoc ™ skjulte fastgørelseselementer for at skabe ensartet overflade, hvilket gør det mere sikkert og behageligt for familier med børn og kæledyr.</li>
+                                                                    <li><strong>2. </strong>Flerfarvede striber på hvert bræt skaber et autentisk kornmønster, der inviterer dig til at slappe af og nyde dit personlige tropiske paradis.</li>
+                                                                    <li><strong>3. </strong>Karakteristisk indlægsdesign, stil og farveindstillinger</li>
+                                                                    <li><strong>4. </strong>Der kræves ingen årlig farvning, forsegling eller maling</li>
+                                                                    <li><strong>5. </strong>Ekstraordinær modstandsdygtighed over for UV-lys og farvetone</li>
+                                                                    <li><strong>6. </strong>Høj skridsikkerhed giver en sikker overflade, selv i våd tilstand</li>
+                                                                    <li><strong>7. </strong>Ekstremt lav vandabsorption</li>
+                                                                    <li><strong>8. </strong>Fri for giftige tilsætningsstoffer</li>
+                                                                    <li><strong>9. </strong>Velegnet til offentlig og privat sektor</li>
+                                                                    <li><strong>10. </strong>Splinter ikke, splittes, rådner eller kriger</li>
+                                                                </ul>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -217,56 +226,54 @@ const entraKomposittrall = () => {
 
                                             {/*====================  Star Smart Classic Section-5 content ====================*/}
                                             <div className="col-12 mb-80">
-                                                <h3>TILLBEHÖR</h3>
-                                                <hr />
-                                                <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
 
-                                                <Grid container spacing={3} style={{marginTop:"4em"}}>
+                                                <Grid container spacing={3}>
                                                     <Grid item xs={12} sm={4}>
-                                                        <iframe width="360" height="315" src="https://www.youtube.com/embed/SO9_1Pm42Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                        <iframe width="360" height="315" src="https://www.youtube.com/embed/sYQVb4_tHoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                     </Grid>
                                                     <Grid item xs={12} sm={4}>
-                                                        <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                        <iframe width="360" height="315" src="https://www.youtube.com/embed/oSyrH7w1qA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                     </Grid>
                                                     <Grid item xs={12} sm={4}>
-                                                        <iframe width="360" height="315" src="https://www.youtube.com/embed/JsJv1k0dTco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                        <iframe width="360" height="315" src="https://www.youtube.com/embed/64fzJKs0DSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                     </Grid>
                                                 </Grid>
                                             </div>
                                             {/*====================  End of Star Smart Classic Section-5 content  ===============*/}
 
                                             {/*====================  Star Smart Classic Section-6 content  ====================*/}
-                                            <div className="col-12 mb-30 mt-80" >
+                                            <div className="col-12 mb-30 mt-20" >
                                                 <h3>
-                                                    Ladda ner Pdfs</h3>
+                                                    Download Pdfs
+                                                </h3>
                                                 <hr />
 
                                                 <Grid container spacing={3}>
                                                     <Grid item xs={6} sm={2}>
-                                                        <a target="_blank" href="/pdfs/Broschyr-SV.pdf">
+                                                        <a target="_blank" href="/pdfs/greenplank-natural-fibers-compsoite-products-brochure-2020-english.pdf">
                                                             <img src={pdfimg1} className="img-fluid" alt="" />
                                                         </a>
                                                     </Grid>
                                                     {/* <Grid item xs={6} sm={2}>
-                                            <a href="assets/pdfs/smart-classic-deck-swedish.pdf">
-                                                <img src="assets/img/projects/pic.png" className="img-fluid" alt="" />
-                                            </a>
-                                        </Grid> */}
+                            <a target="_blank" href="/pdfs/smart-Capped-English.pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
+                            </a>
+                          </Grid> */}
                                                     <Grid item xs={6} sm={2}>
-                                                        <a target="_blank" href="/pdfs/Green-Plank-Entra-Decking-System-Installation-Guide-2019.pdf">
-                                                            <img src={pdfimg3} className="img-fluid" alt="" />
+                                                        <a target="_blank" href="/pdfs/greenplank-entra-composite-decking-brochure-en.pdf">
+                                                            <img src={pdfimg6} className="img-fluid" alt="" />
                                                         </a>
                                                     </Grid>
                                                     {/* <Grid item xs={6} sm={2}>
-                                            <a href="assets/pdfs/smart-classic-deck-swedish (1).pdf">
-                                                <img src="assets/img/projects/swedish.png" className="img-fluid" alt="" />
-                                            </a>
-                                        </Grid>
-                                        <Grid item xs={6} sm={2}>
-                                            <a href="assets/pdfs/Datablad-Smart-Decking.pdf">
-                                                <img src="assets/img/projects/greenplank-tds-composite-technical-data-sheet-1.jpg" className="img-fluid" alt="" />
-                                            </a>
-                                        </Grid> */}
+                                                        <a target="_blank" href="/pdfs/marine-jumbo-english-with-aluminum-trims.pdf">
+                                                            <img src={pdfimg6} className="img-fluid" alt="" />
+                                                        </a>
+                                                    </Grid> */}
+                                                    <Grid item xs={6} sm={2}>
+                                                        <a target="_blank" href="/pdfs/greenplank-datasheet-entra-composite-decking-en.pdf">
+                                                            <img src={pdfimg5} className="img-fluid" alt="" />
+                                                        </a>
+                                                    </Grid>
                                                     <Grid item xs={6} sm={2}>
 
                                                     </Grid>

@@ -7,94 +7,147 @@ const Bastpoolen = () => {
             <Container>
                 <Row style={{ marginBottom: "4em" }}>
                     <Col lg={12}>
-                        <h2>Letar du efter det exklusiva terrassmaterialet som är bäst för Pool of your Dreams?
-                            Då ja Du är på rätt ställe att besöka!</h2>
+                        <h2>Leder du efter det eksklusive terrassemateriale, der er bedst til Pool of your Dreams?
+                            Så ja Du er det rigtige sted at besøge!</h2>
                         <div className="mb-30">
-                            <p>För här på Green Plank erbjuder vi ett brett utbud av moderna, trendiga, slitstarka trallmaterial med garanterad kvalitet.</p>
-                            <h3 className="mb-30 mt-10">Komposit trall</h3>
-                            <p className="mb-30 mt-10">Komposittrall kan vara till hjälp för ägare och småbåtshamnar, försöker hitta en procentandel underhållsfria däck. Kompositbeläggningar är vanligtvis blekbeständiga och behöver inte fläckas eller vattentätas under hela sin period.</p>
-                            <p className="mb-30 mt-10">Här på Green Planks erbjuder vi beläggningar av högsta kvalitet som nämns nedan</p>
-                                <strong>1. </strong>Smart trall
-                               <strong>2. </strong>Marine trall<br/>
-                               <strong>3. </strong>Entra trall<br/>
-                               <strong>4. </strong>Klassisk trall
-                            <h3 className="mb-30 mt-10">Varför Green Planks Smart trall är bäst för din pool?</h3>
-                            <p className="mb-30 mt-10">Det är klokt att ha smart däck i dina pooler och hem eftersom det är en slitstark design. Vi erbjuder mångfald i vår produktlinje för smarta terrasser.
-                                Dessa nämns också nedan.</p>
-                          
-                                <strong>1. </strong>Smart klassisk<br/>
-                                <strong>2. </strong>Smart Regular<br/>
-                                <strong>3. </strong>Smart Prime<br/>
-                                <strong>4. </strong>Smart Marine<br/>
-                                <strong>5. </strong>Smart Plus<br/>
-                                <strong>6. </strong>Smart keps<br/>
-                            
-                            <h3 className="mb-30 mt-10">Framtiden för Green Planks Smart trall</h3>
-                            <p className="mb-30 mt-10">Vi erbjuder garanterad kvalitet på smart trall</p>
-                            
-                               <strong>1. </strong>Det är enkelt att installera<br/>
-                               <strong>2. </strong>Det är vindbeständigt<br/>
-                               <strong>3. </strong>UV-beständig<br/>
-                               <strong>4. </strong>Formbeständig<br/>
-                               <strong>5. </strong>Återvinningsbar<br/>
-                               <strong>6. </strong>Variabel i höjder<br/>
-                               <strong>7. </strong>Det motstår också blekning<br/>
-                            
-                            <h3 className="mb-30 mt-10">Green Planks Exklusivt Marine komposittrall</h3>
-                            <p className="mb-30 mt-10">Vårt Marine terrassbeläggning är bäst för poolen med de utmärkande utmaningarna att utsättas för väder eller vatten, vind och sol, samtidigt som vi är ivriga att upprätthålla inneboende strukturell integritet och vara estetiskt tilltalande. Vårt marina däck är noggrant utformat och placeras i detta trall kommer att ombygga en av dörrarna i ett modernt utrymme för att äta, koppla av eller för de unga att leka.</p>
-                            <p className="mb-30 mt-10">Vi har vidare en mängd olika produkter av vårt Exclusive Marine- komposittrall som är bäst för poolen</p>
-                            
-                                <strong>1. </strong>Green Plank Marine-60 däck<br/>
-                                <strong>2. </strong>Green Plank Marine-40 trall<br/>
-                                <strong>3. </strong>Green Plank Marine-Jumbo kraftig terrass<br/>
-                                <strong>4. </strong>Green Plank Marine-Cap trall<br/>
-                                <strong>5. </strong>Green Plank Marine-Art trall<br/>
-                           
-                            <h3 className="mb-30 mt-10">Varför är vår Marine trall det bästa valet för din pool?</h3>
-                            
-                                <strong>1. </strong>Låg potential<br/>
-                                <strong>2. </strong>Garanti<br/>
-                                <strong>3. </strong>Tillväxt av växter<br/>
-                                <strong>4. </strong>Underhåll<br/>
-                                <strong>5. </strong>Barfota vänlig<br/>
-                                <strong>6. </strong>Ombyggnad<br/>
-                            
-                            <h3 className="mb-30 mt-10">De bästa funktionerna i vår Marine Komposittrall</h3>
-                            <p className="mb-30 mt-10">Detta trall har flera funktioner som hjälper dig att välja det bästa för poolen</p>
-                            
-                                <strong>1. </strong>Fast dold<br/>
-                                <strong>2. </strong>Lövträ<br/>
-                                <strong>3. </strong>UV-färger<br/>
-                                <strong>4. </strong>Återvinningsbar<br/>
-                                <strong>5. </strong>Halkfritt<br/>
-                                <strong>6. </strong>Vattentät<br/>
-                            
-                            <h3 className="mb-30 mt-10">Entra Komposittrall</h3>
-                            <p className="mb-30 mt-10">Vårt Entra-trall är bäst för poolen med spår och tunga kan vara det bästa valet för dina pooler eftersom det är en slitstark hållbar design med högsta kvalitet.</p>
-                            <h4 className="mb-30 mt-10">Vår Framtida Premium Entra komposittrall</h4>
-                            
-                                <strong>1. </strong>Vi erbjuder garanterad kvalitet på smart trall<br/>
-                                <strong>2. </strong>Det är enkelt att installera<br/>
-                                <strong>3. </strong>Det är vindbeständigt<br/>
-                                <strong>4. </strong>UV-beständig<br/>
-                                <strong>5. </strong>Formbeständig<br/>
-                                <strong>6. </strong>Återvinningsbar<br/>
-                                <strong>7. </strong>Variabel i höjder<br/>
-                                <strong>8. </strong>Det motstår också blekning<br/>
-                            
-                            <h3 className="mb-30 mt-10">Green Planks Classic trall är Bästa valet av pool</h3>
-                            <p className="mb-30 mt-10">Vårt klassiska trall är ett klokt val för dina pooler, eftersom det är enkelt att ta hand om och rengöra. Det är också säkert att gå på med bara fötter eftersom det också är halksäkert.
-                                Framtiden av Green Planks Classic komposittrall</p>
-                            
-                                <strong>1. </strong>Vi erbjuder garanterad kvalitet på smart terrass<br/>
-                                <strong>2. </strong>Det är enkelt att installera<br/>
-                                <strong>3. </strong>Det är vindbeständigt<br/>
-                                <strong>4. </strong>UV-beständig<br/>
-                                <strong>5. </strong>Formbeständig<br/>
-                                <strong>6. </strong>Återvinningsbar<br/>
-                                <strong>7. </strong>Variabel i höjder<br/>
-                                <strong>8. </strong>Det motstår också blekning<br/>
-                            
+                            <p>For her på Green Plank tilbyder vi en bred vifte af moderne, trendy, holdbare vognmaterialer med garanteret kvalitet.
+                            </p>
+                            <h3 className="mb-30 mt-10">Kompositvogn
+                            </h3>
+                            <p className="mb-30 mt-10">Kompositvogn kan være nyttig for ejere og lystbådehavne og forsøger at finde en procentdel af vedligeholdelsesfrie dæk. Sammensatte belægninger er normalt blegemiddelresistente og behøver ikke at blive bejdset eller vandtætte i hele deres periode.
+                            </p>
+                            <p className="mb-30 mt-10">Her på Green Planks tilbyder vi belægninger af den højeste kvalitet, der er nævnt nedenfor
+                            </p>
+                            <strong>1. </strong>Smart trall
+                            <strong>2. </strong>Marine trall<br />
+                            <strong>3. </strong>Entra trall<br />
+                            <strong>4. </strong>Klassisk trall
+                            <h3 className="mb-30 mt-10">Hvorfor Green Planks Smart decking er bedst til din pool?
+                            </h3>
+                            <p className="mb-30 mt-10">Det er klogt at have smarte dæk i dine pools og hjem, da det er et holdbart design. Vi tilbyder mangfoldighed i vores produktserie til smarte terrasser.
+                                Disse er også nævnt nedenfor.</p>
+
+                            <strong>1. </strong>Smart klassisk<br />
+                            <strong>2. </strong>Smart Regular<br />
+                            <strong>3. </strong>Smart Prime<br />
+                            <strong>4. </strong>Smart Marine<br />
+                            <strong>5. </strong>Smart Plus<br />
+                            <strong>6. </strong>Smart keps<br />
+
+                            <h3 className="mb-30 mt-10">Fremtiden for Green Planks Smart vogn
+                            </h3>
+                            <p className="mb-30 mt-10">Vi tilbyder garanteret kvalitet på smart terrassebord
+                            </p>
+
+                            <strong>1. </strong>Det er let at installere
+                            <br />
+                            <strong>2. </strong>Det er vindtæt
+                            <br />
+                            <strong>3. </strong>UV-resistent
+                            <br />
+                            <strong>4. </strong>Formbestandig
+                            <br />
+                            <strong>5. </strong>Genanvendeligt
+                            <br />
+                            <strong>6. </strong>Variabel i højder
+                            <br />
+                            <strong>7. </strong>Det modstår også fading
+                            <br />
+
+                            <h3 className="mb-30 mt-10">Green Planks Exclusive Marine kompositvogn
+                            </h3>
+                            <p className="mb-30 mt-10">Vores marine terrassedækning er bedst til poolen med de markante udfordringer ved at blive udsat for vejr eller vand, vind og sol, mens vi er ivrige efter at bevare iboende strukturel integritet og være æstetisk tiltalende. Vores marine dæk er omhyggeligt designet og placeret i dette dæk vil ombygge en af ​​dørene til et moderne rum til at spise, slappe af eller for de unge at lege.
+                            </p>
+                            <p className="mb-30 mt-10">Vi har også en række produkter fra vores Exclusive Marine kompositvogn, der er bedst til poolen
+                            </p>
+
+                            <strong>1. </strong>Green Plank Marine-60 dæk
+                            <br />
+                            <strong>2. </strong>Green Plank Marine-40 trall
+                            <br />
+                            <strong>3. </strong>Green Plank Marine-Jumbo kraftig terrasse
+                            <br />
+                            <strong>4. </strong>Green Plank Marine-Cap trall
+                            <br />
+                            <strong>5. </strong>Green Plank Marine-Art trall
+                            <br />
+
+                            <h3 className="mb-30 mt-10">Hvorfor er vores marinevogn det bedste valg til din pool?
+                            </h3>
+
+                            <strong>1. </strong>Lavt potentiale
+                            <br />
+                            <strong>2. </strong>Garanti<br />
+                            <strong>3. </strong>Vækst af planter
+                            <br />
+                            <strong>4. </strong>Vedligeholdelse
+                            <br />
+                            <strong>5. </strong>Barfodet venligt
+                            <br />
+                            <strong>6. </strong>Rekonstruktion
+                            <br />
+
+                            <h3 className="mb-30 mt-10">De bedste funktioner i vores Marine Composite Trolley
+                            </h3>
+                            <p className="mb-30 mt-10">Dette dæk har flere funktioner, der hjælper dig med at vælge den bedste til din pool
+                            </p>
+
+                            <strong>1. </strong>Hurtigt skjult
+                            <br />
+                            <strong>2. </strong>Hårdttræ
+                            <br />
+                            <strong>3. </strong>UV farver
+                            <br />
+                            <strong>4. </strong>Genanvendeligt
+                            <br />
+                            <strong>5. </strong>Skridsikker<br />
+                            <strong>6. </strong>Vandtæt<br />
+
+                            <h3 className="mb-30 mt-10">Entra Komposittrall
+                            </h3>
+                            <p className="mb-30 mt-10">Vores Entra -vogn er bedst til poolen med spor og tung kan være det bedste valg til dine pools, da det er et holdbart, holdbart design med den højeste kvalitet.
+                            </p>
+                            <h4 className="mb-30 mt-10">Vores Future Premium Entra kompositvogn
+                            </h4>
+
+                            <strong>1. </strong>Vi tilbyder garanteret kvalitet på smart terrassebord
+                            <br />
+                            <strong>2. </strong>Det er let at installere
+                            <br />
+                            <strong>3. </strong>Det er vindtæt
+                            <br />
+                            <strong>4. </strong>UV-resistent
+                            <br />
+                            <strong>5. </strong>Formbestandig
+                            <br />
+                            <strong>6. </strong>Genanvendeligt<br />
+                            <strong>7. </strong>Variabel i højder
+                            <br />
+                            <strong>8. </strong>Det modstår også fading
+                            <br />
+
+                            <h3 className="mb-30 mt-10">Green Planks Classic decking er det bedste valg af pool
+                            </h3>
+                            <p className="mb-30 mt-10">Vores klassiske pynt er et klogt valg til dine pools, da det er let at passe og rengøre. Det er også sikkert at gå med bare fødder, da det også er skridsikkert.
+                                Fremtiden for Green Planks Classic kompositvogn</p>
+
+                            <strong>1. </strong>Vi tilbyder garanteret kvalitet på smart terrasse
+                            <br />
+                            <strong>2. </strong>Det er let at installere
+                            <br />
+                            <strong>3. </strong>Det er vindtæt
+                            <br />
+                            <strong>4. </strong>UV-resistent
+                            <br />
+                            <strong>5. </strong>Formbestandig
+                            <br />
+                            <strong>6. </strong>Genanvendeligt
+                            <br />
+                            <strong>7. </strong>Variabel i højder
+                            <br />
+                            <strong>8. </strong>Det modstår også fading
+                            <br />
+
                         </div>
                     </Col>
                 </Row>

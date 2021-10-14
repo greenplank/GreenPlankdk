@@ -75,7 +75,7 @@ const naturplankkompositplankagp7241 = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image11} className="img-fluid" alt="" />
+                                  <img src={Image11} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -107,8 +107,8 @@ const naturplankkompositplankagp7241 = () => {
 
                               <div className="row mt-60">
                                 <Grid container spacing={3}>
-                                  <Grid item xs={6} sm={4} lg={6}>
-                                  <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                  <Grid item xs={6} sm={3} lg={4}>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Prøveordre</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -118,22 +118,60 @@ const naturplankkompositplankagp7241 = () => {
                         </div>
                       </div>
                       {/*===============  End of Naturplank Section-2 content  =============*/}
-
+                      <div className="col-lg-12 mb-80">
+                        <div className="project-gallery-wrapper">
+                          <div className="row">
+                            <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
+                              <div className="project-details">
+                                <h2 className="mb-40 mt-20"><strong>produkt information</strong></h2>
+                                <h3>Farvevalg</h3>
+                                <p>
+                                  Studiefotografering og / eller din browserenhed giver muligvis ikke en nøjagtig gengivelse af farverne. For at se farverne personligt, bedes du anmode om gratis prøver.
+                                </p>
+                                <h3>Naturlige skønhed</h3>
+                                <p>
+                                  Vores produkter er designet til at ligne naturligt træ og kan have svag farve / struktur og skygge variationer fra plade til plade. Farvevariationen vil på ingen måde påvirke produktets ydeevne.</p>
+                                <h3>Oprethold skønheden</h3>
+                                <p>
+                                  Alle udvendige overflader opsamler snavs, støv og forurenende stoffer og skal rengøres. Det er nødvendigt at rengøre dit kompositdæk med jævne mellemrum for at holde det så smukt som den dag, du installerede det.</p>
+                              </div>
+                            </div>
+                            <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
+                              <div className="project-details">
+                                <h2 className="mb-40 mt-20"><strong>Pålidelig holdbarhed, overlegen kvalitet</strong></h2>
+                                <ul>
+                                  <li><strong>1. </strong>Installeret med HidLoc ™ skjulte fastgørelseselementer for at skabe ensartet overflade, hvilket gør det mere sikkert og behageligt for familier med børn og kæledyr.</li>
+                                  <li><strong>2. </strong>Flerfarvede striber på hvert bræt skaber et autentisk kornmønster, der inviterer dig til at slappe af og nyde dit personlige tropiske paradis.</li>
+                                  <li><strong>3. </strong>Karakteristisk indlægsdesign, stil og farveindstillinger</li>
+                                  <li><strong>4. </strong>Der kræves ingen årlig farvning, forsegling eller maling</li>
+                                  <li><strong>5. </strong>Ekstraordinær modstandsdygtighed over for UV-lys og farvetone</li>
+                                  <li><strong>6. </strong>Høj skridsikkerhed giver en sikker overflade, selv i våd tilstand</li>
+                                  <li><strong>7. </strong>Ekstremt lav vandabsorption</li>
+                                  <li><strong>8. </strong>Fri for giftige tilsætningsstoffer</li>
+                                  <li><strong>9. </strong>Velegnet til offentlig og privat sektor</li>
+                                  <li><strong>10. </strong>Splinter ikke, splittes, rådner eller kriger</li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                       {/*===============  Star Naturplank Section-6 content  ====================*/}
-                      <div className="col-12 mb-30 mt-80" >
-                        <h2>
-                          Ladda ner Pdfs</h2>
+                      <div className="col-12 mb-30 mt-20" >
+                        <h3>
+                          Download Pdfs
+                        </h3>
                         <hr />
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/greenplank-natural-fibers-compsoite-products-brochure-2020-english.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/plankor/Green-Plank-Kompositbrador-Installeringsanvisning.pdf">
-                              <img src={pdfimg3} className="img-fluid" alt="" />
+                            <a target="_blank" href="/pdfs/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019%20(1).pdf">
+                              <img src={pdfimg6} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>

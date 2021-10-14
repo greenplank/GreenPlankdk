@@ -10,10 +10,10 @@ import Head from "next/head";
 
 const HurmanbyggerenTrall = () => {
   return (
-    <Layout pageTitle="hur-man-bygger-en-trall-balkong-komplett-konstruktionsguide">
+    <Layout pageTitle="hvordan-til-bygge-en-vogn-altan-komplet-konstruktion-guide">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Hur-man-bygger-en-trall-balkong-komplett" crumbTitle="hur-man-bygger-en-trall-balkong" />
+      <PageHeader title="Sådan-bygger-en-vogn-altan-komplet" crumbTitle="hvordan man bygger en-vogn-altan" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -24,18 +24,26 @@ const HurmanbyggerenTrall = () => {
                         <div className="blog-inner">
                             <div className="media"><div className="image"><img src={blogImg} alt="" /></div></div>
                             <div className="content">
-                                <h2 className="title">Trall Balkong</h2>
+                                <h2 className="title">Trall Altan</h2>
                                 <div className="mb-30">
-                                    <p>En balkong är ett trevligt område att ta frisk luft på, gå på och känna sig mer avslappnad med naturen. Du kan förvandla din balkong till en mysigare plats genom att bygga en trall balkong. Balkonggolvet har sin betydelse; du kan göra det bekvämare att gå barfota på genom att bygga trall på golvet.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Att köpa ett trall till en balkong är en bra investering eftersom det är en underhållsfri yta som också ger din uteplats ett nytt utseende. Att gå på trall, oavsett om det är gjort av gummi, trä eller komposit, gör det till en trevlig upplevelse istället för att gå på ett kallt betonggolv.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Trall balkonger på finns i olika storlekar, material och utseende beroende på hur du vill att ditt golv på balkongen eller uteplatsen ska se ut.</p>
-                                    <h3 style={{marginBottom:30,marginTop:30}}>Lätt att installera lägga däck balkong
+                                    <p>En balkon er et dejligt område at tage frisk luft, gå på og føle sig mere afslappet med naturen. Du kan gøre din altan til et hyggeligere sted ved at bygge en altan på dækket. Balkongulvet har sin betydning; du kan gøre det mere behageligt at gå barfodet ved at bygge pynt på gulvet.
+</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>At købe et dæk til en altan er en god investering, fordi det er en vedligeholdelsesfri overflade, der også giver din terrasse et nyt udtryk. At gå på et dæk, uanset om det er lavet af gummi, træ eller komposit, gør det til en behagelig oplevelse i stedet for at gå på et koldt betongulv.
+</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>Terrasse altaner fås i forskellige størrelser, materialer og udseende alt efter hvordan du vil have dit gulv på altanen eller terrassen til at se ud.
+</p>
+                                    <h3 style={{marginBottom:30,marginTop:30}}>Let at installere lægterrasse altan
                                     </h3>
-                                    <p style={{marginBottom:30,marginTop:30}}>När du bestämmer vilket material som är bäst på din balkong och vilket utseende och färg, är det dags att lägga det på uteplatsen. Alla material har olika fördelar, så det är bara upp till dig och dina önskemål. Om du vill gå ut på ett naturligt trägolv eller föredra ett underhållsfritt balkonggolv av plywoodkomposit har vi ett brett sortiment. Du har också chansen att matcha dina trädgårdsmöbler med golvet. Om du blir ledsen över utseendet på ditt balkonggolv kan du enkelt byta ut det utan att behöva riva upp hela uteplatsen.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Du kan få billiga terrasser i olika storlekar och färger. Trall balkonger är konstruerade av antingen trä eller komposit vilket innebär att du har många alternativ att välja mellan för ditt balkongmaterial.</p>
-                                    <p style={{marginBottom:30,marginTop:30}}>Trall golv finns i olika färger så att du kan välja det som passar bäst på din balkong. Den billiga balkong är underhållsfri och gör det enkelt att ha en fin yta på balkongen.</p>
-                                    <p style={{marginBottom:30,marginTop:10}}>Vår billiga trall balkong är en fyrkantig låda som du kan använda för att bygga tillsammans och bilda ett golv. Med ett vagnfönster eller klickvagn kan du snabbt och relativt billigt sätta ihop din balkong eller uteplats. Att lägga en balkong trall på ditt golv på balkongen är enkelt. Enkelt underhåll, köp och installera. Du kan välja från ett brett utbud både när det gäller storlek och utseende.</p>
-                                    <p style={{marginBottom:30,marginTop:10}}>När du lägger trall plattor kommer du att kunna ändra hela golvutseendet tack vare det stora urvalet av olika färger, mönster och material.</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>Når du har besluttet, hvilket materiale der er bedst til din altan, og hvilket udseende og farve, er det tid til at lægge det på terrassen. Alle materialer har forskellige fordele, så det er bare op til dig og dine ønsker. Hvis du vil ud på et naturligt trægulv eller foretrækker et vedligeholdelsesfrit altangulv af krydsfinerkomposit, har vi et bredt sortiment. Du har også chancen for at matche dine havemøbler med gulvet. Hvis du er ked af udseendet på dit altangulv, kan du nemt udskifte det uden at skulle rive hele terrassen i stykker.
+</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>Du kan få billige terrasser i forskellige størrelser og farver. Terrasse altaner er konstrueret af enten træ eller komposit, hvilket betyder, at du har mange muligheder at vælge imellem til dit altanmateriale.
+</p>
+                                    <p style={{marginBottom:30,marginTop:30}}>Dækgulve fås i forskellige farver, så du kan vælge det, der passer bedst til din altan. Den billige altan er vedligeholdelsesfri og gør det let at have en flot overflade på altanen.
+</p>
+                                    <p style={{marginBottom:30,marginTop:10}}>Vores billige altan er en firkantet skuffe, som du kan bruge til at bygge sammen og danne et gulv. Med et bilvindue eller klikbil kan du hurtigt og relativt billigt samle din altan eller terrasse. Det er let at lægge et altandæk på dit gulv på balkonen. Let vedligeholdelse, køb og installation. Du kan vælge mellem en bred vifte både hvad angår størrelse og udseende.
+</p>
+                                    <p style={{marginBottom:30,marginTop:10}}>Når du lægger flisebelægninger, vil du kunne ændre hele gulvets udseende takket være det store udvalg af forskellige farver, mønstre og materialer.
+</p>
 
                                 </div>
                             </div>
